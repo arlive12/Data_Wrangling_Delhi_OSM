@@ -1,0 +1,5290 @@
+id,key,value,type
+16173236,capital,2,regular
+16173236,is_capital,country,regular
+16173236,is_in,"National Capital Region, NCR, India",regular
+16173236,continent,Asia,is_in
+16173236,country,IN,is_in
+16173236,country_code,IN,is_in
+16173236,iso_3166_2,IN-DL,is_in
+16173236,name,New Delhi,regular
+16173236,ace,New delhi,name
+16173236,af,Nieu-Delhi,name
+16173236,am,ኒው ዴሊ,name
+16173236,an,Nueva Delhi,name
+16173236,ang,Nīƿe Delhi,name
+16173236,ar,نيودلهي,name
+16173236,bat-smg,Naujasės Delės,name
+16173236,be,Нью-Дэлі,name
+16173236,be-tarask,Нью-Дэлі,name
+16173236,bg,Ню Делхи,name
+16173236,bn,নতুন দিল্লি,name
+16173236,bo,ནེའུ་དིལ་ལི།,name
+16173236,bpy,নুৱা দিল্লী,name
+16173236,br,New Delhi,name
+16173236,bs,New Delhi,name
+16173236,ca,Nova Delhi,name
+16173236,cbk-zam,Nueva Delhi,name
+16173236,ckb,نیودلھی,name
+16173236,co,New Delhi,name
+16173236,crh,Nyu Deli,name
+16173236,cs,Nové Dillí,name
+16173236,cy,Delhi Newydd,name
+16173236,da,New Delhi,name
+16173236,de,Neu-Delhi,name
+16173236,diq,Delhiyo Newe,name
+16173236,dv,ނިއުދިއްލީ,name
+16173236,el,Νέο Δελχί,name
+16173236,en,New Delhi,name
+16173236,eo,Nov-Delhio,name
+16173236,es,Nueva Delhi,name
+16173236,et,New Delhi,name
+16173236,eu,New Delhi,name
+16173236,ext,Nueva Delhi,name
+16173236,fa,دهلی نو,name
+16173236,fi,New Delhi,name
+16173236,fiu-vro,New Delhi,name
+16173236,fr,New Delhi,name
+16173236,fy,Nij Delly,name
+16173236,ga,Nua-Deilí,name
+16173236,gd,New Delhi,name
+16173236,gl,Nova Deli - नई दिल्ली,name
+16173236,gv,Delhi Noa,name
+16173236,he,ניו דלהי,name
+16173236,hi,नई दिल्ली,name
+16173236,hif,New Delhi,name
+16173236,hr,New Delhi,name
+16173236,ht,Niou Deli,name
+16173236,hu,Újdelhi,name
+16173236,hy,Նյու Դելի,name
+16173236,ia,Nove Delhi,name
+16173236,id,New Delhi,name
+16173236,io,Nova-Delhi,name
+16173236,is,Nýja Delí,name
+16173236,it,Nuova Delhi,name
+16173236,ja,ニューデリー,name
+16173236,jv,New Delhi,name
+16173236,ka,ნიუ-დელი,name
+16173236,kk,Нью-Дели,name
+16173236,kl,New Delhi,name
+16173236,kn,ಹೊಸ ದೆಹಲಿ,name
+16173236,ko,뉴델리,name
+16173236,ks,نٔو دلھی,name
+16173236,ku,Delhiya Nû,name
+16173236,la,Dellium Novum,name
+16173236,lb,Nei-Delhi,name
+16173236,lij,Neuva Delhi,name
+16173236,lmo,New Delhi,name
+16173236,lt,Naujasis Delis,name
+16173236,lv,Ņūdeli,name
+16173236,mg,New Delhi,name
+16173236,mi,New Delhi,name
+16173236,mk,Њу Делхи,name
+16173236,ml,ന്യൂ ഡെൽഹി,name
+16173236,mn,Шинэ Дели,name
+16173236,mr,नवी दिल्ली,name
+16173236,ms,New Delhi,name
+16173236,my,နယူးဒေလီမြို့,name
+16173236,mzn,نو دهلی,name
+16173236,nah,Yancuīc Deli,name
+16173236,ne,नयाँ दिल्ली,name
+16173236,nl,New Delhi,name
+16173236,nn,New Delhi,name
+16173236,no,New Delhi,name
+16173236,nov,Novi Deli,name
+16173236,oc,Nòva Delhi,name
+16173236,os,Нью-Дели,name
+16173236,pa,ਨਵੀਂ ਦਿੱਲੀ,name
+16173236,pam,New Delhi,name
+16173236,pl,Nowe Delhi,name
+16173236,pms,New Delhi,name
+16173236,pnb,نئی دلی,name
+16173236,pt,Nova Deli,name
+16173236,qu,Musuq Dilhi,name
+16173236,ro,New Delhi,name
+16173236,ru,Нью-Дели,name
+16173236,sa,नवदेहली,name
+16173236,sah,Саҥа Дели,name
+16173236,scn,Nova Delhi,name
+16173236,sco,New Delhi,name
+16173236,si,නව දිල්ලිය,name
+16173236,simple,New Delhi,name
+16173236,sk,Naí Dillí,name
+16173236,sl,New Delhi,name
+16173236,so,New Delhi,name
+16173236,sq,New Delhi,name
+16173236,sr,Њу Делхи,name
+16173236,sv,New Delhi,name
+16173236,sw,New Delhi,name
+16173236,ta,புது தில்லி,name
+16173236,te,క్రొత్త ఢిల్లీ,name
+16173236,tg,Ню-Дели,name
+16173236,th,นิวเดลี,name
+16173236,tl,Bagong Delhi,name
+16173236,tr,Yeni Delhi,name
+16173236,ug,Yéngi Déhli,name
+16173236,uk,Нью-Делі,name
+16173236,ur,نئی دہلی,name
+16173236,vi,Tân Delhi,name
+16173236,war,New Delhi,name
+16173236,yi,ניי דעלי,name
+16173236,yo,New Delhi,name
+16173236,zh,新德里,name
+16173236,zh-min-nan,Sin Delhi,name
+16173236,zh-yue,新德里,name
+16173236,place,city,regular
+16173236,population,249998,regular
+16173236,date,2011,population
+16173236,wikipedia,en:New Delhi,regular
+60890273,highway,traffic_signals,regular
+246518180,highway,traffic_signals,regular
+246518184,highway,traffic_signals,regular
+246518188,highway,traffic_signals,regular
+249235041,name,Dwarka Sector 12,regular
+249235041,network,DMRC,regular
+249235041,railway,station,regular
+249235042,name,Dwarka Sector 13,regular
+249235042,network,DMRC,regular
+249235042,railway,station,regular
+249235048,name,Dwarka,regular
+249235048,network,DMRC,regular
+249235048,railway,station,regular
+249235048,ref,DWK,regular
+249782343,created_by,JOSM,regular
+249783293,highway,traffic_signals,regular
+249783302,highway,traffic_signals,regular
+249783316,highway,traffic_signals,regular
+249786891,created_by,JOSM,regular
+249786892,created_by,JOSM,regular
+249791204,highway,traffic_signals,regular
+249791560,highway,traffic_signals,regular
+249823531,name,Dwarka Sector 14,regular
+249823531,network,DMRC,regular
+249823531,railway,station,regular
+249823552,name,Dwarka Morh,regular
+249823552,network,DMRC,regular
+249823552,railway,station,regular
+249823558,name,Nawada,regular
+249823558,network,DMRC,regular
+249823558,railway,station,regular
+249823566,name,Uttam Nagar West,regular
+249823566,network,DMRC,regular
+249823566,railway,station,regular
+249823630,name,Rajouri Garden,regular
+249823630,network,DMRC,regular
+249823630,railway,station,regular
+249823635,name,Ramesh Nagar,regular
+249823635,network,DMRC,regular
+249823635,railway,station,regular
+249823920,highway,traffic_signals,regular
+249823949,highway,traffic_signals,regular
+250075250,crossing,unmarked,regular
+250075250,crossing_ref,zebra,regular
+250075250,highway,traffic_signals,regular
+250100211,created_by,JOSM,regular
+250100228,created_by,JOSM,regular
+250100236,created_by,JOSM,regular
+250100238,created_by,JOSM,regular
+250100240,created_by,JOSM,regular
+250100241,created_by,JOSM,regular
+250100246,created_by,JOSM,regular
+250100395,created_by,JOSM,regular
+250102756,highway,traffic_signals,regular
+266809614,historic,monument,regular
+266809614,name,11 Murthi,regular
+266809614,tourism,attraction,regular
+266809747,highway,traffic_signals,regular
+267075196,crossing,traffic_signals,regular
+267075196,highway,traffic_signals,regular
+267193283,highway,crossing,regular
+267196276,crossing,traffic_signals,regular
+267196276,highway,traffic_signals,regular
+267197835,highway,traffic_signals,regular
+267197902,highway,crossing,regular
+267250972,highway,traffic_signals,regular
+267250994,highway,traffic_signals,regular
+267259255,highway,traffic_signals,regular
+268212523,highway,traffic_signals,regular
+268212543,highway,traffic_signals,regular
+268212561,highway,traffic_signals,regular
+268217229,name,Patel Nagar (East),regular
+268217229,network,DMRC,regular
+268217229,railway,station,regular
+268381457,name,Pratap Nagar,regular
+268381457,network,DMRC,regular
+268381457,railway,station,regular
+268381463,name,Pul Bangash,regular
+268381463,network,DMRC,regular
+268381463,railway,station,regular
+268381477,name,Kashmere Gate,regular
+268381477,network,DMRC,regular
+268381477,operator,Delhi Metro,regular
+268381477,railway,station,regular
+277420266,amenity,fuel,regular
+277420266,name,HP Petrol Pump,regular
+277420278,name,Ansal Plaza,regular
+277420278,shop,supermarket,regular
+277420294,amenity,fuel,regular
+277420294,name,Indian Oil Petrol Pump,regular
+277420295,highway,bus_stop,regular
+277792200,highway,bus_stop,regular
+278163948,highway,bus_stop,regular
+278164511,highway,bus_stop,regular
+280740678,highway,traffic_signals,regular
+280740682,highway,traffic_signals,regular
+280741143,amenity,bank,regular
+280741143,atm,yes,regular
+280741143,name,AXIS Bank,regular
+280741143,operator,Canara Bank,regular
+282138885,highway,traffic_signals,regular
+291542749,highway,traffic_signals,regular
+291542967,highway,traffic_signals,regular
+291542975,highway,crossing,regular
+291542988,highway,traffic_signals,regular
+292443477,highway,traffic_signals,regular
+301037210,highway,traffic_signals,regular
+301037211,highway,traffic_signals,regular
+301037275,highway,traffic_signals,regular
+301037313,highway,traffic_signals,regular
+301037318,highway,traffic_signals,regular
+301037319,highway,traffic_signals,regular
+307369202,highway,traffic_signals,regular
+308719791,highway,traffic_signals,regular
+308723085,highway,traffic_signals,regular
+308884530,highway,traffic_signals,regular
+308887236,name,Teen Murti,regular
+308887236,tourism,attraction,regular
+308889041,name,Rashtrapati Bhawan,regular
+308889041,old_name,Viceroy's Residence,regular
+308889041,tourism,attraction,regular
+308890384,highway,traffic_signals,regular
+308894056,city,New Delhi,addr
+308894056,postcode,110003,addr
+308894056,street,"Sujan Singh Park, Subramania Bharti Marg,Behind Khan Market",addr
+308894056,name,The Ambassador,regular
+308894056,operator,Vivanta by Taj,regular
+308894056,phone,+91 11 6626 1000,regular
+308894056,tourism,hotel,regular
+308894056,website,http://www.vivantabytaj.com/Ambassador-New-Delhi/Overview.html,regular
+308894803,amenity,restaurant,regular
+308894803,created_by,Potlatch 0.10f,regular
+308895564,alt_name,Irwin Amphi-theatre,regular
+308895564,leisure,stadium,regular
+308895564,name,"Major Dhyan Chand, National Stadium",regular
+308895564,sport,hockey,regular
+309249828,power,tower,regular
+309249829,power,tower,regular
+309249831,power,tower,regular
+309249833,power,tower,regular
+309249834,power,tower,regular
+309249835,power,tower,regular
+309249836,power,tower,regular
+309250477,power,tower,regular
+309640064,created_by,Potlatch 0.10f,regular
+309640064,leisure,stadium,regular
+309640064,name,Talkatora Stadium,regular
+309861440,amenity,embassy,regular
+309861440,country,US,regular
+309861440,name,US Embassy New Delhi,regular
+309862764,highway,crossing,regular
+309911790,power,tower,regular
+311963955,name,Kohat Enclave,regular
+311963955,network,DMRC,regular
+311963955,railway,station,regular
+312102918,amenity,fuel,regular
+315999024,highway,traffic_signals,regular
+315999025,highway,traffic_signals,regular
+315999027,highway,bus_stop,regular
+315999028,highway,bus_stop,regular
+315999029,highway,bus_stop,regular
+315999030,highway,bus_stop,regular
+316066079,highway,traffic_signals,regular
+316066090,highway,traffic_signals,regular
+316066105,highway,traffic_signals,regular
+316376854,highway,traffic_signals,regular
+316376856,highway,traffic_signals,regular
+316376857,highway,traffic_signals,regular
+316376858,highway,traffic_signals,regular
+316376859,highway,traffic_signals,regular
+316376860,name,South Moti Bagh,regular
+316376860,place,locality,regular
+316376861,highway,bus_stop,regular
+316376864,power,tower,regular
+316416994,vi,Dilli,alt_name
+316416994,description,"Same level as an Indian State, but ruled directly by the federal national government",regular
+316416994,dsg,ADM1,gns
+316416994,uni,9349459,gns
+316416994,country,IN,is_in
+316416994,country_code,IN,is_in
+316416994,name,Delhi,regular
+316416994,de,Nationales Hauptstadtterritorium Delhi,name
+316416994,en,Delhi,name
+316416994,hi,दिल्ली,name
+316416994,hu,Delhi,name
+316416994,ja,デリー,name
+316416994,kn,ದೆಹಲಿ,name
+316416994,ru,Дели,name
+316416994,ta,டெல்லி,name
+316416994,uk,Делі,name
+316416994,ur,دہلی,name
+316416994,vi,Delhi,name
+316416994,official_name,National Capital Territory of Delhi,regular
+316416994,vi,Lãnh thổ Thủ đô Quốc gia Delhi,official_name
+316416994,place,state,regular
+316416994,source,GNS,regular
+316463562,highway,traffic_signals,regular
+325522712,alt_name,Ram Krishna Puram,regular
+325522712,name,R K Puram,regular
+325522712,place,suburb,regular
+345234440,name,Rajendra Place,regular
+345234440,network,DMRC,regular
+345234440,railway,station,regular
+345234441,name,Karol Bagh,regular
+345234441,network,DMRC,regular
+345234441,railway,station,regular
+345234443,name,Jhandewalan,regular
+345234443,network,DMRC,regular
+345234443,railway,station,regular
+345265020,amenity,fuel,regular
+345265074,amenity,fuel,regular
+345279532,amenity,hospital,regular
+345279532,name,Safdarjung Medical Campus,regular
+345297921,created_by,Potlatch 0.10f,regular
+347676531,name,Kirti Nagar,regular
+347676531,network,DMRC,regular
+347676531,railway,station,regular
+347676595,name,Shadipur,regular
+347676595,network,DMRC,regular
+347676595,railway,station,regular
+347676947,name,Moti Nagar,regular
+347676947,network,DMRC,regular
+347676947,railway,station,regular
+347677816,name,Tilak Nagar,regular
+347677816,network,DMRC,regular
+347677816,railway,station,regular
+347685176,name,Uttam Nagar East,regular
+347685176,network,DMRC,regular
+347685176,railway,station,regular
+347685192,name,Janakpuri West,regular
+347685192,network,DMRC,regular
+347685192,railway,station,regular
+355435723,highway,bus_stop,regular
+355435728,highway,bus_stop,regular
+355435738,highway,bus_stop,regular
+355435740,highway,bus_stop,regular
+355435744,highway,traffic_signals,regular
+355435746,highway,traffic_signals,regular
+355435748,highway,bus_stop,regular
+355435749,highway,bus_stop,regular
+355435751,highway,bus_stop,regular
+355435755,highway,bus_stop,regular
+355435759,highway,traffic_signals,regular
+355436031,amenity,post_box,regular
+355436037,amenity,atm,regular
+355436037,name,ICICI Bank,regular
+355436042,amenity,fast_food,regular
+355436042,name,Dominos Pizza,regular
+355436044,highway,bus_stop,regular
+355436048,name,Sarojini Nagar,regular
+355436048,place,suburb,regular
+355436075,highway,bus_stop,regular
+355436079,amenity,atm,regular
+367276753,amenity,place_of_worship,regular
+367276753,religion,muslim,regular
+367288537,amenity,university,regular
+367288537,name,Jamia Millia Islamia,regular
+370584997,city,New Delhi,addr
+370584997,housenumber,12,addr
+370584997,postcode,110011,addr
+370584997,street,Aurangzeb Road,addr
+370584997,name,Claridges Hotel,regular
+370584997,operator,Claridges Hotels Pvt. Ltd.,regular
+370584997,phone,+91 11 3955 5000,regular
+370584997,tourism,hotel,regular
+370584997,website,http://www.claridges.com/index.asp,regular
+372717372,amenity,fire_station,regular
+395135106,highway,traffic_signals,regular
+395135138,highway,traffic_signals,regular
+410057618,area,yes,regular
+410057646,colour,yellow,regular
+410057646,name,New Delhi Metro Station Gate 1,regular
+410057646,network,DMRC,regular
+410057646,railway,subway_entrance,regular
+410058536,name,Paharganj,regular
+410058536,place,locality,regular
+410403385,type,public,aerodrome
+410403385,aeroway,aerodrome,regular
+410403385,closest_town,New Delhi,regular
+410403385,ele,215,regular
+410403385,icao,VIDD,regular
+410403385,country,IN,is_in
+410403385,military,airfield,regular
+410403385,name,Safdarjung Airport,regular
+410403385,operator,Airports Authority of India,regular
+410403385,source,wikipedia,regular
+410403385,wikipedia,en:Safdarjung_Airport,regular
+423735524,highway,traffic_signals,regular
+423735534,highway,traffic_signals,regular
+423735535,name,Safdurjung Enclave,regular
+423735535,place,locality,regular
+423735550,highway,traffic_signals,regular
+423735551,highway,traffic_signals,regular
+423735552,highway,traffic_signals,regular
+423735599,name,Bikaji Cama Place,regular
+423735599,place,locality,regular
+427851175,crossing,unmarked,regular
+427851175,crossing_ref,zebra,regular
+427851175,highway,traffic_signals,regular
+427851286,crossing,unmarked,regular
+427851286,crossing_ref,zebra,regular
+427851286,highway,traffic_signals,regular
+432874004,highway,traffic_signals,regular
+432874009,highway,traffic_signals,regular
+436899977,name,Taj Mahal Hotel,regular
+436899977,tourism,hotel,regular
+436905721,amenity,post_office,regular
+436905721,name,Head Post Office (GPO),regular
+438049077,landuse,commercial,regular
+438049077,name,CRIS Office - Centre for Railways Information Systems,regular
+438049078,landuse,commercial,regular
+438049078,name,Jawahar Vyapar Bhavan - IRCTC Office,regular
+438049079,landuse,commercial,regular
+438049079,name,Kidwai Bhuvan,regular
+438049081,landuse,commercial,regular
+438049081,name,Bharat Sanchar Bhuvan - BSNL HQ,regular
+438049082,amenity,hospital,regular
+438049082,name,Moolchand Hospital,regular
+438049083,amenity,restaurant,regular
+438049083,name,Flavours Restaurant,regular
+441177831,highway,motorway_junction,regular
+441177831,name,Dhaula Kuan Flyover,regular
+441177864,name,ITC Sheraton Hotel and Towers,regular
+441177864,operator,ITC,regular
+441177864,tourism,hotel,regular
+441177864,website,http://www.itcwelcomgroup.in/Hotels/itcmaurya.aspx,regular
+441177878,name,The Oberoi,regular
+441177878,operator,Oberoi,regular
+441177878,tourism,hotel,regular
+441185723,name,Zoo - National Zoological Park,regular
+441185723,tourism,attraction,regular
+442110900,name,Hotel Surya,regular
+442110900,tourism,hotel,regular
+442789388,highway,traffic_signals,regular
+442789389,highway,traffic_signals,regular
+450640554,highway,traffic_signals,regular
+458640736,highway,traffic_signals,regular
+464963953,highway,traffic_signals,regular
+464963956,highway,traffic_signals,regular
+464964031,source,AND,regular
+496457075,barrier,entrance,regular
+496457075,bicycle,yes,regular
+496457075,foot,yes,regular
+496457075,motorcar,yes,regular
+496457075,motorcycle,yes,regular
+496457099,amenity,fuel,regular
+496457099,name,Indraprastha Gas Limited,regular
+496457100,leisure,park,regular
+496457100,name,Rajiv Gandhi Smriti Sthal,regular
+496457107,amenity,bus_station,regular
+496457116,amenity,fuel,regular
+496457116,name,Indian Oil,regular
+496457118,amenity,fuel,regular
+496457118,name,Indraprastha Gas Limited,regular
+496457123,highway,bus_stop,regular
+496457123,name,Indraprastha Depot,regular
+496457125,highway,bus_stop,regular
+496457127,highway,bus_stop,regular
+496457127,name,Indira Gandhi Stadium,regular
+496457127,shelter,yes,regular
+496457133,amenity,grave_yard,regular
+496457133,name,Samata Sthal,regular
+496457138,amenity,grave_yard,regular
+496457138,name,Rajghat,regular
+496457140,amenity,grave_yard,regular
+496457140,name,Veer Bhumi,regular
+496457144,highway,bus_stop,regular
+496457144,name,Vijay Ghat,regular
+496457144,shelter,yes,regular
+496457148,highway,bus_stop,regular
+496457148,shelter,yes,regular
+496489163,crossing,unmarked,regular
+496489163,crossing_ref,zebra,regular
+496489163,highway,traffic_signals,regular
+498724140,amenity,grave_yard,regular
+498724140,name,Shanti Van,regular
+498724141,amenity,grave_yard,regular
+498724141,name,Shakti Sthal,regular
+545550399,highway,motorway_junction,regular
+545550399,name,AIIMS Flyover,regular
+545639793,name,Round Tree,regular
+545639793,natural,tree,regular
+545641337,amenity,parking,regular
+545641337,capacity,40,regular
+545641337,disabled,yes,capacity
+545641337,parent,yes,capacity
+545641337,women,unknown,capacity
+545641337,fee,no,regular
+545641337,name,TBS Parking,regular
+545641337,park_ride,no,regular
+545641337,parking,surface,regular
+545641483,amenity,school,regular
+545641483,name,Secondary School,regular
+545764554,natural,tree,regular
+545764558,natural,tree,regular
+545764570,natural,tree,regular
+545764574,natural,tree,regular
+545764576,natural,tree,regular
+545764580,natural,tree,regular
+545764585,natural,tree,regular
+545764589,natural,tree,regular
+545764593,natural,tree,regular
+545764597,name,Tree British School,regular
+545764597,natural,tree,regular
+545764607,name,Tree British School,regular
+545764607,natural,tree,regular
+545764610,name,Tree British School,regular
+545764610,natural,tree,regular
+545764614,name,Tree British School,regular
+545764614,natural,tree,regular
+545764623,natural,tree,regular
+545764627,natural,tree,regular
+545764631,natural,tree,regular
+545764635,natural,tree,regular
+545764645,natural,tree,regular
+545764648,natural,tree,regular
+545764652,natural,tree,regular
+545764656,natural,tree,regular
+545764663,natural,tree,regular
+545764668,natural,tree,regular
+545764671,natural,tree,regular
+545764674,natural,tree,regular
+545764683,natural,tree,regular
+545764686,natural,tree,regular
+545764690,natural,tree,regular
+545764693,natural,tree,regular
+545764699,natural,tree,regular
+545764700,natural,tree,regular
+545764701,natural,tree,regular
+545764702,natural,tree,regular
+545774388,natural,tree,regular
+545774389,natural,tree,regular
+545774390,natural,tree,regular
+545774391,natural,tree,regular
+545774392,natural,tree,regular
+545774393,natural,tree,regular
+545774394,natural,tree,regular
+545774395,natural,tree,regular
+545774396,natural,tree,regular
+545774397,natural,tree,regular
+545774398,natural,tree,regular
+545774399,natural,tree,regular
+545774400,natural,tree,regular
+545774401,natural,tree,regular
+545774402,natural,tree,regular
+545774404,natural,tree,regular
+549750152,highway,motorway_junction,regular
+549750152,name,Moti Bagh Flyover,regular
+549750153,junction,yes,regular
+549750153,name,Bikaji Kama Place Flyover,regular
+549750154,highway,motorway_junction,regular
+549750154,name,South Ext Flyover,regular
+549750156,highway,motorway_junction,regular
+549750156,name,Moolchand Crossing,regular
+549750157,highway,motorway_junction,regular
+549750157,name,Ashram Flyover,regular
+549750158,highway,motorway_junction,regular
+549750158,name,Noida Bridge,regular
+549750159,highway,motorway_junction,regular
+549750159,name,Lajpat Nagar Flyover,regular
+554257785,name,Malviya Nagar,regular
+554257785,network,DMRC,regular
+554257785,railway,station,regular
+554257787,name,Hauz Khas,regular
+554257787,network,DMRC,regular
+554257787,railway,station,regular
+554257789,name,Green Park,regular
+554257789,network,DMRC,regular
+554257789,railway,station,regular
+554257793,name,INA,regular
+554257793,network,DMRC,regular
+554257793,railway,station,regular
+554257797,name,Race Course,regular
+554257797,network,DMRC,regular
+554257797,railway,station,regular
+554257800,name,Udyog Bhavan,regular
+554257800,network,DMRC,regular
+554257800,railway,station,regular
+554257805,name,Jor Bagh,regular
+554257805,network,DMRC,regular
+554257805,railway,station,regular
+554257818,name,Patel Chowk,regular
+554257818,network,DMRC,regular
+554257818,railway,station,regular
+554257820,name,Ramakrishna Ashram Marg,regular
+554257820,network,DMRC,regular
+554257820,railway,station,regular
+554257824,name,Pragati Maidan,regular
+554257824,network,DMRC,regular
+554257824,railway,station,regular
+554257827,name,Mandi House,regular
+554257827,network,DMRC,regular
+554257827,railway,station,regular
+554257831,name,Indraprastha,regular
+554257831,network,DMRC,regular
+554257831,railway,station,regular
+554257833,name,ONGC Shivaji Stadium,regular
+554257833,network,DMRC,regular
+554257833,railway,station,regular
+554257839,name,Barakhambha Road,regular
+554257839,network,DMRC,regular
+554257839,railway,station,regular
+554257841,name,New Delhi,regular
+554257841,network,DMRC,regular
+554257841,railway,station,regular
+554257841,ref,NDLS,regular
+554257842,name,Chawri Bazaar,regular
+554257842,network,DMRC,regular
+554257842,railway,station,regular
+554257844,name,Yamuna Bank,regular
+554257844,network,DMRC,regular
+554257844,railway,station,regular
+554257862,name,Chandni Chowk Metro Station,regular
+554257862,network,DMRC,regular
+554257862,operator,Delhi Metro,regular
+554257862,railway,station,regular
+560827592,highway,traffic_signals,regular
+560832888,highway,traffic_signals,regular
+561254915,name,Parliament Reception,regular
+561254915,tourism,information,regular
+561254916,amenity,library,regular
+561254916,name,Parliament Library,regular
+561254917,name,Parliament Museum,regular
+561254917,tourism,museum,regular
+561254917,wikipedia,en:Parliament Museum,regular
+561299050,name,Connaught Place,regular
+561299050,place,neighbourhood,regular
+561300694,comment,delhi metro,regular
+561300694,name,Civil Lines,regular
+561300694,network,DMRC,regular
+561300694,railway,station,regular
+561306743,name,Safdarjung,regular
+561306743,place,neighbourhood,regular
+561316957,city,Delhi,addr
+561316957,housename,Oddway International,addr
+561316957,housenumber,5A / 7,addr
+561316957,postcode,110002,addr
+561316957,street,"5a , Ansari Road",addr
+561316957,name,Oddway International,regular
+561316957,phone,+91-9873336444,regular
+561316957,place,"Pharma_exporter,_delhi",regular
+561316957,products,"Geftinat , Veenat , erlonat , kamagra , cancer , HIV Aids",regular
+561316957,source,Natco Pharma dealer n exporter,regular
+561316957,website,http://www.oddwayinternational.com,regular
+561316983,name,Tis Hazari,regular
+561316983,network,DMRC,regular
+561316983,railway,station,regular
+561316983,wheelchair,yes,regular
+562620239,name,Jawaharlal Nehru Stadium,regular
+562620239,network,DMRC,regular
+562620239,railway,station,regular
+562620241,name,Jangpura,regular
+562620241,network,DMRC,regular
+562620241,railway,station,regular
+562620806,name,Lajpat Nagar,regular
+562620806,network,DMRC,regular
+562620806,railway,station,regular
+562620806,ref,LPNR,regular
+562620810,name,Moolchand,regular
+562620810,network,DMRC,regular
+562620810,railway,station,regular
+562622101,name,Jasola,regular
+562622101,network,DMRC,regular
+562622101,railway,station,regular
+562622242,name,Sarita Vihar,regular
+562622242,network,DMRC,regular
+562622242,railway,station,regular
+563097208,highway,traffic_signals,regular
+563097220,highway,traffic_signals,regular
+563126327,amenity,atm,regular
+563126330,amenity,atm,regular
+563126381,highway,traffic_signals,regular
+563126414,highway,traffic_signals,regular
+563126415,highway,traffic_signals,regular
+563126416,highway,traffic_signals,regular
+563659511,highway,crossing,regular
+563659578,name,Chanakyapuri,regular
+563659578,place,suburb,regular
+563659664,name,Police Memorial,regular
+563659664,tourism,attraction,regular
+563661880,railway,buffer_stop,regular
+563661896,highway,mini_roundabout,regular
+563661900,highway,mini_roundabout,regular
+566188831,historic,monument,regular
+566188831,name,Jantar Mantar,regular
+566188831,tourism,attraction,regular
+566200829,amenity,Ksan Ghat,regular
+568360001,housenumber,825,addr
+568360001,postcode,110006,addr
+568360001,street,Chandni Chowk,addr
+568360001,amenity,veterinary,regular
+568360001,name,Jain Bird Hospital,regular
+587754665,amenity,school,regular
+587754665,name,St Mary's School,regular
+591430882,amenity,school,regular
+591430882,name,Father Agnel School,regular
+600644828,name,Madipur,regular
+600644828,railway,station,regular
+600644865,name,Shivaji Park,regular
+600644865,network,DMRC,regular
+600644865,railway,station,regular
+600645512,name,Paschim Vihar East,regular
+600645512,network,DMRC,regular
+600645512,railway,station,regular
+608435824,city,New Delhi,addr
+608435824,country,IN,addr
+608435824,housenumber,R-500,addr
+608435824,postcode,110060,addr
+608435824,street,Pamposh Road,addr
+608435824,name,Master Guest House,regular
+608435824,phone,+ 91 (11) 28741089,regular
+608435824,smoking,outside,regular
+608435824,source,local knowledge,regular
+608435824,tourism,guest_house,regular
+608435824,website,http://master-guesthouse.com/,regular
+610886106,name,Subhash Nagar,regular
+610886106,network,DMRC,regular
+610886106,railway,station,regular
+610889203,name,Paschim Vihar West,regular
+610889203,network,DMRC,regular
+610889203,railway,station,regular
+611105438,street,Main Bazaar,addr
+611105438,amenity,pub,regular
+611105438,name,MyBar,regular
+613342453,amenity,post_box,regular
+613342453,postcode,110022,regular
+616563684,amenity,atm,regular
+616563687,highway,traffic_signals,regular
+616563690,name,Naya Bazaar,regular
+616563690,place,neighbourhood,regular
+616563762,amenity,parking,regular
+616563795,amenity,marketplace,regular
+616563795,name,Lajpat Rai Market,regular
+616575113,city,Delhi,addr
+616575113,country,IN,addr
+616575113,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575113,housenumber,848,addr
+616575113,postcode,100006,addr
+616575113,state,Delhi,addr
+616575113,street,S1,addr
+616575114,city,Delhi,addr
+616575114,country,IN,addr
+616575114,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575114,housenumber,823,addr
+616575114,postcode,100006,addr
+616575114,state,Delhi,addr
+616575114,street,S1,addr
+616575115,city,Delhi,addr
+616575115,country,IN,addr
+616575115,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575115,housenumber,822,addr
+616575115,postcode,100006,addr
+616575115,state,Delhi,addr
+616575115,street,S1,addr
+616575116,city,Delhi,addr
+616575116,country,IN,addr
+616575116,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575116,housenumber,771,addr
+616575116,postcode,100006,addr
+616575116,state,Delhi,addr
+616575116,street,S1,addr
+616575117,city,Delhi,addr
+616575117,country,IN,addr
+616575117,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575117,housenumber,770,addr
+616575117,postcode,100006,addr
+616575117,state,Delhi,addr
+616575117,street,S1,addr
+616575119,city,Delhi,addr
+616575119,country,IN,addr
+616575119,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575119,housenumber,711,addr
+616575119,postcode,100006,addr
+616575119,state,Delhi,addr
+616575119,street,S1,addr
+616575122,city,Delhi,addr
+616575122,country,IN,addr
+616575122,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575122,housenumber,710,addr
+616575122,postcode,100006,addr
+616575122,state,Delhi,addr
+616575122,street,S1,addr
+616575122,name,Solar Panels,regular
+616575122,shop,electronics,regular
+616575125,city,Delhi,addr
+616575125,country,IN,addr
+616575125,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575125,housenumber,798,addr
+616575125,postcode,100006,addr
+616575125,state,Delhi,addr
+616575125,street,S1,addr
+616575127,city,Delhi,addr
+616575127,country,IN,addr
+616575127,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575127,housenumber,797,addr
+616575127,postcode,100006,addr
+616575127,state,Delhi,addr
+616575127,street,S1,addr
+616575130,city,Delhi,addr
+616575130,country,IN,addr
+616575130,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575130,housenumber,740,addr
+616575130,postcode,100006,addr
+616575130,state,Delhi,addr
+616575130,street,S1,addr
+616575132,city,Delhi,addr
+616575132,country,IN,addr
+616575132,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575132,housenumber,739,addr
+616575132,postcode,100006,addr
+616575132,state,Delhi,addr
+616575132,street,S1,addr
+616575135,city,Delhi,addr
+616575135,country,IN,addr
+616575135,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616575135,housenumber,680,addr
+616575135,postcode,100006,addr
+616575135,state,Delhi,addr
+616575135,street,S1,addr
+616576975,city,Delhi,addr
+616576975,country,IN,addr
+616576975,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576975,housenumber,653,addr
+616576975,postcode,100006,addr
+616576975,state,Delhi,addr
+616576975,street,S1,addr
+616576976,city,Delhi,addr
+616576976,country,IN,addr
+616576976,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576976,housenumber,652,addr
+616576976,postcode,100006,addr
+616576976,state,Delhi,addr
+616576976,street,S1,addr
+616576977,city,Delhi,addr
+616576977,country,IN,addr
+616576977,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576977,housenumber,589,addr
+616576977,postcode,100006,addr
+616576977,state,Delhi,addr
+616576978,city,Delhi,addr
+616576978,country,IN,addr
+616576978,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576978,housenumber,588,addr
+616576978,postcode,100006,addr
+616576978,state,Delhi,addr
+616576978,street,S1,addr
+616576979,city,Delhi,addr
+616576979,country,IN,addr
+616576979,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576979,housenumber,679,addr
+616576979,postcode,100006,addr
+616576979,state,Delhi,addr
+616576979,street,S1,addr
+616576980,city,Delhi,addr
+616576980,country,IN,addr
+616576980,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576980,housenumber,624,addr
+616576980,postcode,100006,addr
+616576980,state,Delhi,addr
+616576980,street,S1,addr
+616576981,city,Delhi,addr
+616576981,country,IN,addr
+616576981,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576981,housenumber,563,addr
+616576981,postcode,100006,addr
+616576981,state,Delhi,addr
+616576981,street,S1,addr
+616576982,city,Delhi,addr
+616576982,country,IN,addr
+616576982,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576982,housenumber,623,addr
+616576982,postcode,100006,addr
+616576982,state,Delhi,addr
+616576982,street,S1,addr
+616576983,city,Delhi,addr
+616576983,country,IN,addr
+616576983,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576983,housenumber,600,addr
+616576983,postcode,100006,addr
+616576983,state,Delhi,addr
+616576983,street,S1,addr
+616576984,city,Delhi,addr
+616576984,country,IN,addr
+616576984,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576984,housenumber,600,addr
+616576984,postcode,100006,addr
+616576984,state,Delhi,addr
+616576984,street,S1,addr
+616576985,city,Delhi,addr
+616576985,country,IN,addr
+616576985,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576985,housenumber,600,addr
+616576985,postcode,100006,addr
+616576985,state,Delhi,addr
+616576985,street,S1,addr
+616576986,city,Delhi,addr
+616576986,country,IN,addr
+616576986,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576986,housenumber,600,addr
+616576986,postcode,100006,addr
+616576986,state,Delhi,addr
+616576986,street,S1,addr
+616576987,city,Delhi,addr
+616576987,country,IN,addr
+616576987,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576987,housenumber,600,addr
+616576987,postcode,100006,addr
+616576987,state,Delhi,addr
+616576987,street,S1,addr
+616576988,city,Delhi,addr
+616576988,country,IN,addr
+616576988,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576988,housenumber,600,addr
+616576988,postcode,100006,addr
+616576988,state,Delhi,addr
+616576988,street,S1,addr
+616576989,city,Delhi,addr
+616576989,country,IN,addr
+616576989,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576989,housenumber,600,addr
+616576989,postcode,100006,addr
+616576989,state,Delhi,addr
+616576989,street,S1,addr
+616576990,city,Delhi,addr
+616576990,country,IN,addr
+616576990,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576990,housenumber,600,addr
+616576990,postcode,100006,addr
+616576990,state,Delhi,addr
+616576990,street,S1,addr
+616576991,city,Delhi,addr
+616576991,country,IN,addr
+616576991,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576991,housenumber,630,addr
+616576991,postcode,100006,addr
+616576991,state,Delhi,addr
+616576991,street,S1,addr
+616576992,city,Delhi,addr
+616576992,country,IN,addr
+616576992,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576992,housenumber,630,addr
+616576992,postcode,100006,addr
+616576992,state,Delhi,addr
+616576992,street,S1,addr
+616576993,city,Delhi,addr
+616576993,country,IN,addr
+616576993,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576993,housenumber,630,addr
+616576993,postcode,100006,addr
+616576993,state,Delhi,addr
+616576993,street,S1,addr
+616576994,city,Delhi,addr
+616576994,country,IN,addr
+616576994,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576994,housenumber,630,addr
+616576994,postcode,100006,addr
+616576994,state,Delhi,addr
+616576994,street,S1,addr
+616576995,city,Delhi,addr
+616576995,country,IN,addr
+616576995,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576995,housenumber,630,addr
+616576995,postcode,100006,addr
+616576995,state,Delhi,addr
+616576995,street,S1,addr
+616576996,city,Delhi,addr
+616576996,country,IN,addr
+616576996,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576996,housenumber,630,addr
+616576996,postcode,100006,addr
+616576996,state,Delhi,addr
+616576996,street,S1,addr
+616576997,city,Delhi,addr
+616576997,country,IN,addr
+616576997,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576997,housenumber,630,addr
+616576997,postcode,100006,addr
+616576997,state,Delhi,addr
+616576997,street,S1,addr
+616576998,city,Delhi,addr
+616576998,country,IN,addr
+616576998,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576998,housenumber,600,addr
+616576998,postcode,100006,addr
+616576998,state,Delhi,addr
+616576998,street,S1,addr
+616576999,city,Delhi,addr
+616576999,country,IN,addr
+616576999,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616576999,housenumber,600,addr
+616576999,postcode,100006,addr
+616576999,state,Delhi,addr
+616576999,street,S1,addr
+616577000,city,Delhi,addr
+616577000,country,IN,addr
+616577000,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577000,housenumber,630,addr
+616577000,postcode,100006,addr
+616577000,state,Delhi,addr
+616577000,street,S1,addr
+616577001,city,Delhi,addr
+616577001,country,IN,addr
+616577001,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577001,housenumber,630,addr
+616577001,postcode,100006,addr
+616577001,state,Delhi,addr
+616577001,street,S1,addr
+616577002,city,Delhi,addr
+616577002,country,IN,addr
+616577002,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577002,housenumber,630,addr
+616577002,postcode,100006,addr
+616577002,state,Delhi,addr
+616577002,street,S1,addr
+616577008,city,Delhi,addr
+616577008,country,IN,addr
+616577008,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577008,housenumber,600,addr
+616577008,postcode,100006,addr
+616577008,state,Delhi,addr
+616577008,street,S1,addr
+616577009,city,Delhi,addr
+616577009,country,IN,addr
+616577009,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577009,housenumber,600,addr
+616577009,postcode,100006,addr
+616577009,state,Delhi,addr
+616577009,street,S1,addr
+616577010,city,Delhi,addr
+616577010,country,IN,addr
+616577010,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577010,housenumber,600,addr
+616577010,postcode,100006,addr
+616577010,state,Delhi,addr
+616577010,street,S1,addr
+616577011,city,Delhi,addr
+616577011,country,IN,addr
+616577011,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577011,housenumber,600,addr
+616577011,postcode,100006,addr
+616577011,state,Delhi,addr
+616577011,street,S1,addr
+616577012,city,Delhi,addr
+616577012,country,IN,addr
+616577012,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577012,housenumber,600,addr
+616577012,postcode,100006,addr
+616577012,state,Delhi,addr
+616577012,street,S1,addr
+616577013,city,Delhi,addr
+616577013,country,IN,addr
+616577013,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577013,housenumber,600,addr
+616577013,postcode,100006,addr
+616577013,state,Delhi,addr
+616577013,street,S1,addr
+616577014,city,Delhi,addr
+616577014,country,IN,addr
+616577014,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577014,housenumber,600,addr
+616577014,postcode,100006,addr
+616577014,state,Delhi,addr
+616577014,street,S1,addr
+616577015,city,Delhi,addr
+616577015,country,IN,addr
+616577015,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577015,housenumber,600,addr
+616577015,postcode,100006,addr
+616577015,state,Delhi,addr
+616577015,street,S1,addr
+616577016,city,Delhi,addr
+616577016,country,IN,addr
+616577016,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577016,housenumber,630,addr
+616577016,postcode,100006,addr
+616577016,state,Delhi,addr
+616577016,street,S1,addr
+616577017,city,Delhi,addr
+616577017,country,IN,addr
+616577017,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577017,housenumber,630,addr
+616577017,postcode,100006,addr
+616577017,state,Delhi,addr
+616577017,street,S1,addr
+616577018,city,Delhi,addr
+616577018,country,IN,addr
+616577018,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577018,housenumber,630,addr
+616577018,postcode,100006,addr
+616577018,state,Delhi,addr
+616577018,street,S1,addr
+616577019,city,Delhi,addr
+616577019,country,IN,addr
+616577019,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577019,housenumber,630,addr
+616577019,postcode,100006,addr
+616577019,state,Delhi,addr
+616577019,street,S1,addr
+616577020,city,Delhi,addr
+616577020,country,IN,addr
+616577020,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577020,housenumber,630,addr
+616577020,postcode,100006,addr
+616577020,state,Delhi,addr
+616577020,street,S1,addr
+616577021,city,Delhi,addr
+616577021,country,IN,addr
+616577021,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577021,housenumber,630,addr
+616577021,postcode,100006,addr
+616577021,state,Delhi,addr
+616577021,street,S1,addr
+616577022,city,Delhi,addr
+616577022,country,IN,addr
+616577022,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577022,housenumber,630,addr
+616577022,postcode,100006,addr
+616577022,state,Delhi,addr
+616577022,street,S1,addr
+616577023,city,Delhi,addr
+616577023,country,IN,addr
+616577023,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616577023,housenumber,630,addr
+616577023,postcode,100006,addr
+616577023,state,Delhi,addr
+616577023,street,S1,addr
+616590395,city,Delhi,addr
+616590395,country,IN,addr
+616590395,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616590395,housenumber,614,addr
+616590395,postcode,100006,addr
+616590395,state,Delhi,addr
+616590395,name,"Mehta Brothers (ICs, MCs)",regular
+616590395,shop,electronics,regular
+616591083,city,Delhi,addr
+616591083,country,IN,addr
+616591083,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616591083,housenumber,463,addr
+616591083,postcode,100006,addr
+616591083,state,Delhi,addr
+616591083,name,"Mehta Electronics (ICs, MCs)",regular
+616591083,shop,electronics,regular
+616591620,city,Delhi,addr
+616591620,country,IN,addr
+616591620,full,"Lajpat Rai Market, Chandni Chowk, Delhi",addr
+616591620,housenumber,576,addr
+616591620,postcode,100006,addr
+616591620,state,Delhi,addr
+616591620,street,S1,addr
+616591620,name,Antennas,regular
+616591620,shop,electronics,regular
+620495600,amenity,public_building,regular
+620495600,name,NIC,regular
+621103127,name,NIC office,regular
+621103127,operator,NIC,regular
+621103127,shop,supermarket,regular
+655305904,name,Parkland Hotel,regular
+655305904,tourism,hotel,regular
+663755930,name,Shastri Park,regular
+663755930,network,DMRC,regular
+663755930,operator,Delhi Metro,regular
+663755930,railway,station,regular
+663758609,name,Seelampur,regular
+663758609,network,DMRC,regular
+663758609,operator,Delhi Metro,regular
+663758609,railway,station,regular
+663758748,name,Welcome,regular
+663758748,network,DMRC,regular
+663758748,operator,Delhi Metro,regular
+663758748,railway,station,regular
+663758998,name,Shahdara,regular
+663758998,network,DMRC,regular
+663758998,operator,Delhi Metro,regular
+663758998,railway,station,regular
+663759047,name,Shahdara,regular
+663759047,operator,Indian Railway,regular
+663759047,railway,station,regular
+663759674,name,Mansarovar,regular
+663759674,network,DMRC,regular
+663759674,railway,station,regular
+663759851,name,Jhilmil,regular
+663759851,network,DMRC,regular
+663759851,operator,Delhi Metro,regular
+663759851,railway,station,regular
+663759934,name,Dilshad Garden,regular
+663759934,network,DMRC,regular
+663759934,operator,Delhi Metro,regular
+663759934,railway,station,regular
+663761411,name,Shastri Nagar,regular
+663761411,network,DMRC,regular
+663761411,railway,station,regular
+663761428,name,Inderlok,regular
+663761428,network,DMRC,regular
+663761428,railway,station,regular
+663761505,name,Kanhiya Nagar,regular
+663761505,network,DMRC,regular
+663761505,railway,station,regular
+663762151,name,Keshav Puram,regular
+663762151,network,DMRC,regular
+663762151,railway,station,regular
+663762964,name,Netaji Subhash Place,regular
+663762964,network,DMRC,regular
+663762964,railway,station,regular
+663770596,colour,yellow,regular
+663770596,network,DMRC,regular
+663770596,railway,subway_entrance,regular
+663770597,colour,yellow,regular
+663770597,network,DMRC,regular
+663770597,railway,subway_entrance,regular
+663777956,name,Vidhan Sabha,regular
+663777956,network,DMRC,regular
+663777956,railway,station,regular
+663777967,name,Vishwa Vidyalaya,regular
+663777967,network,DMRC,regular
+663777967,railway,station,regular
+663793549,name,Preet Vihar,regular
+663793549,network,DMRC,regular
+663793549,railway,station,regular
+663793972,name,Nirman Vihar,regular
+663793972,network,DMRC,regular
+663793972,railway,station,regular
+663794722,name,Laxmi Nagar,regular
+663794722,network,DMRC,regular
+663794722,railway,station,regular
+663798999,name,Tagore Garden,regular
+663798999,network,DMRC,regular
+663798999,railway,station,regular
+712874692,name,Adventure 18,regular
+712874692,shop,outdoor,regular
+728128617,colour,yellow,regular
+728128617,name,Chandni Chowk - Gate 1,regular
+728128617,network,DMRC,regular
+728128617,railway,subway_entrance,regular
+728707284,amenity,toilets,regular
+728707284,fee,no,regular
+728707285,amenity,toilets,regular
+728707285,fee,no,regular
+786590738,name,Kotla Mubarak,regular
+786590738,place,locality,regular
+786590761,amenity,parking,regular
+786590761,name,Palika Parking,regular
+786590787,amenity,toilets,regular
+804086976,power,tower,regular
+804086982,power,tower,regular
+804087014,power,tower,regular
+804087025,power,tower,regular
+804087055,power,tower,regular
+804087064,power,tower,regular
+804087099,power,tower,regular
+804087126,power,tower,regular
+804087138,power,tower,regular
+804087141,power,tower,regular
+804087158,power,tower,regular
+804087177,power,tower,regular
+804087182,power,tower,regular
+804087186,power,tower,regular
+804087190,power,tower,regular
+804087196,power,tower,regular
+804087224,power,tower,regular
+804087248,power,tower,regular
+804087285,power,tower,regular
+804087313,power,tower,regular
+804087320,power,tower,regular
+804087375,power,tower,regular
+804087379,power,tower,regular
+804087384,power,tower,regular
+804087389,power,tower,regular
+804087392,power,tower,regular
+804087396,power,tower,regular
+804087448,power,tower,regular
+804087451,power,tower,regular
+804087469,power,tower,regular
+804087485,power,tower,regular
+804087487,power,tower,regular
+804087492,power,tower,regular
+804087496,power,tower,regular
+804087510,power,tower,regular
+804087517,power,tower,regular
+804087539,power,tower,regular
+804087558,power,tower,regular
+804087589,power,tower,regular
+804087596,power,tower,regular
+804087600,power,tower,regular
+804087604,power,tower,regular
+804087606,power,tower,regular
+804087653,power,tower,regular
+804087761,power,tower,regular
+804087763,power,tower,regular
+804087773,power,tower,regular
+804087823,power,tower,regular
+804087846,power,tower,regular
+804087899,power,tower,regular
+804087918,power,tower,regular
+804087933,power,tower,regular
+804087941,power,tower,regular
+804087985,power,tower,regular
+804087994,power,tower,regular
+804088011,power,tower,regular
+804088015,power,tower,regular
+804088069,power,tower,regular
+804088168,power,tower,regular
+804088173,power,tower,regular
+804088191,power,tower,regular
+804088199,power,tower,regular
+804088220,power,tower,regular
+836202434,power,tower,regular
+838495921,highway,traffic_signals,regular
+838495935,highway,traffic_signals,regular
+838495971,highway,traffic_signals,regular
+838801716,power,tower,regular
+838835304,power,tower,regular
+838835316,power,tower,regular
+838835327,power,tower,regular
+838835340,power,tower,regular
+838835346,power,tower,regular
+838835356,power,tower,regular
+838835373,power,tower,regular
+838835387,power,tower,regular
+838835388,crossing,unmarked,regular
+838835388,crossing_ref,zebra,regular
+838835388,highway,traffic_signals,regular
+838835402,highway,traffic_signals,regular
+838835419,power,tower,regular
+838835445,highway,traffic_signals,regular
+838835447,power,tower,regular
+856302882,name,Okhla,regular
+856302882,network,DMRC,regular
+856302882,railway,station,regular
+856302882,ref,OKA,regular
+883881204,amenity,school,regular
+883993852,name,"The LaLiT, New Delhi",regular
+883993852,tourism,hotel,regular
+903720506,shop,bakery,regular
+905062893,power,tower,regular
+905062900,power,tower,regular
+905062909,power,tower,regular
+905062911,power,tower,regular
+905062918,power,tower,regular
+905062922,power,tower,regular
+905062933,power,tower,regular
+905062951,power,tower,regular
+905062966,power,tower,regular
+905062975,power,tower,regular
+905062981,power,tower,regular
+905062989,power,tower,regular
+905062990,power,tower,regular
+905063024,power,tower,regular
+905063029,power,tower,regular
+905063039,power,tower,regular
+905063041,power,tower,regular
+905063090,power,tower,regular
+905063093,power,tower,regular
+905063120,power,tower,regular
+905063127,power,tower,regular
+905063133,power,tower,regular
+905063134,power,tower,regular
+905063148,power,tower,regular
+905063154,power,tower,regular
+905063176,power,tower,regular
+905063189,power,tower,regular
+905063190,power,tower,regular
+905063197,power,tower,regular
+905063198,power,tower,regular
+905063209,power,tower,regular
+905063230,power,tower,regular
+905063235,power,tower,regular
+905063243,power,tower,regular
+905063249,power,tower,regular
+905063251,power,tower,regular
+905063253,power,tower,regular
+905063260,power,tower,regular
+905063277,power,tower,regular
+905063295,power,tower,regular
+905063307,power,tower,regular
+905063327,power,tower,regular
+905063344,power,tower,regular
+905063379,power,tower,regular
+905063384,power,tower,regular
+905063386,power,tower,regular
+905063394,power,tower,regular
+905063403,power,tower,regular
+905063409,power,tower,regular
+905063410,power,tower,regular
+905063439,power,tower,regular
+905063450,power,tower,regular
+905063462,power,tower,regular
+905063466,power,tower,regular
+905063487,power,tower,regular
+905063501,power,tower,regular
+905063506,power,tower,regular
+905063535,power,tower,regular
+905063556,power,tower,regular
+905063560,power,tower,regular
+905114069,power,tower,regular
+905114082,power,tower,regular
+905114085,power,tower,regular
+905114104,power,tower,regular
+905114142,power,tower,regular
+905114155,power,tower,regular
+905114157,power,tower,regular
+905114169,power,tower,regular
+905114172,power,tower,regular
+905114190,power,tower,regular
+905114216,power,tower,regular
+905280053,power,tower,regular
+905280735,power,tower,regular
+905280903,power,tower,regular
+905281140,power,tower,regular
+905281215,power,tower,regular
+905281388,power,tower,regular
+905283010,power,tower,regular
+905283047,power,tower,regular
+905283939,power,tower,regular
+905284388,power,tower,regular
+905284844,power,tower,regular
+905284905,power,tower,regular
+905284966,power,tower,regular
+906772185,name,Noida Sector 15,regular
+906772185,network,DMRC,regular
+906772185,railway,station,regular
+906772185,wheelchair,yes,regular
+906772268,name,Mayur Vihar-I,regular
+906772268,network,DMRC,regular
+906772268,railway,station,regular
+906772268,wheelchair,no,toilets
+906772268,wheelchair,yes,regular
+906780869,name,Mayur Vihar Extension,regular
+906780869,network,DMRC,regular
+906780869,railway,station,regular
+906780885,name,Akshardham,regular
+906780885,network,DMRC,regular
+906780885,railway,station,regular
+906856352,power,tower,regular
+906856378,railway,buffer_stop,regular
+906856393,power,tower,regular
+906856482,power,tower,regular
+906856513,power,tower,regular
+906856551,power,tower,regular
+906856554,power,tower,regular
+906856604,railway,buffer_stop,regular
+906856613,power,tower,regular
+906856646,power,tower,regular
+906856649,power,tower,regular
+906921858,railway,buffer_stop,regular
+906921908,railway,buffer_stop,regular
+906921952,railway,buffer_stop,regular
+906922010,railway,buffer_stop,regular
+906922279,railway,buffer_stop,regular
+906922298,railway,buffer_stop,regular
+910356438,name,Safdarjung,regular
+910356438,railway,station,regular
+910356522,name,Sewa Nagar,regular
+910356522,railway,station,regular
+910450587,name,Chanakyapuri,regular
+910450587,railway,station,regular
+910450718,highway,crossing,regular
+910450786,highway,crossing,regular
+910450881,highway,crossing,regular
+910450981,railway,buffer_stop,regular
+910451031,railway,buffer_stop,regular
+910451085,railway,buffer_stop,regular
+910451150,railway,buffer_stop,regular
+910451189,highway,bus_stop,regular
+910451189,name,Ashram Chowk,regular
+910451463,highway,crossing,regular
+910451567,railway,buffer_stop,regular
+910451570,railway,buffer_stop,regular
+910451603,railway,buffer_stop,regular
+910549525,railway,level_crossing,regular
+910549530,railway,level_crossing,regular
+910549663,railway,level_crossing,regular
+910549684,railway,level_crossing,regular
+910664782,highway,traffic_signals,regular
+910665033,highway,traffic_signals,regular
+910665121,highway,traffic_signals,regular
+910665146,highway,traffic_signals,regular
+910665194,highway,traffic_signals,regular
+910665386,highway,traffic_signals,regular
+910665445,highway,traffic_signals,regular
+910739499,railway,level_crossing,regular
+912971465,railway,buffer_stop,regular
+912971466,railway,buffer_stop,regular
+912971474,railway,buffer_stop,regular
+912971498,railway,buffer_stop,regular
+912971518,railway,buffer_stop,regular
+912971522,railway,buffer_stop,regular
+912971525,railway,buffer_stop,regular
+912971536,railway,buffer_stop,regular
+912971545,railway,buffer_stop,regular
+912971547,railway,buffer_stop,regular
+912971549,railway,buffer_stop,regular
+912971561,railway,buffer_stop,regular
+912971572,railway,buffer_stop,regular
+912971592,railway,buffer_stop,regular
+912971595,railway,buffer_stop,regular
+912971596,railway,buffer_stop,regular
+912971597,railway,buffer_stop,regular
+912971599,railway,buffer_stop,regular
+912971603,railway,buffer_stop,regular
+913018930,railway,buffer_stop,regular
+913019239,name,Sadar Bazar,regular
+913019239,operator,Indian Railway,regular
+913019239,railway,station,regular
+913019239,ref,DSB,regular
+913019239,wheelchair,yes,regular
+913068083,railway,buffer_stop,regular
+913068088,railway,buffer_stop,regular
+913068094,railway,buffer_stop,regular
+913068097,railway,buffer_stop,regular
+913068098,railway,buffer_stop,regular
+913068100,railway,buffer_stop,regular
+913068139,railway,buffer_stop,regular
+913068171,railway,buffer_stop,regular
+913068201,railway,buffer_stop,regular
+913068219,railway,buffer_stop,regular
+913068223,railway,buffer_stop,regular
+913068268,railway,buffer_stop,regular
+913068283,railway,buffer_stop,regular
+913068288,railway,buffer_stop,regular
+913068331,railway,buffer_stop,regular
+913068334,railway,buffer_stop,regular
+913068350,railway,buffer_stop,regular
+913068406,railway,buffer_stop,regular
+913068420,railway,buffer_stop,regular
+913068424,railway,buffer_stop,regular
+913068462,railway,buffer_stop,regular
+913068469,railway,buffer_stop,regular
+913068634,railway,buffer_stop,regular
+913068648,railway,buffer_stop,regular
+913068656,railway,buffer_stop,regular
+913081026,railway,buffer_stop,regular
+913081055,name,Subzimandi,regular
+913081055,railway,station,regular
+913081098,railway,buffer_stop,regular
+913081118,railway,buffer_stop,regular
+913081213,railway,buffer_stop,regular
+913095761,railway,buffer_stop,regular
+913095766,railway,buffer_stop,regular
+913095789,railway,buffer_stop,regular
+913095833,railway,buffer_stop,regular
+913095868,railway,buffer_stop,regular
+913095905,admin_level,A1,regular
+913095905,name,Delhi Junction,regular
+913095905,operator,Indian Railway,regular
+913095905,railway,station,regular
+913095908,railway,buffer_stop,regular
+913095917,railway,buffer_stop,regular
+913095922,railway,buffer_stop,regular
+913095930,railway,buffer_stop,regular
+913095937,railway,buffer_stop,regular
+913095957,railway,buffer_stop,regular
+913095967,railway,buffer_stop,regular
+913096000,railway,buffer_stop,regular
+913096037,railway,buffer_stop,regular
+913096039,railway,buffer_stop,regular
+913233611,railway,buffer_stop,regular
+913233644,railway,buffer_stop,regular
+913233664,railway,buffer_stop,regular
+913233756,railway,buffer_stop,regular
+913233808,railway,buffer_stop,regular
+913233812,railway,buffer_stop,regular
+913234028,railway,buffer_stop,regular
+913234109,railway,buffer_stop,regular
+913234118,railway,buffer_stop,regular
+913282226,amenity,toilets,regular
+913282361,highway,traffic_signals,regular
+913282445,highway,traffic_signals,regular
+913325776,amenity,atm,regular
+913325795,amenity,toilets,regular
+913325795,place,neighbourhood,regular
+913325870,amenity,fuel,regular
+913485885,name,GTB Nagar,regular
+913485885,network,DMRC,regular
+913485885,railway,station,regular
+913550169,name,Janakpuri East,regular
+913550169,network,DMRC,regular
+913550169,railway,station,regular
+914644353,name,Dayabasti,regular
+914644353,railway,station,regular
+914644362,name,Patel Nagar,regular
+914644362,railway,station,regular
+915246034,name,Naraina Vihar,regular
+915246034,railway,station,regular
+915407284,railway,buffer_stop,regular
+915407469,name,Sarai Rohilla,regular
+915407469,railway,station,regular
+915407469,wheelchair,yes,regular
+915407471,railway,buffer_stop,regular
+915408353,railway,buffer_stop,regular
+915408456,railway,buffer_stop,regular
+915408566,railway,buffer_stop,regular
+915408655,railway,buffer_stop,regular
+915432395,railway,buffer_stop,regular
+915432521,railway,buffer_stop,regular
+915432740,highway,traffic_signals,regular
+915432929,highway,traffic_signals,regular
+915433435,highway,traffic_signals,regular
+915435516,highway,traffic_signals,regular
+915436726,railway,buffer_stop,regular
+915472696,name,Rajdhani Park,regular
+915472696,network,DMRC,regular
+915472696,railway,station,regular
+915472875,name,Nanlgloi,regular
+915472875,network,DMRC,regular
+915472875,railway,station,regular
+915473442,name,Surajmal Stadium,regular
+915473442,network,DMRC,regular
+915473442,railway,station,regular
+915473851,name,Mundka,regular
+915473851,network,DMRC,regular
+915473851,railway,station,regular
+915474404,name,Nanlgloi Railway Station,regular
+915474404,network,DMRC,regular
+915474404,railway,station,regular
+915595383,railway,buffer_stop,regular
+915595409,name,Noida Golf Course,regular
+915595409,network,DMRC,regular
+915595409,railway,station,regular
+915595409,wheelchair,yes,regular
+915595437,name,Wave Sector-18 Noida,regular
+915595437,network,DMRC,regular
+915595437,railway,station,regular
+915595437,wheelchair,yes,regular
+915595446,name,Botanical Garden,regular
+915595446,network,DMRC,regular
+915595446,railway,station,regular
+915595446,wheelchair,yes,regular
+915595467,name,Noida Sector 16,regular
+915595467,network,DMRC,regular
+915595467,railway,station,regular
+915595467,wheelchair,yes,regular
+915595470,name,Wave City Center Noida,regular
+915595470,network,DMRC,regular
+915595470,operator,Delhi Metro Rail Corporation,regular
+915595470,platforms,2,regular
+915595470,railway,station,regular
+915595470,wheelchair,yes,regular
+922910160,name,Saket,regular
+922910160,network,DMRC,regular
+922910160,railway,station,regular
+927873461,name,Govind Puri,regular
+927873461,network,DMRC,regular
+927873461,railway,station,regular
+927873481,name,Khan Market,regular
+927873481,network,DMRC,regular
+927873481,railway,station,regular
+927873489,name,Kailash Colony,regular
+927873489,network,DMRC,regular
+927873489,railway,station,regular
+927873510,name,Kalkaji Mandir,regular
+927873510,network,DMRC,regular
+927873510,railway,station,regular
+927873513,name,Dhaula Kuan,regular
+927873513,network,DMRC,regular
+927873513,railway,station,regular
+928488601,name,Yatri Guesthouse,regular
+928488601,tourism,hotel,regular
+928491343,amenity,hospital,regular
+928550280,name,Hotel Metropolis,regular
+928550280,tourism,hotel,regular
+928558280,amenity,cinema,regular
+928558280,name,PVR Plaza Cinema,regular
+928558283,name,New Prominent Tailor,regular
+928558283,shop,tailor,regular
+928558830,amenity,parking,regular
+928558934,amenity,parking,regular
+928559077,amenity,parking,regular
+928559154,amenity,parking,regular
+928559229,amenity,parking,regular
+928559360,amenity,parking,regular
+928563257,amenity,atm,regular
+928563257,name,Citibank,regular
+928563678,amenity,atm,regular
+928563678,name,HDFC,regular
+928564493,amenity,cafe,regular
+928564493,name,Costa,regular
+928564996,amenity,fast_food,regular
+928564996,cuisine,burger,regular
+928564996,name,McDonald's,regular
+928565725,highway,bus_stop,regular
+928565725,name,Long Distance Bus Kullu Manali,regular
+928567979,amenity,restaurant,regular
+928567979,disused,yes,regular
+928567979,name,Piccadelhi,regular
+928580903,colour,yellow,regular
+928580903,name,AIMS,regular
+928580903,network,DMRC,regular
+928580903,railway,subway_entrance,regular
+928592947,name,Rajiv Chowk,regular
+928592947,network,DMRC,regular
+928592947,railway,subway_entrance,regular
+928597607,name,Rajiv Chowk,regular
+928597607,network,DMRC,regular
+928597607,railway,subway_entrance,regular
+928597611,name,Rajiv Chowk,regular
+928597611,network,DMRC,regular
+928597611,railway,subway_entrance,regular
+928597613,name,Rajiv Chowk,regular
+928597613,network,DMRC,regular
+928597613,railway,subway_entrance,regular
+928597615,name,Rajiv Chowk - Gate 6,regular
+928597615,network,DMRC,regular
+928597615,railway,subway_entrance,regular
+928610585,name,Rajiv Chowk,regular
+928610585,network,DMRC,regular
+928610585,railway,subway_entrance,regular
+928610588,name,Rajiv Chowk,regular
+928610588,network,DMRC,regular
+928610588,railway,subway_entrance,regular
+928610590,name,Rajiv Chowk,regular
+928610590,network,DMRC,regular
+928610590,railway,subway_entrance,regular
+938372433,public_transport,stop_position,regular
+938372433,ref,NDLS:14,regular
+938372444,public_transport,stop_position,regular
+938372444,ref,NDLS:7,regular
+938372446,landuse,commercial,regular
+938372446,name,Northern Railway DRM Office,regular
+938372453,amenity,place_of_worship,regular
+938372453,religion,hindu,regular
+938372462,public_transport,stop_position,regular
+938372462,ref,NDLS:6,regular
+938372468,public_transport,stop_position,regular
+938372468,ref,NDLS:13,regular
+938372470,landuse,commercial,regular
+938372470,name,Indian Railways Catering and Tourism Corporation - IRCTC,regular
+938372477,amenity,bus_station,regular
+938372477,name,New Delhi Station (Ajmeri Gate),regular
+938372479,public_transport,stop_position,regular
+938372479,ref,NDLS:10,regular
+938372497,public_transport,stop_position,regular
+938372497,ref,NDLS:5,regular
+938372509,amenity,place_of_worship,regular
+938372509,religion,hindu,regular
+938372516,public_transport,stop_position,regular
+938372516,ref,NDLS:9,regular
+938372520,public_transport,stop_position,regular
+938372520,ref,NDLS:12,regular
+938372530,amenity,club,regular
+938372530,name,Railway Club,regular
+938372538,public_transport,stop_position,regular
+938372538,ref,NDLS:16,regular
+938372545,landuse,commercial,regular
+938372545,name,Computerised Reservation Centre,regular
+938372549,public_transport,stop_position,regular
+938372549,ref,NDLS:2,regular
+938372552,public_transport,stop_position,regular
+938372552,ref,NDLS:4,regular
+938372557,public_transport,stop_position,regular
+938372557,ref,NDLS:11,regular
+938372570,public_transport,stop_position,regular
+938372570,ref,NDLS:8,regular
+938372576,public_transport,stop_position,regular
+938372576,ref,NDLS:15,regular
+938372581,public_transport,stop_position,regular
+938372581,ref,NDLS:1,regular
+938372585,public_transport,stop_position,regular
+938372585,ref,NDLS:3,regular
+938372588,amenity,bus_station,regular
+938372588,name,New Delhi Station (Paharganj),regular
+938409455,highway,traffic_signals,regular
+938409465,amenity,cinema,regular
+938409465,name,Delight Cinema,regular
+938409470,name,Basti Hazrat Khwaja Mir Dard,regular
+938409470,place,locality,regular
+938409491,landuse,commercial,regular
+938409491,name,Telecom Regulatory Authority of India - TRAI,regular
+938409510,colour,orange,regular
+938409510,name,New Delhi Metro Station Airport line,regular
+938409510,network,DMRC,regular
+938409510,railway,subway_entrance,regular
+938409545,name,New Delhi Airport Express Terminal,regular
+938409545,network,DMRC,regular
+938409545,railway,station,regular
+938409613,highway,traffic_signals,regular
+938409723,amenity,bus_station,regular
+938409723,name,Minto Road Bus Terminal,regular
+938522898,highway,traffic_signals,regular
+938523863,highway,traffic_signals,regular
+938523891,alt_name,Diwan-e-Am,regular
+938523891,name,Diwan-e-Aam,regular
+938523891,tourism,attraction,regular
+938524070,highway,traffic_signals,regular
+938524380,alt_name,Divan-i-Khas,regular
+938524380,name,Diwan-e-Khaas,regular
+938524380,tourism,attraction,regular
+938524430,highway,motorway_junction,regular
+938524430,name,Pushta Crossing,regular
+938524722,highway,traffic_signals,regular
+938534485,highway,motorway_junction,regular
+938534485,name,Yamuna Bazar,regular
+938534499,amenity,bus_station,regular
+938534499,name,Kashmiri Gate DTC Terminus,regular
+938547549,highway,bus_stop,regular
+938547549,name,Kashmiri Gate ISBT,regular
+938547551,highway,motorway_junction,regular
+938547551,name,Kashmiri Gate,regular
+938547552,highway,motorway_junction,regular
+938547552,name,ITO,regular
+938622292,highway,traffic_signals,regular
+938622379,name,Purana Qila,regular
+938622379,tourism,attraction,regular
+938622410,highway,traffic_signals,regular
+938622749,name,Sunder Nagar,regular
+938622749,place,neighbourhood,regular
+938622778,amenity,bus_station,regular
+938622778,name,Sarai Kale Khan ISBT,regular
+938635464,amenity,bus_station,regular
+938635464,name,Nizamuddin RS,regular
+938635525,name,Nizamuddin West,regular
+938635525,place,locality,regular
+938635580,name,Nizamuddin East,regular
+938635580,place,locality,regular
+938641774,name,Golf Links,regular
+938641774,place,neighbourhood,regular
+938641801,name,Rabindra Nagar,regular
+938641801,place,neighbourhood,regular
+939086432,highway,traffic_signals,regular
+939086478,highway,traffic_signals,regular
+939086519,highway,traffic_signals,regular
+939086544,highway,traffic_signals,regular
+939091029,highway,motorway_junction,regular
+939091029,name,Tilak Bridge,regular
+939091029,old_name,Hardinge Bridge,regular
+939091050,highway,traffic_signals,regular
+939091076,name,Rajiv Chowk,regular
+939091076,network,DMRC,regular
+939091076,railway,station,regular
+939091176,highway,traffic_signals,regular
+939091187,highway,crossing,regular
+939091191,highway,traffic_signals,regular
+939107100,name,Kidwai Nagar West,regular
+939107100,place,locality,regular
+939107101,name,Lodhi Colony,regular
+939107101,place,neighbourhood,regular
+939107102,name,Kidwai Nagar East,regular
+939107102,place,locality,regular
+939107103,name,Laxmi Bai Nagar,regular
+939107103,place,locality,regular
+939182586,alt_name,Okhla Village,regular
+939182586,name,Okhla,regular
+939182586,place,locality,regular
+939182593,name,Nehru Nagar,regular
+939182593,place,locality,regular
+939182607,name,New Friends Colony,regular
+939182607,place,locality,regular
+939271208,name,Sriniwaspuri,regular
+939271208,place,locality,regular
+939284645,name,North Moti Bagh,regular
+939284645,place,locality,regular
+941021449,name,Jaipur Column,regular
+941021449,tourism,attraction,regular
+941120352,name,Peera Garhi,regular
+941120352,network,DMRC,regular
+941120352,railway,station,regular
+943245922,building,yes,regular
+943245922,name,Le Méridien,regular
+943245922,stars,5,regular
+943245922,tourism,hotel,regular
+943245923,landuse,commercial,regular
+943245923,name,Vittalbhai Patel House,regular
+943245924,landuse,commercial,regular
+943245924,name,Parivahan Bhavan,regular
+943245925,landuse,commercial,regular
+943245925,name,Press Trust of India - PTI,regular
+943245926,alt_name,Central Secretariat,regular
+943245926,amenity,bus_station,regular
+943245926,name,Kendriya Bus Terminal,regular
+943245927,landuse,commercial,regular
+943245927,name,National Archives of India,regular
+943245928,amenity,parking,regular
+943245928,name,Parliament Visitor Parking,regular
+943245931,landuse,commercial,regular
+943245931,name,Reserve Bank of India - RBI,regular
+943559837,landuse,commercial,regular
+943559837,name,Aakashvani Bhavan,regular
+943560039,amenity,atm,regular
+943640318,highway,mini_roundabout,regular
+943640727,highway,mini_roundabout,regular
+943640988,highway,mini_roundabout,regular
+943641013,highway,mini_roundabout,regular
+943641058,highway,traffic_signals,regular
+943641139,highway,mini_roundabout,regular
+943684555,amenity,place_of_worship,regular
+943684555,name,Idgah,regular
+943684555,religion,muslim,regular
+943748969,name,Kashmiri Gate,regular
+943748969,place,neighbourhood,regular
+943748993,historic,archaeological_site,regular
+943748993,name,Turkman Gate,regular
+943749009,historic,archaeological_site,regular
+943749009,name,Ajmeri Gate,regular
+943749056,amenity,bus_station,regular
+943749056,name,Old Delhi RS Bus Stand,regular
+943749060,name,Sadar bazar,regular
+943749060,place,suburb,regular
+943749104,highway,mini_roundabout,regular
+943749104,name,Bara Tooti Chowk,regular
+943749142,name,Matia Mahal,regular
+943749142,place,locality,regular
+943749229,amenity,atm,regular
+943749235,name,Mori Gate,regular
+943749235,place,locality,regular
+943749248,historic,archaeological_site,regular
+943749248,name,Delhi Gate,regular
+943749271,highway,traffic_signals,regular
+943749383,amenity,library,regular
+943749383,name,Delhi Public Library,regular
+943749501,amenity,bus_station,regular
+943749501,name,Mori Gate Bus Terminal,regular
+943830878,housenumber,7,addr
+943831194,housenumber,1,addr
+943831844,highway,bus_stop,regular
+943831844,name,Safdarjung Tomb,regular
+943875938,alt_name,Flagstaff House,regular
+943875938,description,The largest number of buildings in New Delhi were designed by Robert Tor Russel (1888-1977) including Flagstaff House the Commander-in-Chief’s residence which was to be occupied by the first Indian Prime Minister Jawaharlal Nehru,regular
+943875938,name,Teen Murti Bhavan,regular
+943875938,tourism,museum,regular
+944841419,name,Seelampur,regular
+944841419,place,suburb,regular
+944888808,amenity,theatre,regular
+944889098,amenity,restaurant,regular
+944889098,name,Food Court,regular
+947950006,amenity,embassy,regular
+947950006,country,CN,regular
+947950006,name,China,regular
+947950037,amenity,embassy,regular
+947950037,country,SK,regular
+947950037,name,Embassy of the Slovak Republic,regular
+947950037,sk,Veľvyslanectvo Slovenskej republiky,name
+947950058,amenity,embassy,regular
+947950058,country,NO,regular
+947950058,name,Embassy of Norway,regular
+947950059,amenity,embassy,regular
+947950059,country,AU,regular
+947950059,name,Embassy of Australia,regular
+947950102,amenity,embassy,regular
+947950102,country,TH,regular
+947950102,name,Embassy of Thailand,regular
+947950109,amenity,embassy,regular
+947950109,country,FR,regular
+947950109,name,France,regular
+947950109,fr,Ambassade de France,name
+947950144,amenity,embassy,regular
+947950144,country,KR,regular
+947950144,name,South Korea,regular
+947950188,amenity,embassy,regular
+947950188,country,NL,regular
+947950188,name,Embassy of the Netherlands,regular
+947950197,amenity,embassy,regular
+947950197,country,JP,regular
+947950197,name,भारत में जापान के दूतावास,regular
+947950197,en,Embassy of Japan in India,name
+947950197,ja,在インド日本国大使館,name
+947950197,phone,91-11-2687-6564,regular
+947950197,website,http://www.in.emb-japan.go.jp/index.html,regular
+947950230,amenity,embassy,regular
+947950230,country,MY,regular
+947950230,name,Malaysia,regular
+947950237,amenity,embassy,regular
+947950237,country,BT,regular
+947950237,name,Embassy of Bhutan,regular
+947950294,amenity,embassy,regular
+947950294,country,AF,regular
+947950294,name,Embassy of Afghanistan,regular
+947950297,amenity,embassy,regular
+947950297,country,VA,regular
+947950297,name,Embassy of Vatican,regular
+947950334,amenity,embassy,regular
+947950334,country,NG,regular
+947950334,name,Embassy of Nigeria,regular
+947950464,amenity,embassy,regular
+947950464,country,PH,regular
+947950464,name,Embassy of Phillipines,regular
+947950476,amenity,embassy,regular
+947950476,country,RU,regular
+947950476,name,Embassy of Russia,regular
+947950476,ru,Посольство Российской Федерации,name
+947950533,amenity,embassy,regular
+947950533,country,GH,regular
+947950533,name,Embassy of Ghana,regular
+947950535,amenity,embassy,regular
+947950535,country,KW,regular
+947950535,name,Embassy of Kuwait,regular
+947950539,amenity,embassy,regular
+947950539,country,US,regular
+947950539,name,United States of America embassy,regular
+947950551,amenity,embassy,regular
+947950551,country,PL,regular
+947950551,name,Poland,regular
+947950554,amenity,police,regular
+947950554,name,Chanakyapuri,regular
+947950575,amenity,embassy,regular
+947950575,country,SD,regular
+947950575,name,Sudan,regular
+947950607,name,Nehru Planetarium,regular
+947950607,tourism,museum,regular
+947950639,amenity,embassy,regular
+947950639,country,GB,regular
+947950639,name,Great Britain,regular
+947950754,amenity,embassy,regular
+947950754,country,NZ,regular
+947950754,name,Embassy of New Zealand,regular
+947950777,amenity,embassy,regular
+947950777,country,MM,regular
+947950777,name,Embassy of Myanmar,regular
+947950795,amenity,embassy,regular
+947950795,country,CZ,regular
+947950795,name,Embassy of the Czech Republic,regular
+947950795,cs,Velvyslanectví České republiky,name
+947950807,amenity,embassy,regular
+947950807,country,ID,regular
+947950807,name,Embassy of Indonesia,regular
+947950842,amenity,embassy,regular
+947950842,country,PK,regular
+947950842,name,Embassy of Pakistan,regular
+947950909,amenity,embassy,regular
+947950909,country,SG,regular
+947950909,name,Singapore,regular
+947951006,amenity,embassy,regular
+947951006,country,LK,regular
+947951006,name,Sri Lanka,regular
+947951039,amenity,restaurant,regular
+947951039,name,Museum Canteen,regular
+947951058,amenity,embassy,regular
+947951058,country,CA,regular
+947951058,name,Canada,regular
+956194764,name,Hotel Tara Palace,regular
+956194764,tourism,hotel,regular
+971653360,highway,bus_stop,regular
+971653360,name,Bharti Vidya Bhavan,regular
+971653361,highway,bus_stop,regular
+971653361,name,Baroda House,regular
+974361599,amenity,cinema,regular
+974361599,name,Imperial,regular
+974363115,name,Star Paradise,regular
+974363115,tourism,hotel,regular
+990041281,name,Lal Chowk,regular
+990042572,amenity,theatre,regular
+990042572,name,Shakuntalam,regular
+990042573,name,"Pragati Maidan, Gate 5",regular
+990042574,name,"Pragati Maidan, Gate 7",regular
+990042575,name,"Pragati Maidan, Gate 6",regular
+1015839285,historic,archaeological_site,regular
+1015839285,name,Kashmiri Gate,regular
+1024318367,name,Khooni Darwaza,regular
+1024318367,tourism,attraction,regular
+1024901312,barrier,gate,regular
+1024901312,bicycle,yes,regular
+1024901312,foot,yes,regular
+1038357043,amenity,place_of_worship,regular
+1038357043,name,Sunehri Masjid,regular
+1038357043,religion,muslim,regular
+1038357044,amenity,place_of_worship,regular
+1038357044,name,Nili Chhatri Mandir,regular
+1038357044,religion,hindu,regular
+1114868893,amenity,post_box,regular
+1114868893,name,Netaji Nagar Post Office,regular
+1114869680,amenity,fuel,regular
+1114871250,description,Hotel,regular
+1114871250,name,Hyatt Regency,regular
+1114871250,tourism,hotel,regular
+1114871812,amenity,fire_station,regular
+1114871812,name,Fire Station,regular
+1114882313,fixme,connection yes or not?,regular
+1114905512,amenity,Netaji Nagar Market,regular
+1114908643,amenity,hospital,regular
+1114908643,name,C.G.H.S Dispensary,regular
+1114913774,amenity,"Suvidha Market, Netaji Nagar",regular
+1115011209,amenity,place_of_worship,regular
+1115011209,name,Arya Samaj Mandir,regular
+1116431440,highway,bus_stop,regular
+1116431440,name,S.N.Depot,regular
+1116432336,amenity,school,regular
+1116432336,name,Govt. Girls Senior Secondary School,regular
+1116433509,amenity,school,regular
+1116433509,name,DPS International School,regular
+1116434111,amenity,school,regular
+1116434111,name,Jose Martin Sarvodya Vidyalya,regular
+1116435329,amenity,cinema,regular
+1116435329,name,Sangam,regular
+1116438504,amenity,parking,regular
+1116438504,name,Palika Bhawan,regular
+1116439249,amenity,college,regular
+1116439249,name,DCAC,regular
+1116443706,street,Vinay Marg,addr
+1116443706,name,The Leela Palace Kempinski,regular
+1116443706,operator,Kempinski,regular
+1116443706,tourism,hotel,regular
+1116443706,website,http://www.theleela.com/locations/new-delhi,regular
+1126295175,entrance,yes,regular
+1135153141,name,Nehru Place,regular
+1135153141,network,DMRC,regular
+1135153141,railway,station,regular
+1157202196,amenity,cafe,regular
+1157202196,name,Bon Temps Cafe,regular
+1157203164,name,Big Apple,regular
+1157203164,shop,convenience,regular
+1157203547,amenity,police,regular
+1157203900,amenity,place_of_worship,regular
+1184434816,name,Vivek,regular
+1184434816,tourism,hotel,regular
+1184509690,amenity,cafe,regular
+1184509690,internet_access,terminal,regular
+1184509690,name,Internet,regular
+1191272590,railway,buffer_stop,regular
+1191294818,highway,turning_circle,regular
+1194036839,amenity,Ayurvedic Hospital,regular
+1194036839,name,Dr. Sudha`s Ayurveda Kendra,regular
+1194037559,amenity,school,regular
+1194037559,name,Green Fields School,regular
+1195165037,historic,memorial,regular
+1195165037,name,Mirza Ghalib's Tomb,regular
+1195165078,barrier,gate,regular
+1195165078,bicycle,no,regular
+1195165078,foot,yes,regular
+1198838828,barrier,gate,regular
+1198838828,bicycle,yes,regular
+1198838828,foot,yes,regular
+1198838828,motorcar,yes,regular
+1198838828,motorcycle,yes,regular
+1210316392,amenity,school,regular
+1210316392,name,"Army Public School, Dhaula Kuan",regular
+1210334663,amenity,residential,regular
+1210334663,name,"Defense Officers Enclave, Dhaula Kuan Part 2",regular
+1210337098,amenity,House,regular
+1210337098,name,"212, Defense Officers Enclave, Dhaula Kuan Part 2",regular
+1241009821,cmt,03-JAN-10 16:35:31,regular
+1241009821,description,03-JAN-10 16:35:31,regular
+1241009821,ele,213.056274,regular
+1241009821,name,Arjun Guesthouse,regular
+1241009821,source,GPS,regular
+1241009821,sym,Lodging,regular
+1241009821,tourism,guest_house,regular
+1241010387,amenity,atm,regular
+1241010387,cmt,06-JAN-10 18:02:32,regular
+1241010387,description,06-JAN-10 18:02:32,regular
+1241010387,ele,218.824097,regular
+1241010387,name,Atm,regular
+1241010387,operator,Yes Bank,regular
+1241010387,source,GPS,regular
+1241010387,sym,Bank,regular
+1241932078,amenity,restaurant,regular
+1241932078,cmt,06-JAN-10 13:50:21,regular
+1241932078,description,06-JAN-10 13:50:21,regular
+1241932078,ele,235.406738,regular
+1241932078,name,Bangla Foods,regular
+1241932078,source,GPS,regular
+1241932078,sym,Restaurant,regular
+1267734091,city,New Delhi,addr
+1267734091,country,IN,addr
+1267734091,housenumber,279,addr
+1267734091,state,Delhi,addr
+1267734091,street,NIT,addr
+1267734104,city,New Delhi,addr
+1267734104,country,IN,addr
+1267734104,housenumber,263,addr
+1267734104,state,Delhi,addr
+1267734104,street,NIT,addr
+1268299078,amenity,car_rental,regular
+1268299078,name,Pre-paid Auto / Taxi,regular
+1268299728,city,New Delhi,addr
+1268299728,country,IN,addr
+1268299728,housenumber,275,addr
+1268299728,state,Delhi,addr
+1268299728,street,NIT,addr
+1268299729,city,New Delhi,addr
+1268299729,country,IN,addr
+1268299729,housenumber,270,addr
+1268299729,state,Delhi,addr
+1268299729,street,NIT,addr
+1268299730,city,New Delhi,addr
+1268299730,country,IN,addr
+1268299730,housenumber,265,addr
+1268299730,state,Delhi,addr
+1268299730,street,NIT,addr
+1268299731,city,New Delhi,addr
+1268299731,country,IN,addr
+1268299731,housenumber,278,addr
+1268299731,state,Delhi,addr
+1268299731,street,NIT,addr
+1268299732,city,New Delhi,addr
+1268299732,country,IN,addr
+1268299732,housenumber,273,addr
+1268299732,state,Delhi,addr
+1268299732,street,NIT,addr
+1268299733,city,New Delhi,addr
+1268299733,country,IN,addr
+1268299733,housenumber,268,addr
+1268299733,state,Delhi,addr
+1268299733,street,NIT,addr
+1268299734,city,New Delhi,addr
+1268299734,country,IN,addr
+1268299734,housenumber,276,addr
+1268299734,state,Delhi,addr
+1268299734,street,NIT,addr
+1268299735,city,New Delhi,addr
+1268299735,country,IN,addr
+1268299735,housenumber,271,addr
+1268299735,state,Delhi,addr
+1268299735,street,NIT,addr
+1268299736,city,New Delhi,addr
+1268299736,country,IN,addr
+1268299736,housenumber,266,addr
+1268299736,state,Delhi,addr
+1268299736,street,NIT,addr
+1268299737,city,New Delhi,addr
+1268299737,country,IN,addr
+1268299737,housenumber,274,addr
+1268299737,state,Delhi,addr
+1268299737,street,NIT,addr
+1268299738,city,New Delhi,addr
+1268299738,country,IN,addr
+1268299738,housenumber,269,addr
+1268299738,state,Delhi,addr
+1268299738,street,NIT,addr
+1268299739,city,New Delhi,addr
+1268299739,country,IN,addr
+1268299739,housenumber,264,addr
+1268299739,state,Delhi,addr
+1268299739,street,NIT,addr
+1268299740,city,New Delhi,addr
+1268299740,country,IN,addr
+1268299740,housenumber,277,addr
+1268299740,state,Delhi,addr
+1268299740,street,NIT,addr
+1268299741,city,New Delhi,addr
+1268299741,country,IN,addr
+1268299741,housenumber,272,addr
+1268299741,state,Delhi,addr
+1268299741,street,NIT,addr
+1268299742,city,New Delhi,addr
+1268299742,country,IN,addr
+1268299742,housenumber,267,addr
+1268299742,state,Delhi,addr
+1268299742,street,NIT,addr
+1268300229,city,New Delhi,addr
+1268300229,country,IN,addr
+1268300229,housenumber,145,addr
+1268300229,state,Delhi,addr
+1268300229,street,NIT,addr
+1268300460,city,New Delhi,addr
+1268300460,country,IN,addr
+1268300460,housenumber,118,addr
+1268300460,state,Delhi,addr
+1268300460,street,NIT,addr
+1268300463,city,New Delhi,addr
+1268300463,country,IN,addr
+1268300463,housenumber,282,addr
+1268300463,state,Delhi,addr
+1268300463,street,NIT,addr
+1275190679,highway,turning_circle,regular
+1282710866,power,tower,regular
+1282711210,power,tower,regular
+1282711289,power,tower,regular
+1282711493,power,tower,regular
+1282712222,power,tower,regular
+1282712273,power,tower,regular
+1282712500,power,tower,regular
+1282712733,power,tower,regular
+1282712742,power,tower,regular
+1282712954,power,tower,regular
+1282712974,power,tower,regular
+1282713350,power,tower,regular
+1282713475,power,tower,regular
+1282713478,power,tower,regular
+1305481202,city,"Pandav Nagar, New Delhi",addr
+1305481202,amenity,atm,regular
+1305481202,name,Bank of Baroda ATM,regular
+1305481204,city,"Pandav Nagar, New Delhi",addr
+1305481204,amenity,pharmacy,regular
+1305481204,dispensing,no,regular
+1305481204,name,Bharat Medical Store,regular
+1305481209,city,"Pandav Nagar, New Delhi",addr
+1305481209,amenity,atm,regular
+1305481209,name,ICICI Bank ATM,regular
+1305481210,city,"Pandav Nagar, New Delhi",addr
+1305481210,amenity,hospital,regular
+1305481210,name,R K Hospital,regular
+1305483433,amenity,driving_school,regular
+1305483433,name,Krishna Motor Driving School,regular
+1305483434,name,Amar Motor Parts,regular
+1305483434,service,parts,regular
+1305483434,shop,car,regular
+1305483435,name,Canon Optician,regular
+1305483435,shop,optician,regular
+1305483438,brand,Hero Honda,regular
+1305483438,name,Auto Needs,regular
+1305483438,shop,motorcycle,regular
+1305483439,name,Manohar Motor Parts,regular
+1305483439,service,parts,regular
+1305483439,shop,car,regular
+1305484841,name,Guru Kripa Tyres,regular
+1305484841,shop,tyres,regular
+1305488150,amenity,dentist,regular
+1305488150,name,Gaur Dental Care,regular
+1305488151,amenity,hospital,regular
+1305488151,name,Dr. Shyama Prasad Mukherjee Chest Hospital,regular
+1305488157,amenity,place_of_worship,regular
+1305488157,name,Shiv Mandir,regular
+1305488157,religion,hindu,regular
+1305488157,wheelchair,no,regular
+1305488160,amenity,atm,regular
+1305488160,name,Axis Bank ATM,regular
+1305488160,wheelchair,yes,toilets
+1305488160,wheelchair,no,regular
+1305498630,city,"Pandav Nagar, New Delhi",addr
+1305498630,country,IN,addr
+1305498630,housenumber,E49,addr
+1305498631,city,"Pandav Nagar, New Delhi",addr
+1305498631,country,IN,addr
+1305498631,housenumber,F198,addr
+1305498633,city,"Pandav Nagar, New Delhi",addr
+1305498633,country,IN,addr
+1305498633,housenumber,F213,addr
+1305498641,city,"Pandav Nagar, New Delhi",addr
+1305498641,country,IN,addr
+1305498641,housenumber,E209,addr
+1305498643,city,"Pandav Nagar, New Delhi",addr
+1305498643,country,IN,addr
+1305498643,housenumber,E212,addr
+1305498644,city,"Pandav Nagar, New Delhi",addr
+1305498644,country,IN,addr
+1305498644,housenumber,E48,addr
+1305498645,city,"Pandav Nagar, New Delhi",addr
+1305498645,country,IN,addr
+1305498645,housenumber,E69,addr
+1305498652,city,"Pandav Nagar, New Delhi",addr
+1305498652,country,IN,addr
+1305498652,housenumber,E50,addr
+1305498655,city,"Pandav Nagar, New Delhi",addr
+1305498655,country,IN,addr
+1305498655,housenumber,E51,addr
+1305498657,amenity,bank,regular
+1305498657,atm,yes,regular
+1305498657,name,Punjab National Bank,regular
+1305498657,operator,Punjab National Bank,regular
+1305498657,wheelchair,no,toilets
+1305498657,wheelchair,limited,regular
+1305503224,amenity,doctors,regular
+1305503224,name,Clinic,regular
+1305816831,amenity,bank,regular
+1305816831,atm,yes,regular
+1305816831,name,State Bank of Patiala,regular
+1305816831,wheelchair,no,toilets
+1305816831,wheelchair,limited,regular
+1309626316,highway,traffic_signals,regular
+1309626320,highway,traffic_signals,regular
+1312319671,name,Shangri-La Hotel,regular
+1312319671,stars,5,regular
+1312319671,tourism,hotel,regular
+1312648855,city,"Pandav Nagar, New Delhi",addr
+1312648855,country,IN,addr
+1312648855,housenumber,F197,addr
+1328248365,amenity,public_building,regular
+1328248365,building,yes,regular
+1328248365,name,ISRO Earth Station,regular
+1328248392,amenity,place_of_worship,regular
+1328248392,denomination,sufi,regular
+1328248392,name,Moluddin Chishti Dargah,regular
+1328248392,religion,muslim,regular
+1328248411,historic,memorial,regular
+1328248411,name,Moluddin Chisti's Grave,regular
+1363453179,housename,"54, 2nd Flr, Old Ishwar Nagar, Main Mathura Road, New Friends Colony",addr
+1363453179,housenumber,"Above Bank of India, Near Tribhuvan Complex",addr
+1363453179,postcode,110065,addr
+1363453179,alt_name,NIIT NFC,regular
+1363453179,amenity,school,regular
+1363453179,name,"NIIT - New Friends Colony, South Delhi",regular
+1376266478,name,Navrang,regular
+1376266478,tourism,guest_house,regular
+1376268076,name,Vishal,regular
+1376268076,tourism,hotel,regular
+1376268077,city,New Delhi,addr
+1376268077,country,IN,addr
+1376268077,housenumber,1572-73,addr
+1376268077,place,Pahar Ganj,addr
+1376268077,postcode,110055,addr
+1376268077,street,Main Bazaar,addr
+1376268077,email,reservationhotelharekrishna@gmail.com,regular
+1376268077,name,Hare Krishna Guest House,regular
+1376268077,phone,011 41541340,regular
+1376268077,phone2,011 41541341,regular
+1376268077,phone3,011 43598427,regular
+1376268077,tourism,hotel,regular
+1376268077,website,http://www.hotelharekrishna.com/,regular
+1376268079,name,Anoop,regular
+1376268079,tourism,hotel,regular
+1387004898,amenity,fuel,regular
+1387004898,name,Indian oil,regular
+1387004983,amenity,fuel,regular
+1387005593,amenity,bank,regular
+1387005593,name,Canara bank,regular
+1393281031,amenity,fast_food,regular
+1393281031,cuisine,burger,regular
+1393281031,name,McDonald's,regular
+1402090129,leisure,park,regular
+1402090129,name,DDA Park,regular
+1412277219,amenity,hospital,regular
+1412277219,name,Surya Hospital,regular
+1412626605,amenity,fast_food,regular
+1412626605,name,Rupa Ice Cream Parlour,regular
+1413851143,amenity,place_of_worship,regular
+1413851143,name,Dev Mandir,regular
+1413851143,hi,देव मंदिर,name
+1413851143,religion,hindu,regular
+1413851143,source,Local Knowledge,regular
+1413863725,highway,mini_roundabout,regular
+1413863725,name,Gol Chakkar,regular
+1413863725,hi,गोल चक्कर,name
+1414804424,name,Chhachhi Building,regular
+1414804424,shop,clothes,regular
+1414804432,amenity,restaurant,regular
+1414804432,name,Agarwal Sweet Place,regular
+1414804440,amenity,school,regular
+1414804440,name,Ratan Devi Girls Senior Sec. School,regular
+1414804464,amenity,atm,regular
+1415371397,int_name,Ramlila Ground,regular
+1415371397,leisure,park,regular
+1415371397,name,रामलीला मैदान,regular
+1419899235,housename,Mehrasons Jewellers,addr
+1419899235,housenumber,P-110/1,addr
+1419899235,street,"Ajmal Khan Road, Karol Bagh",addr
+1419899235,name,Mehrasons Jewellers,regular
+1419899235,shop,jewelry,regular
+1419899235,website,www.mehrasonsjewellers.com,regular
+1421697605,housename,Mehrasons Jewellers,addr
+1421697605,housenumber,68,addr
+1421697605,street,Janpath Lane,addr
+1421697605,name,Mehrasons Jewellers,regular
+1421697605,shop,jewelry,regular
+1421697605,website,www.mehrasonsjewellers.com,regular
+1428945804,housenumber,7,addr
+1428945804,postcode,110054,addr
+1428945804,street,Sham Nath Marg,addr
+1428945804,fax,+91 11 2398 0771,regular
+1428945804,name,Maidens Hotel,regular
+1428945804,phone,+91 11 2397 5464,regular
+1428945804,tourism,hotel,regular
+1428945804,website,www.maidenshotel.com,regular
+1428945804,wheelchair,yes,regular
+1442029370,amenity,restaurant,regular
+1442029382,amenity,pharmacy,regular
+1442029478,amenity,restaurant,regular
+1442029478,cuisine,indian,regular
+1442029478,name,Dawat Khana Restaurant,regular
+1483256400,name,Radisson Marina,regular
+1483256400,tourism,hotel,regular
+1523215065,man_made,water_tower,regular
+1523215066,man_made,water_tower,regular
+1523215068,man_made,water_tower,regular
+1524384434,highway,traffic_signals,regular
+1524403132,crossing,unmarked,regular
+1524403132,crossing_ref,zebra,regular
+1524403132,highway,traffic_signals,regular
+1528701241,amenity,swimming_pool,regular
+1528701241,designation,School of Planning and Architecture,regular
+1528701241,name,SPA pool,regular
+1528703666,name,Scholl of Planning and Architecture Hostel and Residential Complex,regular
+1528703666,tourism,hostel,regular
+1528705924,leisure,sports_centre,regular
+1528705924,name,Fitness Studioz,regular
+1528706113,amenity,place_of_worship,regular
+1528706113,name,Mata Mandir,regular
+1528706113,religion,hindu,regular
+1528708531,amenity,place_of_worship,regular
+1528708531,name,Gurudwara NFC,regular
+1528708531,religion,sikh,regular
+1528709488,amenity,bank,regular
+1528709488,atm,yes,regular
+1528709488,name,ICICI Bank,regular
+1528709694,amenity,bank,regular
+1528709694,atm,yes,regular
+1528709694,name,HDFC Bank,regular
+1528713073,amenity,hospital,regular
+1528713073,name,Sujan Mohinder Singh Hospital,regular
+1528715525,building,office,regular
+1528715525,name,BSES Rajdhani (NFC),regular
+1528716741,amenity,post_office,regular
+1528716741,name,Post Office,regular
+1528719395,amenity,fuel,regular
+1528719395,brand,Hindustan Petroleum,regular
+1528719395,diesel,yes,fuel
+1528719395,octane_98,yes,fuel
+1528719395,name,HP (NFC),regular
+1534482776,name,Hotel Florence,regular
+1534482776,tourism,hotel,regular
+1534482780,shop,art,regular
+1534482794,historic,memorial,regular
+1534482794,name,Gandhi Smriti,regular
+1534482799,amenity,bank,regular
+1534482799,name,State Bank Of India,regular
+1556466157,name,Imperial Hotel,regular
+1556466157,tourism,hotel,regular
+1556466158,amenity,restaurant,regular
+1556466158,cuisine,thai,regular
+1556466158,name,Spice Route,regular
+1556467803,amenity,restaurant,regular
+1556467803,cuisine,thai,regular
+1556467803,name,Good Earth,regular
+1556471305,historic,archaeological_site,regular
+1556471305,name,Step Well,regular
+1563325267,amenity,restaurant,regular
+1563325267,name,Nathus Sweets,regular
+1563325307,amenity,restaurant,regular
+1563325307,name,Benagali Sweets,regular
+1572865411,railway,level_crossing,regular
+1572865416,railway,level_crossing,regular
+1572865418,railway,level_crossing,regular
+1655605807,amenity,kindergarten,regular
+1655605807,name,The Hope Project,regular
+1665772854,amenity,bus_station,regular
+1665772854,name,Shahdara,regular
+1665772896,highway,bus_stop,regular
+1665772897,name,Central Secretariat,regular
+1665772897,network,DMRC,regular
+1665772897,railway,station,regular
+1665772918,name,Punjabi Bagh East,regular
+1665772918,network,DMRC,regular
+1665772918,railway,station,regular
+1665799172,amenity,bus_station,regular
+1665799172,name,Safdarjung,regular
+1669039157,housename,Art Of Spices,addr
+1669039157,amenity,fast_food,regular
+1669039157,cuisine,chicken,regular
+1669039157,name,Art Of Spices,regular
+1669051216,leisure,park,regular
+1669051216,name,Vivekanand Park (Sindi Park),regular
+1669067086,amenity,marketplace,regular
+1669067086,name,Shankar Market,regular
+1669069398,amenity,fuel,regular
+1669092652,amenity,fuel,regular
+1669092665,leisure,park,regular
+1669092717,amenity,bus_station,regular
+1669092717,name,Pusa Institute,regular
+1669092748,power,substation,regular
+1669092762,amenity,fast_food,regular
+1669092762,cuisine,indian,regular
+1669092762,name,Aggarwal Sweets,regular
+1669092801,amenity,fast_food,regular
+1669092801,cuisine,burger,regular
+1669092801,name,McDonald's,regular
+1669092809,amenity,place_of_worship,regular
+1669092809,name,Sanatan Dharam Mandir,regular
+1669850556,city,New Delhi,addr
+1669850556,country,IN,addr
+1669850556,postcode,110055,addr
+1669850556,state,Delhi,addr
+1669850556,street,Arakashan Road,addr
+1669850556,suburb,Ram Nagar,addr
+1669850556,name,Hotel Krishna,regular
+1669850556,tourism,hotel,regular
+1694776065,amenity,bus_station,regular
+1694776098,amenity,bus_station,regular
+1740866645,amenity,marketplace,regular
+1740866645,name,Nauroji Nagar Market,regular
+1740870590,name,Nauroji Nagar,regular
+1740870590,place,locality,regular
+1740889311,amenity,place_of_worship,regular
+1740890845,name,Netaji Nagar,regular
+1740890845,place,locality,regular
+1740891891,amenity,place_of_worship,regular
+1740891891,name,Nanak Pura Gurudwara,regular
+1740893951,name,Satya Niketan,regular
+1740893951,place,locality,regular
+1753807083,highway,crossing,regular
+1753807093,highway,crossing,regular
+1753807128,highway,crossing,regular
+1753807145,entrance,main,regular
+1753807162,highway,crossing,regular
+1753807171,highway,crossing,regular
+1753807187,highway,crossing,regular
+1754574641,historic,archaeological_site,regular
+1754574641,name,Tomb of Abdul Rahim Khan I Khana,regular
+1754574702,historic,archaeological_site,regular
+1754574702,name,Isa Khan's Tomb,regular
+1754729460,highway,crossing,regular
+1754729462,highway,crossing,regular
+1754729483,highway,crossing,regular
+1754729508,highway,crossing,regular
+1754729516,highway,crossing,regular
+1754729534,highway,crossing,regular
+1754729548,highway,crossing,regular
+1762961283,name,Palika Bazar,regular
+1762961283,shop,shopping_centre,regular
+1762989501,highway,crossing,regular
+1762989522,highway,crossing,regular
+1762989534,highway,crossing,regular
+1762989550,highway,crossing,regular
+1764096330,highway,crossing,regular
+1764096343,highway,crossing,regular
+1764096361,highway,crossing,regular
+1764096373,highway,crossing,regular
+1764096385,highway,crossing,regular
+1764096436,highway,crossing,regular
+1765269483,highway,crossing,regular
+1787431976,name,Udyog Nagar,regular
+1787431976,network,DMRC,regular
+1787431976,railway,station,regular
+1788608633,highway,traffic_signals,regular
+1794027306,name,Imperial apartments,regular
+1794027306,phone,01149977000,regular
+1794027306,tourism,hotel,regular
+1794573836,housename,H4-A,addr
+1794573836,housenumber,H4-A,addr
+1794573836,postcode,110092,addr
+1794573836,street,Gali No. 1,addr
+1794573836,building,house,regular
+1794573836,name,"H4-A, Shakarpur",regular
+1794577622,shop,clothes,regular
+1794577624,shop,alcohol,regular
+1794577625,shop,clothes,regular
+1794577629,shop,clothes,regular
+1794578723,amenity,fast_food,regular
+1794578723,cuisine,indian,regular
+1794578883,amenity,place_of_worship,regular
+1794578883,name,Mata Ka Mandir,regular
+1794578883,religion,hindu,regular
+1794578884,amenity,place_of_worship,regular
+1794578884,name,Shri Lal Tandir Sandeep,regular
+1794578884,religion,hindu,regular
+1795875778,name,The Cotton Lawn Shop,regular
+1795875778,shop,clothes,regular
+1795902649,amenity,fast_food,regular
+1795902649,cuisine,indian,regular
+1795902649,name,Vegetarian Food,regular
+1795902652,amenity,restaurant,regular
+1795902652,cuisine,chinese,regular
+1795902662,amenity,fast_food,regular
+1795902662,cuisine,indian,regular
+1796122204,amenity,marketplace,regular
+1796122204,source,survey,regular
+1796122206,amenity,marketplace,regular
+1796122206,source,survey,regular
+1796122215,shop,music,regular
+1796122217,amenity,pharmacy,regular
+1796122219,amenity,marketplace,regular
+1796122219,source,survey,regular
+1796122220,amenity,marketplace,regular
+1796122220,source,survey,regular
+1796124925,amenity,bank,regular
+1796564344,shop,clothes,regular
+1796564345,shop,clothes,regular
+1796564346,shop,clothes,regular
+1798527002,shop,books,regular
+1800578898,comment,Traditional Indian Ethnic Clothes,regular
+1800578898,shop,clothes,regular
+1800578898,source,survey,regular
+1800779891,highway,bus_stop,regular
+1805785677,amenity,cafe,regular
+1805785728,shop,interior_decoration,regular
+1805790912,shop,greengrocer,regular
+1805790951,amenity,police,regular
+1805790951,name,Lajpat Nagar Police Station,regular
+1805872659,highway,crossing,regular
+1805872744,highway,crossing,regular
+1805893463,natural,tree,regular
+1805893466,natural,tree,regular
+1805893467,natural,tree,regular
+1805893469,natural,tree,regular
+1805893471,natural,tree,regular
+1805893472,natural,tree,regular
+1805893473,natural,tree,regular
+1805893478,natural,tree,regular
+1805893480,natural,tree,regular
+1805893486,natural,tree,regular
+1810641854,power,tower,regular
+1810641857,power,tower,regular
+1810641864,power,tower,regular
+1810641866,power,tower,regular
+1810641869,power,tower,regular
+1810641871,power,tower,regular
+1810641874,power,tower,regular
+1810641877,power,tower,regular
+1810641882,power,tower,regular
+1810641884,power,tower,regular
+1810641889,power,tower,regular
+1810651008,power,tower,regular
+1810651010,power,tower,regular
+1810651011,power,tower,regular
+1810651012,power,tower,regular
+1810651013,power,tower,regular
+1810651014,power,tower,regular
+1819107695,power,tower,regular
+1819107716,power,tower,regular
+1819107720,power,tower,regular
+1819107870,power,tower,regular
+1819560551,power,tower,regular
+1824659742,name,Satguru Ramsingh Marg,regular
+1824659742,network,DMRC,regular
+1824659742,railway,station,regular
+1835677720,name,Tughlakabad,regular
+1835677720,railway,station,regular
+1835811732,power,tower,regular
+1835811733,power,tower,regular
+1835811739,power,tower,regular
+1835811773,power,tower,regular
+1835811774,power,tower,regular
+1835811775,power,tower,regular
+1835811776,power,tower,regular
+1835811777,power,tower,regular
+1835811778,power,tower,regular
+1835811779,power,tower,regular
+1835811780,power,tower,regular
+1835811781,power,tower,regular
+1835811782,power,tower,regular
+1835811783,power,tower,regular
+1835811784,power,tower,regular
+1835811786,power,tower,regular
+1835811797,power,tower,regular
+1835811799,power,tower,regular
+1835811801,power,tower,regular
+1835811803,power,tower,regular
+1835811805,power,tower,regular
+1835811808,power,tower,regular
+1835811812,power,tower,regular
+1835811815,power,tower,regular
+1835811819,power,tower,regular
+1835811822,power,tower,regular
+1835811824,power,tower,regular
+1835811827,power,tower,regular
+1835811828,power,tower,regular
+1835811835,power,tower,regular
+1835811837,power,tower,regular
+1835811840,power,tower,regular
+1835811842,power,tower,regular
+1835811845,power,tower,regular
+1835811848,power,tower,regular
+1835811850,power,tower,regular
+1835811851,power,tower,regular
+1835811852,power,tower,regular
+1835811854,power,tower,regular
+1835811858,power,tower,regular
+1835811869,power,tower,regular
+1835811871,power,tower,regular
+1869716862,highway,traffic_signals,regular
+1869899247,name,New Ashok Nagar,regular
+1869899247,network,DMRC,regular
+1869899247,railway,station,regular
+1869899374,barrier,gate,regular
+1869899439,highway,traffic_signals,regular
+1870091798,highway,traffic_signals,regular
+1870091806,highway,traffic_signals,regular
+1870091809,highway,traffic_signals,regular
+1870091814,highway,traffic_signals,regular
+1870091835,highway,traffic_signals,regular
+1870091836,highway,traffic_signals,regular
+1870091837,highway,traffic_signals,regular
+1870091845,power,tower,regular
+1870091847,power,tower,regular
+1870091856,power,tower,regular
+1870091861,power,tower,regular
+1870091862,highway,traffic_signals,regular
+1870091876,railway,buffer_stop,regular
+1870091889,railway,buffer_stop,regular
+1870091890,railway,level_crossing,regular
+1870091891,railway,level_crossing,regular
+1870091900,crossing,traffic_signals,regular
+1870091900,highway,traffic_signals,regular
+1870814931,building,yes,regular
+1870814931,name,Kerala House,regular
+1886793206,name,Ashok Park Main,regular
+1886793206,network,DMRC,regular
+1886793206,railway,station,regular
+1940318525,amenity,restaurant,regular
+1940318525,name,Club India Restaurant,regular
+1940318530,name,Gushi International,regular
+1940318530,tourism,hotel,regular
+1940318533,amenity,cafe,regular
+1940318533,name,Madan Café,regular
+1940318549,amenity,restaurant,regular
+1940318549,name,New Mt. Everest Restaurant,regular
+1940318556,amenity,place_of_worship,regular
+1940318556,religion,hindu,regular
+1940318561,shop,convenience,regular
+1940318563,name,Rak International,regular
+1940318563,tourism,hotel,regular
+1940318566,name,Sapna,regular
+1940318566,tourism,hotel,regular
+1966254710,amenity,atm,regular
+1966254710,operator,Andhra Bank,regular
+1966254717,amenity,restaurant,regular
+1966254717,name,Andhra Bhawan Canteen,regular
+1973687183,building,house,regular
+1973687183,name,Chanderlock Building,regular
+1988513576,name,Brar Square,regular
+1988513576,railway,station,regular
+1988513578,name,Inderpuri,regular
+1988513578,railway,station,regular
+1988513579,name,Kirti Nagar,regular
+1988513579,railway,station,regular
+1988513580,name,Kishanganj,regular
+1988513580,railway,station,regular
+1988513580,ref,KNE,regular
+1988513581,name,Lajpat Nagar,regular
+1988513581,railway,station,regular
+1988513581,ref,LPNR,regular
+1988513582,name,Lodhi Colony,regular
+1988513582,railway,station,regular
+1988513583,name,Pragati Maidan,regular
+1988513583,railway,station,regular
+1988513597,name,Sarojini Nagar,regular
+1988513597,railway,station,regular
+1988513598,name,Shivaji Bridge,regular
+1988513598,railway,station,regular
+1988513598,ref,CSB,regular
+1988513598,wheelchair,yes,regular
+1988513599,name,Tilak Bridge,regular
+1988513599,railway,station,regular
+1988513599,ref,TKJ,regular
+1988513600,alt_name,Sarai Rohilla,regular
+1988513600,name,Vivekanand Puri,regular
+1988513600,railway,station,regular
+1988585233,name,Hazrat Nizamuddin,regular
+1988585233,railway,station,regular
+1988585239,name,Sardar Patel Road,regular
+1988585239,railway,station,regular
+1988668271,name,Janpath,regular
+1988668271,network,DMRC,regular
+1988668271,railway,station,regular
+1988668278,construction,station,regular
+1988668278,name,ITO,regular
+1988668278,railway,construction,regular
+1988668281,construction,station,regular
+1988668281,name,Jama Masjid,regular
+1988668281,railway,construction,regular
+1992173462,railway,level_crossing,regular
+1992173464,railway,level_crossing,regular
+1992173465,railway,level_crossing,regular
+1993232069,fixme,name,regular
+1993232069,name,"Ritesh Mehta, A 208 New Friends Colony",regular
+2001957684,power,tower,regular
+2001957690,power,tower,regular
+2001957691,power,tower,regular
+2001957692,power,tower,regular
+2001957693,power,tower,regular
+2001957695,power,tower,regular
+2001957697,power,tower,regular
+2001957699,power,tower,regular
+2001957706,crossing,unmarked,regular
+2001957706,crossing_ref,zebra,regular
+2001957706,highway,crossing,regular
+2001957708,crossing,unmarked,regular
+2001957708,crossing_ref,zebra,regular
+2001957708,highway,crossing,regular
+2001957714,crossing,unmarked,regular
+2001957714,crossing_ref,zebra,regular
+2001957714,highway,traffic_signals,regular
+2001957717,power,tower,regular
+2001957723,crossing,unmarked,regular
+2001957723,crossing_ref,zebra,regular
+2001957723,highway,traffic_signals,regular
+2001957726,crossing,unmarked,regular
+2001957726,crossing_ref,zebra,regular
+2001957726,highway,crossing,regular
+2001957759,power,tower,regular
+2001957802,power,tower,regular
+2001957803,power,tower,regular
+2001957804,power,tower,regular
+2001957805,power,tower,regular
+2001957806,power,tower,regular
+2001957809,power,tower,regular
+2001957811,power,tower,regular
+2001957813,power,tower,regular
+2001957816,power,tower,regular
+2001957818,power,tower,regular
+2001957820,power,tower,regular
+2001957823,power,tower,regular
+2001957828,power,tower,regular
+2001957831,power,tower,regular
+2001957863,power,tower,regular
+2001957877,power,tower,regular
+2001957880,power,tower,regular
+2001957887,power,tower,regular
+2001957891,power,tower,regular
+2001957893,power,tower,regular
+2008194606,name,Cottage Ganga Inn,regular
+2008194606,phone,+91-11-23561516,regular
+2008194606,tourism,guest_house,regular
+2032404457,housename,Hans Bhawan,addr
+2032404457,housenumber,Wing 2,addr
+2032404457,postcode,110002,addr
+2032404457,street,Bahadur shah Zafar Marg,addr
+2032404457,name,Liquor Shop,regular
+2032404457,shop,alcohol,regular
+2032404457,source,Survey,regular
+2068758544,housenumber,M.P.'s Banglow,addr
+2068758544,street,Marg,addr
+2068760574,housenumber,M.S. FLATS (Alloted to member of parliament),addr
+2068760574,street,Marg,addr
+2068761807,housenumber,Swarn jayanti (alloted for members of parliament),addr
+2068761807,street,Marg,addr
+2084482683,amenity,fuel,regular
+2084482683,name,Fuel,regular
+2084482683,opening_hours,24/7,regular
+2093526416,amenity,fast_food,regular
+2093526416,cuisine,burger,regular
+2093526416,name,McDonalds,regular
+2093526495,amenity,fast_food,regular
+2093526495,cuisine,pizza,regular
+2093526495,name,Dominos,regular
+2093530496,amenity,fast_food,regular
+2093530496,name,McDonalds,regular
+2093531415,amenity,fast_food,regular
+2093531415,name,Haldirams,regular
+2093534294,amenity,atm,regular
+2093534294,fee,SBI ATM,regular
+2093535346,amenity,atm,regular
+2093535346,fee,PNB ATM,regular
+2102480835,colour,blue,regular
+2102480835,name,Gate 2,regular
+2102480835,network,DMRC,regular
+2102480835,railway,subway_entrance,regular
+2106101596,amenity,restaurant,regular
+2106101596,cuisine,chicken,regular
+2106101596,name,Karim's,regular
+2106104833,amenity,fast_food,regular
+2106104833,name,Kathi Rolls,regular
+2106110096,amenity,fast_food,regular
+2106110096,cuisine,indian,regular
+2106110096,name,Parathe Wali Gali,regular
+2106114484,amenity,restaurant,regular
+2106114484,cuisine,vegetarian,regular
+2106114484,vegetarian,only,diet
+2106114484,name,Moti Mahal,regular
+2126427164,railway,level_crossing,regular
+2127415668,power,tower,regular
+2148036151,name,D block,regular
+2148036663,name,C block,regular
+2148037216,name,B block,regular
+2148037309,name,E block,regular
+2148037703,name,F block,regular
+2148038406,name,A block,regular
+2148045457,leisure,playground,regular
+2148045457,name,Ajay Ahuja Park,regular
+2148678738,postcode,110003,addr
+2148678738,street,Lodi Road,addr
+2148678738,amenity,school,regular
+2148678738,name,Air Force Bal Bharati School,regular
+2148682302,building,yes,regular
+2148682302,name,National Institute Of Design,regular
+2165822079,amenity,post_office,regular
+2165822097,amenity,fire_station,regular
+2165822105,amenity,police,regular
+2165822105,name,Prasad Nagar Police Station,regular
+2177059795,housenumber,6/44,addr
+2177059795,street,"Ahuja Sons Shalwale, Karol Bagh",addr
+2189423849,amenity,arts_centre,regular
+2189423849,name,Cottage Emporium,regular
+2189423849,shop,mall,regular
+2209522478,building,yes,regular
+2209529029,housename,moti,addr
+2209529029,housenumber,123,addr
+2209529029,postcode,020626,addr
+2209529029,street,Moti,addr
+2209529029,name,moti,regular
+2209529029,shop,bakery,regular
+2209529029,website,abccccc,regular
+2209543836,amenity,bar,regular
+2209543836,name,mohini bar,regular
+2210905408,name,Maruti Showroom,regular
+2210905408,shop,car,regular
+2211538217,power,tower,regular
+2211556410,power,tower,regular
+2211556411,power,tower,regular
+2235501039,city,New Delhi,addr
+2235501039,country,IN,addr
+2235501039,housenumber,8647,addr
+2235501039,postcode,110055,addr
+2235501039,street,Arakashan Road,addr
+2235501039,suburb,Ram Nagar,addr
+2235501039,email,info@ajantahotel.com,regular
+2235501039,fax,+91 11 23620228,regular
+2235501039,internet_access,wlan,regular
+2235501039,fee,no,internet_access
+2235501039,name,Ajanta,regular
+2235501039,phone,+91 11 42350000,regular
+2235501039,tourism,hotel,regular
+2235501039,website,http://www.ajantahotel.com,regular
+2235501042,city,New Delhi,addr
+2235501042,country,IN,addr
+2235501042,postcode,110055,addr
+2235501042,state,Delhi,addr
+2235501042,street,Arakashan Road,addr
+2235501042,suburb,Ram Nagar,addr
+2235501042,name,Shere Punjab,regular
+2235501042,tourism,guest_house,regular
+2295020922,name,Mother Dairy,regular
+2295020922,shop,dairy,regular
+2295020927,name,Safal,regular
+2295020927,shop,Vegetables,regular
+2295020930,amenity,restaurant,regular
+2295020930,cuisine,Chinese_and_North_Indian,regular
+2295020930,name,Pal,regular
+2295020934,amenity,restaurant,regular
+2295020934,cuisine,North_Indian,regular
+2295020934,name,Chawla's,regular
+2295020937,name,Friendicoes,regular
+2295045694,amenity,cafe,regular
+2295045694,cuisine,Tea_and_toast,regular
+2295045694,internet_access,no,regular
+2295045694,name,Darshan's,regular
+2295045695,amenity,cinema,regular
+2295045695,name,Eros One,regular
+2295045696,amenity,restaurant,regular
+2295045696,cuisine,burger,regular
+2295045696,name,McDonald's,regular
+2295045718,amenity,bank,regular
+2295045718,atm,yes,regular
+2295045718,name,HDFC,regular
+2295045719,shop,chemist,regular
+2295045720,amenity,restaurant,regular
+2295045720,cuisine,North_Indian,regular
+2295045720,name,Beliram Degchiwala,regular
+2295045721,amenity,restaurant,regular
+2295045721,cuisine,sandwich,regular
+2295045721,name,Hawker's House and Novelty Dairy,regular
+2295090140,amenity,place_of_worship,regular
+2295090140,name,Gurdwara Damdama Sahib,regular
+2295090140,religion,sikh,regular
+2295396747,historic,monument,regular
+2295396747,name,Commonwealth Games Sundial,regular
+2295396748,amenity,school,regular
+2295396748,name,MCD School,regular
+2295396749,amenity,place_of_worship,regular
+2295396749,name,Gurudwara,regular
+2295396749,religion,sikh,regular
+2318172256,city,New Delhi,addr
+2318172256,housenumber,B-1/12,addr
+2318172256,postcode,110029,addr
+2318172256,street,Safdarjung Enclave,addr
+2318172256,amenity,hospital,regular
+2318172256,name,Goyal MRI & Diagnostic Centre,regular
+2318172256,phone,+91-11-40771234,regular
+2318179701,city,New Delhi,addr
+2318179701,housenumber,"11/1903,",addr
+2318179701,postcode,110055,addr
+2318179701,street,"Chuna Mandi, Paharganj",addr
+2318179701,email,info@goyal-books.com,regular
+2318179701,name,Goyal Brothers Prakashan,regular
+2318179701,phone,+91-120-3830000; +91-11-23582812 / 4658,regular
+2318179701,website,http://www.goyal-books.com,regular
+2323525222,historic,monument,regular
+2323525222,name,Jai Praksh Yantra,regular
+2323525222,source,Bing,regular
+2323525223,historic,monument,regular
+2323525223,name,Misra Yantra,regular
+2323525223,source,Bing,regular
+2323525224,historic,monument,regular
+2323525224,name,Misra Yantra,regular
+2323525224,source,Bing,regular
+2323525225,historic,monument,regular
+2323525225,name,Misra Yantra,regular
+2323525225,source,Bing,regular
+2323525226,historic,monument,regular
+2323525226,name,Ram Yantra,regular
+2323525226,source,Bing,regular
+2323525227,historic,monument,regular
+2323525227,name,Shasthamasa Yantra,regular
+2323525227,source,Bing,regular
+2323525287,amenity,toilets,regular
+2323525293,entrance,main,regular
+2323525293,foot,yes,regular
+2327524028,amenity,restaurant,regular
+2327524028,cuisine,asian,regular
+2327524028,name,Berco´s restaurant,regular
+2327524031,information,office,regular
+2327524031,name,India Tourism (tourist information centre),regular
+2327524031,tourism,information,regular
+2327524039,amenity,fast_food,regular
+2327524039,name,KFC,regular
+2327524042,name,Tantra T-shirts,regular
+2327524042,shop,clothes,regular
+2327524046,amenity,atm,regular
+2327524046,operator,YES Bank,regular
+2327524049,amenity,atm,regular
+2327524049,operator,Central bank of India,regular
+2327524052,amenity,atm,regular
+2327524052,operator,ICICI Bank,regular
+2327524066,amenity,toilets,regular
+2327524066,fee,no,regular
+2327524069,amenity,toilets,regular
+2327524069,fee,no,regular
+2337326654,name,55/5 old rajndra,regular
+2337327114,name,Sri ram class,regular
+2384617868,leisure,sports_centre,regular
+2384617868,source,local knowledge,regular
+2384617868,sport,cricket,regular
+2384623590,amenity,school,regular
+2384623590,name,Cambridge Primary School,regular
+2384623590,source,local knowledge,regular
+2384628616,amenity,post_box,regular
+2384628616,operator,Indian Postal Service,regular
+2384628616,source,local knowledge,regular
+2389530256,postcode,110003,addr
+2389530256,street,Lodhi Estate,addr
+2389530256,amenity,school,regular
+2389530256,name,Shyama Prasad Vidyalaya,regular
+2389530256,source,Survey,regular
+2389532102,bus,yes,regular
+2389532102,name,Lodhi Estate Bus Stop,regular
+2389532102,public_transport,stop_position,regular
+2397564981,source,Bing,regular
+2397565005,source,Bing,regular
+2397565018,source,Bing,regular
+2410177680,man_made,water_well,regular
+2410177680,name,Step well,regular
+2410180163,name,Delhi Emporium,regular
+2410180163,shop,department_store,regular
+2410180164,amenity,atm,regular
+2410180164,operator,State Bank of India,regular
+2410180165,amenity,atm,regular
+2410180165,operator,State Bank of India,regular
+2410180166,amenity,cafe,regular
+2410180166,name,Starbucks,regular
+2416119458,name,Crafts Museum,regular
+2416119458,tourism,museum,regular
+2416119458,website,http://http://nationalcraftsmuseum.nic.in,regular
+2416119458,wikipedia,"en:National Handicrafts and Handlooms Museum, New Delhi",regular
+2416119464,internet_access,yes,regular
+2416119464,fee,yes,internet_access
+2416119464,name,IRCTC-Ginger Rail Yatri Niwas,regular
+2416119464,tourism,hotel,regular
+2416119663,amenity,fuel,regular
+2416119663,brand,Bharat Petroleum,regular
+2416119663,name,IBP Petrol pump,regular
+2416119668,access,yes,regular
+2416119668,building,yes,regular
+2416119668,entrance,main,regular
+2416119668,historic,city_gate,regular
+2416119668,name,Sher Shah Suri Gate,regular
+2416151557,amenity,restaurant,regular
+2416151557,name,All American Diner,regular
+2416151565,amenity,fast_food,regular
+2416151565,cuisine,indian,regular
+2416151565,name,Comesum,regular
+2416151585,amenity,fuel,regular
+2416151585,brand,Bharat Petroleum,regular
+2416151597,building,yes,regular
+2416151597,name,Tibet House,regular
+2421574251,city,New Delhi,addr
+2421574251,street,Naoroji Nagar Market,addr
+2421574251,unit,2A,addr
+2421574251,amenity,restaurant,regular
+2421574251,cuisine,indian,regular
+2421574251,name,Baboo Da Punjabi Dhaba,regular
+2421574251,wifi,no,regular
+2421839490,city,New Delhi,addr
+2421839490,building,house,regular
+2421839490,name,Pragati Bhavan,regular
+2421934883,city,New Delhi,addr
+2421934883,street,Khan Market,addr
+2421934883,amenity,cafe,regular
+2421934883,name,Cafe Turtle,regular
+2422698829,city,New Delhi,addr
+2422698829,street,South Extension,addr
+2422698829,name,Metro,regular
+2422698829,shop,shoes,regular
+2422712363,city,New Delhi,addr
+2422712363,street,South Extension,addr
+2422712363,name,Hush Puppies,regular
+2422712363,shop,shoes,regular
+2422717787,city,New Delhi,addr
+2422717787,street,South Extension,addr
+2422717787,amenity,cafe,regular
+2422717787,name,Starbucks,regular
+2422718025,alt_name,South Extension I,regular
+2422718025,name,South Extn I,regular
+2422718025,place,locality,regular
+2422747389,city,New Delhi,addr
+2422747389,housename,N5 South Extension Part 1,addr
+2422747389,postcode,1100049,addr
+2422747389,craft,jeweller,regular
+2422747389,name,Ahilya,regular
+2445942886,amenity,school,regular
+2445942886,name,Jagriti School,regular
+2445989850,amenity,school,regular
+2445989850,name,Government Senior Secondary School,regular
+2445989851,amenity,school,regular
+2445989851,name,Sarvodaya Kanya Vidyalaya,regular
+2445991304,leisure,park,regular
+2445991304,name,Rock Garden,regular
+2445991452,amenity,school,regular
+2445991452,name,Govt. Boys HB School,regular
+2445992231,amenity,school,regular
+2445992231,name,DAV School,regular
+2445992322,amenity,hospital,regular
+2445992322,name,Sardar Vallabh Bhai Patel Hospital,regular
+2445994140,leisure,park,regular
+2445994140,name,Jogger's Park,regular
+2445994438,leisure,park,regular
+2445994438,name,Central Park,regular
+2445995058,leisure,park,regular
+2445995058,name,DDA Park,regular
+2445997667,leisure,park,regular
+2445997667,name,Pusa Harit Kranti Park,regular
+2445999306,leisure,park,regular
+2445999306,name,Rajendra Park,regular
+2445999512,amenity,college,regular
+2445999512,name,National Institute of Science Technology and Development Studies - NISTDS,regular
+2446000268,amenity,school,regular
+2446000268,name,Vidya Bhawan Senior Secondary School,regular
+2446002922,amenity,school,regular
+2446002922,name,Sindhi Higher Secondary School,regular
+2446003132,leisure,park,regular
+2446003132,name,R Block Park,regular
+2446006348,amenity,school,regular
+2446006348,name,Manav Sthali School,regular
+2446006349,leisure,park,regular
+2446006349,name,Haathi Park,regular
+2446006877,amenity,school,regular
+2446006877,name,Andh Kanya Vidyalaya,regular
+2446007242,leisure,park,regular
+2446007242,name,Sita Park,regular
+2446007364,leisure,park,regular
+2446007364,name,Nehru Park,regular
+2446007658,amenity,police,regular
+2446007658,name,Rajendra Nagar Police Station,regular
+2446008279,name,Police Residential Complex,regular
+2446009092,amenity,school,regular
+2446009092,name,DI Khan Bharati Sabha Higher Secondary School,regular
+2446009093,amenity,school,regular
+2446009093,name,Bapu Adarsh Vidyalaya,regular
+2446009483,amenity,atm,regular
+2446009483,name,Axis Bank ATM,regular
+2446010483,amenity,school,regular
+2446010483,name,Swami Dayanand Govt. Sarvodaya Vidyalaya,regular
+2446010582,amenity,school,regular
+2446010582,name,GD Salwan Public School,regular
+2446011409,name,LIC of India,regular
+2446013454,amenity,school,regular
+2446013454,name,Salwan Public School,regular
+2446015757,leisure,park,regular
+2446015757,name,Chetak Park,regular
+2450685791,city,New Delhi,addr
+2450685791,postcode,110003,addr
+2450685791,street,Lodhi Road,addr
+2450685791,historic,monument,regular
+2450685791,name,Tomb of Muhammad Shah Sayyid,regular
+2450685791,wikipedia,en:Lodi Gardens,regular
+2450690119,city,New Delhi,addr
+2450690119,housename,Lodi Garden,addr
+2450690119,postcode,110003,addr
+2450690119,street,South End Road,addr
+2450690119,historic,monument,regular
+2450690119,name,Tomb of Sikander Lodi,regular
+2450690119,wikipedia,en:Lodi Gardens,regular
+2452954966,housenumber,19,addr
+2452954966,street,Colony,addr
+2455846398,city,New Delhi,addr
+2455846398,street,Khan Market,addr
+2455846398,amenity,restaurant,regular
+2455846398,name,Big Chill,regular
+2489452021,city,New Delhi,addr
+2489452021,name,Skyview Hostel,regular
+2489452021,tourism,hostel,regular
+2503495534,housenumber,28,addr
+2503495534,street,Arakashan Road,addr
+2503495534,name,Uppal International,regular
+2503495534,tourism,hotel,regular
+2547190701,power,tower,regular
+2547190704,power,tower,regular
+2547190707,power,tower,regular
+2547190708,power,tower,regular
+2547190709,power,tower,regular
+2547190710,power,tower,regular
+2547190711,power,tower,regular
+2552443592,city,delhi,addr
+2552443592,housename,5a/7,addr
+2552443592,postcode,110002,addr
+2552443592,street,Road,addr
+2552443592,name,Oddway International,regular
+2552443592,note,"Oddway International is Wholesale exporter n supplier of all life saving medication like geftinat , iressa, erlonat , sorafenat , veenat , imatinib , erlotinib , Afinitor , kamagra etc",regular
+2552443592,phone,+91-9873336444,regular
+2552443592,products,"geftinat , veenat , erlonat , sorafenat , kamagra , iressa , afinitor",regular
+2552443592,website,http://www.oddwayinternational.com,regular
+2566844433,name,sunstar heights,regular
+2566844433,tourism,hotel,regular
+2569698442,amenity,atm,regular
+2569702112,name,Cottage Yes Please,regular
+2569702112,tourism,hotel,regular
+2571050955,city,New Delhi,addr
+2571050955,housenumber,16A/2 WEA,addr
+2571050955,postcode,110005,addr
+2571050955,street,Karol Bagh,addr
+2571050955,name,Hotel Perfect,regular
+2571050955,phone,011 42502294,regular
+2571050955,tourism,hotel,regular
+2571050955,website,http://www.hotelperfect.co.in/,regular
+2578295201,highway,bus_stop,regular
+2578295203,highway,bus_stop,regular
+2583922929,leisure,pitch,regular
+2583922929,sport,volleyball,regular
+2583923368,leisure,pitch,regular
+2583923368,name,JMI University Basketball Court,regular
+2583923368,sport,basketball,regular
+2583924590,amenity,bank,regular
+2583924590,atm,yes,regular
+2583924590,name,Indian bank,regular
+2591114288,amenity,cafe,regular
+2591114288,cuisine,ice_cream,regular
+2591114288,name,Cavanter's Milk Shake,regular
+2591114289,amenity,cafe,regular
+2591114289,name,Indian Coffee House,regular
+2591114290,amenity,fast_food,regular
+2591114290,name,Natraj Dahibhalla,regular
+2591114291,amenity,fast_food,regular
+2591114291,cuisine,indian,regular
+2591114291,internet_access,no,regular
+2591114291,name,Pani Puri Shop,regular
+2591114292,amenity,fast_food,regular
+2591114292,cuisine,indian,regular
+2591114292,name,Sanjha Chulha,regular
+2591114292,opening_hours,Mo-Su 20:00-02:00,regular
+2592537219,name,Beer& Wine Shop,regular
+2592537219,shop,alcohol,regular
+2592537220,amenity,embassy,regular
+2592537220,country,HU,regular
+2592537220,name,Embassy of the Republic of Hungary,regular
+2592537220,hu,Magyarország Nagykovetsége,name
+2592537221,name,Gate 1,regular
+2592537221,railway,subway_entrance,regular
+2592537222,colour,yellow,regular
+2592537222,name,Gate 2,regular
+2592537222,network,DMRC,regular
+2592537222,railway,subway_entrance,regular
+2592537223,name,Hira Sweets,regular
+2592537223,shop,confectionery,regular
+2592537224,building,yes,regular
+2592537224,historic,city_gate,regular
+2592537224,name,Humayun Darwaza (Gate),regular
+2592537225,amenity,restaurant,regular
+2592537225,name,Sayam Roof Top Restaurant,regular
+2592537226,name,Ticket Office,regular
+2592537226,shop,ticket,regular
+2592537261,access,yes,regular
+2592537261,entrance,yes,regular
+2592537261,wheelchair,yes,regular
+2592537271,shop,gift,regular
+2592537272,amenity,toilets,regular
+2592537272,fee,no,regular
+2592537522,amenity,toilets,regular
+2592537522,fee,no,regular
+2593805946,name,Dilli Haat,regular
+2593805946,shop,handicrafts,regular
+2593805947,name,"B Block market, Defence Colony",regular
+2593805948,housenumber,28A,addr
+2593805948,street,Defence Colony Market,addr
+2593805948,name,Rottmaal,regular
+2593805948,phone,01141017360,regular
+2593805948,website,www.rollmaal.in,regular
+2593805949,amenity,atm,regular
+2593805949,name,Citibank atm,regular
+2593805950,name,Baro cake shop,regular
+2601257942,name,Rockwell Plaza,regular
+2622338438,disused,yes,regular
+2622338438,name,Mandi House,regular
+2622338438,network,DMRC,regular
+2622338438,railway,station,regular
+2654011278,amenity,fuel,regular
+2654011278,name,Indian Oil,regular
+2654011317,name,Sri Vinayak,regular
+2654011317,tourism,hotel,regular
+2657888901,amenity,toilets,regular
+2669085015,admin_level,A1,regular
+2669085015,name,New Delhi,regular
+2669085015,railway,station,regular
+2669085015,ref,NDLS,regular
+2677421751,amenity,police,regular
+2684621696,highway,mini_roundabout,regular
+2697217184,city,New Delhi,addr
+2697217184,housenumber,18,addr
+2697217184,postcode,110003,addr
+2697217184,street,Amrita Shergil Marg,addr
+2697217184,name,Goa Sadan,regular
+2697217184,note,Representative office of the state of Goa.,regular
+2697217184,office,government,regular
+2697736906,city,New Delhi,addr
+2697736906,housenumber,1,addr
+2697736906,postcode,110003,addr
+2697736906,street,Amrita Shergil Lane,addr
+2697736906,amenity,taxi,regular
+2697736906,capacity,8,regular
+2697736906,name,Allied Car Rental Taxi Stand,regular
+2697736906,operator,Ajit Singh,regular
+2697736906,phone,+91 11 2469-0077,regular
+2697736906,website,www.alliedindia.in,regular
+2699334246,amenity,place_of_worship,regular
+2699334246,name,Sri Ramakrishna Temple,regular
+2699334246,religion,hindu,regular
+2699335584,name,General Library,regular
+2699335926,name,Computer Centre,regular
+2699462101,city,New Delhi,addr
+2699462101,housenumber,"703, Vikrant Tower",addr
+2699462101,postcode,110008,addr
+2699462101,name,Hashbrown Systems Pvt Ltd,regular
+2699462101,website,www.hashbrown.in,regular
+2702400314,description,http://www.greatlakes.edu.in/gurgaon/about-us/delhi-ncr-campus,regular
+2702400314,iso_3166_2,IN-DL,is_in
+2702400314,name,Delhi,regular
+2702400314,en,Delhi,name
+2702400314,ja,デリー,name
+2702400314,kn,ದೆಹಲಿ,name
+2702400314,ru,Дели,name
+2702400314,ta,டெல்லி,name
+2702400314,uk,Делі,name
+2702400314,place,city,regular
+2702400314,population,11008000,regular
+2702400314,wikidata,Q1353,regular
+2702400314,wikipedia,en:Delhi,regular
+2702748542,man_made,water_tower,regular
+2702748543,historic,archaeological_site,regular
+2702748543,name,Lahori Gate,regular
+2705238455,barrier,gate,regular
+2705238458,barrier,gate,regular
+2705238461,amenity,place_of_worship,regular
+2705238461,name,St. James' Church,regular
+2705238461,opening_hours,Mo-Fr 08:30-20:00,regular
+2705238461,religion,christian,regular
+2705534625,historic,archaeological_site,regular
+2705534625,name,Red Fort,regular
+2705534625,place,locality,regular
+2705534625,tourism,attraction,regular
+2706761307,name,Hudco Place,regular
+2706761307,place,locality,regular
+2706802119,name,CRRI Flats,regular
+2706802119,place,locality,regular
+2706814689,alt_name,Swatantra Co-op Housing Society,regular
+2706814689,name,Kalindi Colony,regular
+2706814689,place,locality,regular
+2709534496,city,New Delhi,addr
+2709534496,postcode,110001,addr
+2709534496,street,Radial Road 6,addr
+2709534496,amenity,restaurant,regular
+2709534496,capacity,50,regular
+2709534496,name,Keshav Restorent,regular
+2709534496,opening_hours,10-6,regular
+2709534496,phone,9015484272,regular
+2711124355,amenity,fountain,regular
+2711124358,name,Karol Bagh,regular
+2711124358,place,suburb,regular
+2713543087,name,Lajpat Nagar II,regular
+2713543087,place,locality,regular
+2713543088,name,Lajpat Nagar I,regular
+2713543088,place,locality,regular
+2713543676,name,Lajpat Nagar III,regular
+2713543676,place,locality,regular
+2713549507,name,Vikram Vihar,regular
+2713549507,place,locality,regular
+2713549516,name,Amar Colony,regular
+2713549516,place,locality,regular
+2713549529,name,Lajpat Nagar IV,regular
+2713549529,place,locality,regular
+2713549533,name,Dayanand Colony,regular
+2713549533,place,locality,regular
+2713559960,alt_name,Sriniwaspuri Extension,regular
+2713559960,name,Sriniwaspuri Extn,regular
+2713559960,place,locality,regular
+2713609280,name,Vinobapuri,regular
+2713609280,place,locality,regular
+2713618326,alt_name,Andrews Ganj Extension,regular
+2713618326,name,Andrews Ganj Extn,regular
+2713618326,place,locality,regular
+2713618332,name,Andrews Ganj,regular
+2713618332,place,locality,regular
+2713624999,housenumber,A-1/305,addr
+2713625003,housenumber,A-1/308,addr
+2713628538,man_made,water_tower,regular
+2713746396,alt_name,South Extension II,regular
+2713746396,name,South Extn II,regular
+2713746396,place,locality,regular
+2713824994,amenity,embassy,regular
+2713824994,country,BE,regular
+2713824994,name,Embassy of Belgium,regular
+2713825015,amenity,embassy,regular
+2713825015,country,EG,regular
+2713825015,name,Embassy of Egypt,regular
+2714309073,amenity,bicycle_parking,regular
+2714309073,name,Tonga Stand,regular
+2714309089,name,Gilahri Bagh,regular
+2714309089,place,locality,regular
+2714309161,name,Prem Nagar,regular
+2714309161,place,locality,regular
+2714309240,name,Shakti Nagar,regular
+2714309240,place,locality,regular
+2714360373,amenity,fire_station,regular
+2714360414,name,Bara Hindu Rao,regular
+2714360414,place,locality,regular
+2714374217,name,Pahari Dhiraj,regular
+2714374217,place,locality,regular
+2714375049,name,Teliwara,regular
+2714375049,place,locality,regular
+2714387550,name,Kashmere Gate,regular
+2714387550,network,DMRC,regular
+2714387550,railway,station,regular
+2714430425,historic,archaeological_site,regular
+2714430425,name,Mutiny Telegraph Memorial,regular
+2714497362,historic,archaeological_site,regular
+2714497362,name,Raziya Begum's Tomb,regular
+2714497374,historic,archaeological_site,regular
+2714497374,name,Qadam Sharief s Tomb,regular
+2714497389,historic,archaeological_site,regular
+2714497389,name,Ghaziuddin Khan s Tomb,regular
+2714555470,historic,archaeological_site,regular
+2714555470,name,Kunwari Begum ka Burj,regular
+2714555477,amenity,place_of_worship,regular
+2714555477,name,Firoz Shah s Mosque,regular
+2714630330,barrier,gate,regular
+2714630389,barrier,gate,regular
+2714782505,power,tower,regular
+2714782506,power,tower,regular
+2714782507,power,tower,regular
+2714782508,power,tower,regular
+2714782510,power,tower,regular
+2714782512,power,tower,regular
+2714782515,power,tower,regular
+2715081918,name,Wazir Nagar,regular
+2715081918,place,locality,regular
+2715081950,name,Nanak Chand Basti,regular
+2715081950,place,locality,regular
+2715081960,name,Chuni Lahri Basti,regular
+2715081960,place,locality,regular
+2715081966,name,Mahavir Nagar,regular
+2715081966,place,locality,regular
+2715081974,name,Arjun Nagar,regular
+2715081974,place,locality,regular
+2715117112,name,Prasad Nagar,regular
+2715117112,place,locality,regular
+2715117124,man_made,water_tower,regular
+2715117137,name,Bapa Nagar,regular
+2715117137,place,locality,regular
+2715163824,alt_name,Sewa Nagar,regular
+2715163824,name,Kasturba Nagar,regular
+2715163824,place,locality,regular
+2715195786,name,Moti Bagh (East),regular
+2715195786,place,locality,regular
+2715195839,amenity,police,regular
+2715195844,name,Vivekanand Puri,regular
+2715195844,place,locality,regular
+2715195883,name,Sarai Rohilla,regular
+2715195883,place,locality,regular
+2715195898,name,Padam Nagar,regular
+2715195898,place,locality,regular
+2715305397,man_made,water_tower,regular
+2715305647,name,Rajendra Nagar,regular
+2715305647,place,locality,regular
+2715322918,historic,archaeological_site,regular
+2715322918,name,Langer Khan s Tomb Gate,regular
+2715609617,name,Gautam Nagar,regular
+2715609617,place,locality,regular
+2715794053,name,Samrat Hotel,regular
+2715794053,tourism,hotel,regular
+2715794063,name,Hotel Ashok,regular
+2715794063,tourism,hotel,regular
+2720403251,name,Daryaganj,regular
+2720403251,place,locality,regular
+2722840987,amenity,police,regular
+2722840987,name,Daryaganj Police Station,regular
+2722840987,operator,Delhi Police,regular
+2722843601,amenity,police,regular
+2722906932,historic,archaeological_site,regular
+2722906932,name,Ghata Masjid,regular
+2722924227,construction,station,regular
+2722924227,name,Lal Quila,regular
+2722924227,operator,Delhi Metro,regular
+2722924227,railway,construction,regular
+2723861262,housenumber,3,addr
+2723861266,housenumber,1,addr
+2723877684,name,Jaipur Estate,regular
+2723877684,place,locality,regular
+2723877687,housenumber,13,addr
+2723877687,alt_name,Men-Tsee-Khang,regular
+2723877687,amenity,nursing_home,regular
+2723877687,emergency,no,regular
+2723877687,name,Tibetan Medical and Astro Institute,regular
+2723877688,housenumber,4,addr
+2723877689,housenumber,14,addr
+2723877690,man_made,water_tower,regular
+2723877691,housenumber,15,addr
+2723877694,housenumber,8,addr
+2723877695,housenumber,9,addr
+2723877698,housenumber,17,addr
+2723877700,housenumber,12,addr
+2723877708,housenumber,7,addr
+2726488038,amenity,place_of_worship,regular
+2726488038,name,Jama Masjid,regular
+2726488038,religion,muslim,regular
+2726488038,tourism,attraction,regular
+2729085216,name,Uday Park,regular
+2729085216,place,locality,regular
+2729140410,name,Nizamuddin,regular
+2729140410,place,locality,regular
+2732216224,highway,traffic_signals,regular
+2732216226,highway,traffic_signals,regular
+2744715900,name,National Consumer Commission,regular
+2749398249,name,Good Times,regular
+2749398249,tourism,hotel,regular
+2776644911,ele,-1,regular
+2776644911,name,"The Sarai Programme, CSDS",regular
+2776644911,website,http://sarai.net/,regular
+2776644911,wheelchair,no,regular
+2794272221,name,East Block,regular
+2794272221,place,locality,regular
+2794272222,name,Sector 1,regular
+2794272222,place,locality,regular
+2794272223,name,Sector 10,regular
+2794272223,place,locality,regular
+2794272224,name,Sector 12,regular
+2794272224,place,locality,regular
+2794272225,name,Sector 13,regular
+2794272225,place,locality,regular
+2794272229,name,Sector 5,regular
+2794272229,place,locality,regular
+2794272230,name,Sector 6,regular
+2794272230,place,locality,regular
+2794272231,name,Sector 7,regular
+2794272231,place,locality,regular
+2794272232,name,Sector 8,regular
+2794272232,place,locality,regular
+2794272233,name,Sector 9,regular
+2794272233,place,locality,regular
+2794272234,name,West Block,regular
+2794272234,place,locality,regular
+2794451240,name,Shantiniketan,regular
+2794451240,place,locality,regular
+2797954840,name,Friends Colony,regular
+2797954840,place,locality,regular
+2797954841,name,Maharani Bagh,regular
+2797954841,place,locality,regular
+2797965149,housenumber,17,addr
+2797965150,housenumber,7,addr
+2798408963,name,Defence Colony,regular
+2798408963,place,locality,regular
+2798637566,name,Green Park Extn,regular
+2798637566,place,locality,regular
+2799293122,access,public,regular
+2799293122,amenity,toilets,regular
+2799293122,disposal,flush,toilets
+2800783153,amenity,toilets,regular
+2800796131,amenity,toilets,regular
+2800796132,amenity,toilets,regular
+2803025266,historic,monument,regular
+2803025266,name,Shish Gumbad,regular
+2803025266,website,http://competentauthoritydelhi.co.in/MonumentViewer.aspx?ID=16,regular
+2803462741,email,reservations@bnineteen.com,regular
+2803462741,fax,+91-11-41825511,regular
+2803462741,internet_access,wlan,regular
+2803462741,fee,yes,internet_access
+2803462741,name,b nineteen,regular
+2803462741,phone,+91-11-41825500,regular
+2803462741,tourism,hotel,regular
+2803462741,website,http://www.bnineteen.com,regular
+2805237423,name,Prem Nagar,regular
+2805237423,place,locality,regular
+2805237424,name,Tyagraj Nagar,regular
+2805237424,place,locality,regular
+2805241485,name,Pir Ganj,regular
+2805241485,place,locality,regular
+2805938580,name,Bharat Nagar,regular
+2805938580,place,locality,regular
+2806172931,name,Khizrabad,regular
+2806172931,place,locality,regular
+2806172933,name,Taimur Nagar,regular
+2806172933,place,locality,regular
+2809115218,alt_name,Arakpur Bagh Mochi Village,regular
+2809115218,name,Arakpur Bagh,regular
+2809115218,place,locality,regular
+2809312966,name,Ganesh Nagar,regular
+2809312966,place,locality,regular
+2809312967,name,North Pandav Nagar,regular
+2809312967,place,locality,regular
+2811346617,name,Subash Park Extn.,regular
+2811346617,place,locality,regular
+2812851723,name,Janta Garden,regular
+2812851723,place,locality,regular
+2812873842,alt_name,Samastpur Village,regular
+2812873842,name,Samastpur,regular
+2812873842,place,locality,regular
+2812952492,name,Kilokri,regular
+2812952492,place,locality,regular
+2822422558,name,Aradhna Enclave,regular
+2822422558,place,locality,regular
+2822460822,alt_name,Pillanji Village,regular
+2822460822,name,Pillanji,regular
+2822460822,place,locality,regular
+2822600399,name,Double Storey,regular
+2822600399,place,locality,regular
+2823505794,power,tower,regular
+2823505795,power,tower,regular
+2823928904,name,Sarai Danish Mand Khan,regular
+2823928904,place,locality,regular
+2825821057,name,Dena Ram Park,regular
+2825821057,place,locality,regular
+2825821062,name,Lakhu Nagar,regular
+2825821062,place,locality,regular
+2825821066,name,Shanti Nagar,regular
+2825821066,place,locality,regular
+2829272927,alt_name,Wellingdon Hospital,regular
+2829272927,amenity,hospital,regular
+2829272927,name,Ram Manohar Lohia Hospital,regular
+2829272928,amenity,school,regular
+2829272928,name,St. Columbus School,regular
+2832938180,construction,station,regular
+2832938180,name,Okhla NSIC,regular
+2832938180,railway,construction,regular
+2832938187,construction,station,regular
+2832938187,name,Sukhdev Vihar,regular
+2832938187,railway,construction,regular
+2833058715,construction,station,regular
+2833058715,name,Okhla Bird Sanctuary,regular
+2833058715,railway,construction,regular
+2833058718,construction,station,regular
+2833058718,name,Kalindi Kunj,regular
+2833058718,railway,construction,regular
+2833058720,construction,station,regular
+2833058720,name,Okhla Vihar,regular
+2833058720,railway,construction,regular
+2833058723,construction,station,regular
+2833058723,name,Jasola Vihar Shaheen Bagh,regular
+2833058723,railway,construction,regular
+2833058750,name,Botanical Garden,regular
+2833058750,network,DMRC,regular
+2833058750,railway,station,regular
+2833058750,wheelchair,yes,regular
+2833526615,construction,station,regular
+2833526615,name,Sriniwaspuri/Vinobapuri,regular
+2833526615,network,DMRC,regular
+2833526615,railway,construction,regular
+2833526616,construction,station,regular
+2833526616,name,South Extn.,regular
+2833526616,network,DMRC,regular
+2833526616,railway,construction,regular
+2833526619,construction,station,regular
+2833526619,name,Bhikaji Cama Place,regular
+2833526619,network,DMRC,regular
+2833526619,railway,construction,regular
+2833526623,construction,station,regular
+2833526623,name,Lajpat Nagar,regular
+2833526623,network,DMRC,regular
+2833526623,railway,construction,regular
+2833526623,ref,LPNR,regular
+2833526630,construction,station,regular
+2833526630,name,Ashram,regular
+2833526630,railway,construction,regular
+2833526634,construction,station,regular
+2833526634,name,INA,regular
+2833526634,network,DMRC,regular
+2833526634,railway,construction,regular
+2833526638,construction,station,regular
+2833526638,name,Sarojini Nagar,regular
+2833526638,network,DMRC,regular
+2833526638,railway,construction,regular
+2833526642,construction,station,regular
+2833526642,name,Moti Bagh,regular
+2833526642,network,DMRC,regular
+2833526642,railway,construction,regular
+2833526652,construction,station,regular
+2833526652,name,Hazrat Nizamuddin,regular
+2833526652,network,DMRC,regular
+2833526652,railway,construction,regular
+2833526656,construction,station,regular
+2833526656,name,South Campus,regular
+2833526656,railway,construction,regular
+2833526676,construction,station,regular
+2833526676,name,Mayur Vihar I,regular
+2833526676,network,DMRC,regular
+2833526676,railway,construction,regular
+2833526696,construction,station,regular
+2833526696,name,Delhi Cantonment,regular
+2833526696,network,DMRC,regular
+2833526696,railway,construction,regular
+2833526697,construction,station,regular
+2833526697,name,Mayur Vihar,regular
+2833526697,network,DMRC,regular
+2833526697,railway,construction,regular
+2833531907,construction,station,regular
+2833531907,name,Trilokpuri,regular
+2833531907,railway,construction,regular
+2833952243,amenity,place_of_worship,regular
+2833952243,name,Lakshmi Narayan Temple,regular
+2833952243,religion,hindu,regular
+2833952245,amenity,school,regular
+2833952245,name,M B Boys School,regular
+2833952246,amenity,school,regular
+2833952246,name,Raisina Bengali School,regular
+2833952258,construction,station,regular
+2833952258,name,Anand Vihar,regular
+2833952258,network,DMRC,regular
+2833952258,railway,construction,regular
+2833952258,ref,ANVR,regular
+2833952265,construction,station,regular
+2833952265,name,I P Extn.,regular
+2833952265,network,DMRC,regular
+2833952265,railway,construction,regular
+2833952266,old_name,Minto Bridge,regular
+2833971686,construction,station,regular
+2833971686,name,Anand Vihar,regular
+2833971686,network,DMRC,regular
+2833971686,railway,construction,regular
+2833971686,ref,ANVR,regular
+2833971689,construction,station,regular
+2833971689,name,Karkarduma,regular
+2833971689,network,DMRC,regular
+2833971689,railway,construction,regular
+2833971901,construction,station,regular
+2833971901,name,Krishna Nagar,regular
+2833971901,network,DMRC,regular
+2833971901,railway,construction,regular
+2833971906,construction,station,regular
+2833971906,name,East Azad Nagar,regular
+2833971906,network,DMRC,regular
+2833971906,railway,construction,regular
+2833971914,construction,station,regular
+2833971914,name,Jaffarabad,regular
+2833971914,network,DMRC,regular
+2833971914,railway,construction,regular
+2833971918,construction,station,regular
+2833971918,name,Maujpur,regular
+2833971918,network,DMRC,regular
+2833971918,railway,construction,regular
+2833971922,construction,station,regular
+2833971922,name,Gokulpuri,regular
+2833971922,network,DMRC,regular
+2833971922,railway,construction,regular
+2833971929,construction,station,regular
+2833971929,name,Johri Enclave,regular
+2833971929,network,DMRC,regular
+2833971929,railway,construction,regular
+2833971930,construction,station,regular
+2833971930,name,Shiv Vihar,regular
+2833971930,network,DMRC,regular
+2833971930,railway,construction,regular
+2833980381,construction,station,regular
+2833980381,name,Vinod Nagar East,regular
+2833980381,network,DMRC,regular
+2833980381,railway,construction,regular
+2834075842,name,Sidhora Kalan,regular
+2834075842,place,locality,regular
+2837165876,construction,station,regular
+2837165876,name,Delhi Gate,regular
+2837165876,railway,construction,regular
+2837341338,name,East Patel Nagar,regular
+2837341338,place,locality,regular
+2911141053,name,Ajit Nagar,regular
+2911141054,name,Dharampura,regular
+2911141055,name,Kailash Nagar,regular
+2911141056,name,Old Selampur West,regular
+2911141057,name,Valmiki Colony,regular
+2912295507,highway,mini_roundabout,regular
+2916265014,housenumber,917,addr
+2916265014,street,Gali Chandi Wali,addr
+2916265014,name,Hotel Namaskar,regular
+2916265014,tourism,hotel,regular
+2929538602,amenity,place_of_worship,regular
+2929538602,religion,zoroastrian,regular
+2932773051,historic,memorial,regular
+2932773051,name,Dargah Hazrat Khwaja Mir Dard,regular
+2934400027,name,Bureau of Indian Standards,regular
+2934400027,website,http://www.bis.org.in/dir/hq.asp,regular
+2934400028,name,Indian National Science Academy,regular
+2934400028,website,http://www.insa.nic.in/INSAuth/Default.aspx,regular
+2934400029,name,Shanker's International Doll Museum,regular
+2934400029,opening_hours,1000 hrs to 1800 hrs Monday Closed,regular
+2934400029,website,http://www.childrensbooktrust.com/dm.htm,regular
+2934400029,wikipedia,en:Shankar's International Dolls Museum,regular
+2934400030,name,University Grants Commission,regular
+2934400030,website,http://www.ugc.ac.in/contactus.aspx,regular
+2934942108,amenity,fuel,regular
+2940449157,historic,monument,regular
+2940449157,name,Ajitgarh,regular
+2940449157,old_name,Mutiny Memorial,regular
+2940449157,wikipedia,en:Mutiny_Memorial,regular
+2940449158,alt_name,Delhi-Meerut Pillar,regular
+2940449158,historic,monument,regular
+2940449158,name,Ashoka Pillar,regular
+2940449158,wikipedia,en:Ashokan_Edicts_in_Delhi#Pillar_edicts_in_Delhi,regular
+2940614714,alt_name,House of Hindu Rao,regular
+2940614714,historic,castle,regular
+2940614714,name,Bara Hindu Rao,regular
+2940614717,historic,archaeological_site,regular
+2940614717,name,Pir Ghaib,regular
+2940758785,amenity,place_of_worship,regular
+2940758785,historic,monument,regular
+2940758785,name,Shah Wajid Mosque,regular
+2940758785,religion,muslim,regular
+2940758786,historic,archaeological_site,regular
+2940758786,name,Tomb of Roshanara,regular
+2945632425,city,Delhi,addr
+2945632425,country,IN,addr
+2945632425,housenumber,6A,addr
+2945632425,postcode,110054,addr
+2945632425,street,"Under Hill Lane, Civil Lines",addr
+2945632425,name,RSVP by Roli & Saurabh,regular
+2945639837,city,New Delhi,addr
+2945639837,country,IN,addr
+2945639837,housenumber,6A,addr
+2945639837,postcode,110054,addr
+2945639837,street,"Under Hill Lane, Civil Lines",addr
+2945639837,name,Ink Positive Tattooss,regular
+2945859685,historic,memorial,regular
+2945859685,name,Amar Jawan Jyoti,regular
+2945859685,wheelchair,yes,regular
+2945859686,building,yes,regular
+2945859686,name,India Gate,regular
+2945859686,zh,印度門 (德里),name
+2945859686,old_name,All India War Memorial,regular
+2945859686,tourism,attraction,regular
+2945859686,wheelchair,yes,regular
+2945859686,wikipedia,en:India Gate,regular
+2947063164,name,Servants of the People Society,regular
+2947063164,website,http://sops.in/,regular
+2954279248,building,apartments,regular
+2955430019,building,apartments,regular
+2959083272,name,Hotel Arina Inn,regular
+2959083272,tourism,hotel,regular
+2960284264,city,New Delhi,addr
+2960284264,housenumber,"Hostel 1, AIIMS",addr
+2960284264,postcode,110029,addr
+2960284264,street,Ansari Nagar,addr
+2960284264,name,AIIMS Boys Hostel -1,regular
+2960284264,name_1,Charaka,regular
+2960295671,city,New Delhi,addr
+2960295671,housenumber,"Boys Hostel, AIIMS",addr
+2960295671,postcode,110029,addr
+2960295671,street,Ansari Nagar,addr
+2960295671,name,AIIMS Boys Hostel -2,regular
+2960295672,name,AIIMS Boys Hostel -3,regular
+2960295673,name,AIIMS Boys Hostel -4,regular
+2960295674,name,AIIMS Boys Hostel -5,regular
+2960295675,name,AIIMS Boys Hostel -6,regular
+2960295676,leisure,sports_centre,regular
+2960295676,name,AIIMS Gymkhana,regular
+2960295677,access,private,regular
+2960295677,leisure,swimming_pool,regular
+2960295677,name,AIIMS Swimming Pool,regular
+2960295678,city,New Delhi,addr
+2960295678,housenumber,"Boys Hostel 7, AIIMS",addr
+2960295678,postcode,110029,addr
+2960295678,street,Ansari Nagar,addr
+2960295678,name,AIIMS Boys Hostel -7,regular
+2960295678,operator,AIIMS,regular
+2960295678,tourism,hostel,regular
+2960295679,city,New Delhi,addr
+2960295679,housenumber,"Boys Hostel -7, AIIMS",addr
+2960295679,postcode,110029,addr
+2960295679,street,Ansari Nagar,addr
+2960295679,name,AIIMS Boys Hostel -8,regular
+2960295679,operator,AIIMS,regular
+2960295679,tourism,hostel,regular
+2960312833,amenity,library,regular
+2960312833,name,"BB Dikshit Library, AIIMS",regular
+2960312833,note,"Came into existence in 1957 and grew parallel to the development of the Institute. Originally accommodated on the ground floor of the pre-clinical block, this library was shifted to its present premises in 1973 and was named as Dr. B.B. Dikshit Library af",regular
+2960312833,operator,AIIMS,regular
+2960312833,source,http://www.aiims.edu/aiims/library/library.htm,regular
+2960312834,name,"Jawahar Lal Nehru Audtorium (JLNA), AIIMS",regular
+2960312835,building,hospital,regular
+2960312835,name,"Dr.R.P Centre for Ophthalmic Sciences, AIIMS",regular
+2960312835,source,http://www.aiims.edu/rpcentre.htm,regular
+2960322700,building,hospital,regular
+2960322700,name,"Casualty, AIIMS",regular
+2962182560,name,Director's residence,regular
+2962182561,name,Open Air Theatre,regular
+2962182562,amenity,library,regular
+2962182563,tourism,museum,regular
+2962182565,amenity,arts_centre,regular
+2962182568,leisure,swimming_pool,regular
+2962182569,sport,gymnastics,regular
+2963994062,name,Arjun Park,regular
+2963994062,place,locality,regular
+2963994063,name,New Lahore Mohalla,regular
+2963994063,place,locality,regular
+2963994064,name,Sarojini Park,regular
+2963994064,place,locality,regular
+2963994065,name,Shastri Nagar,regular
+2963994065,place,locality,regular
+2965813393,name,Arjun Nagar,regular
+2965813393,place,locality,regular
+2967053868,amenity,orphanage,regular
+2967053868,name,Shishu Sangopan Griha,regular
+2967053869,amenity,place_of_worship,regular
+2967053869,name,St. Michael's Church,regular
+2967053869,religion,christian,regular
+2967053870,amenity,school,regular
+2967053870,name,St. Pauls Diocesan School,regular
+2967053870,website,http://www.stpaulsdiocesandelhi.in/index.php,regular
+2967124115,name,R R Block,regular
+2967124116,name,Rohtas Nagar,regular
+2967154968,housenumber,1,addr
+2967154969,housenumber,101,addr
+2967154970,housenumber,102,addr
+2967154971,housenumber,107,addr
+2967154972,housenumber,108,addr
+2967154973,housenumber,114,addr
+2967154974,housenumber,115,addr
+2967154975,housenumber,12,addr
+2967154976,housenumber,121,addr
+2967154977,housenumber,122,addr
+2967154978,housenumber,128,addr
+2967154979,housenumber,129,addr
+2967154980,housenumber,13,addr
+2967154981,housenumber,135,addr
+2967154982,housenumber,136,addr
+2967154983,housenumber,14,addr
+2967154984,housenumber,142,addr
+2967154985,housenumber,25,addr
+2967154986,housenumber,29,addr
+2967154987,housenumber,37,addr
+2967154988,housenumber,39,addr
+2967154989,housenumber,4,addr
+2967154990,housenumber,40,addr
+2967154991,housenumber,41,addr
+2967154992,housenumber,43,addr
+2967154993,housenumber,44,addr
+2967154994,housenumber,47,addr
+2967154995,housenumber,49,addr
+2967154996,housenumber,5,addr
+2967154997,housenumber,53,addr
+2967154998,housenumber,54,addr
+2967154999,housenumber,6,addr
+2967155000,housenumber,63,addr
+2967155001,housenumber,64,addr
+2967155002,housenumber,68,addr
+2967155003,housenumber,69,addr
+2967155004,housenumber,7,addr
+2967155005,housenumber,8,addr
+2967155006,housenumber,81,addr
+2967155007,housenumber,82,addr
+2967155008,housenumber,86,addr
+2967155009,housenumber,87,addr
+2967155010,housenumber,9,addr
+2967155011,housenumber,93,addr
+2967155012,housenumber,94,addr
+2967155013,housenumber,95,addr
+2967155014,housenumber,97,addr
+2967155015,housenumber,98,addr
+2967264855,amenity,baby_hatch,regular
+2967264857,man_made,water_tower,regular
+2967264861,amenity,community_centre,regular
+2970179080,name,Dharampura,regular
+2970179080,place,neighbourhood,regular
+2978721062,name,Adamjati Sangh,regular
+2978721063,name,Jagjivan Ram Trust,regular
+2978721064,name,Manakpura,regular
+2978721065,name,RMS,regular
+2978963206,historic,archaeological_site,regular
+2978963206,name,Bade Khan ka Gumbad,regular
+2978963207,historic,archaeological_site,regular
+2978963207,name,Bhure Khan ka Gumbad,regular
+2978963208,historic,archaeological_site,regular
+2978963208,name,Chhote Khan ka Gumbad,regular
+2978963209,name,Jor Bagh,regular
+2978963210,name,Khari Baoli,regular
+2978963211,historic,archaeological_site,regular
+2978963211,name,Mubarak Shah Sayyid's Tomb,regular
+2978963212,historic,archaeological_site,regular
+2978963213,historic,archaeological_site,regular
+2979106554,name,Nai Basti,regular
+2979106555,name,Punjabi Basti,regular
+2981346454,historic,archaeological_site,regular
+2981346454,name,Afsarwala's Mosque,regular
+2981346455,building,yes,regular
+2981346455,historic,archaeological_site,regular
+2981346455,name,Afsarwala's Tomb,regular
+2981346457,historic,wayside_shrine,regular
+2981346457,name,Dargah,regular
+2981346458,historic,archaeological_site,regular
+2981346458,name,Humayun's Tomb,regular
+2981346624,historic,archaeological_site,regular
+2981346624,name,Graves,regular
+2981351406,historic,archaeological_site,regular
+2981351406,name,Babar's Tomb,regular
+2981351407,historic,archaeological_site,regular
+2981351407,name,Nila Gumbad,regular
+2981414567,historic,archaeological_site,regular
+2981414567,name,Graves,regular
+2995730282,amenity,place_of_worship,regular
+2995730282,name,St. Thomas Church,regular
+2995730282,religion,christian,regular
+2995738731,building,school,regular
+2995738731,name,Kendriya Vidyalaya Sector-2 R. K. Puram,regular
+2995770834,highway,bus_stop,regular
+2995770834,name,R. K. Puram Sector-2,regular
+2995770834,shelter,yes,regular
+2995771114,highway,bus_stop,regular
+2995771114,name,R. K. Puram Sector-2,regular
+2995771114,shelter,yes,regular
+2995783609,highway,bus_stop,regular
+2995783609,name,Mohammadpur,regular
+2995783609,shelter,yes,regular
+2995783610,highway,bus_stop,regular
+2995783610,name,Mohammadpur,regular
+2995783610,shelter,yes,regular
+2995794882,amenity,place_of_worship,regular
+2995794882,religion,hindu,regular
+2995794883,highway,bus_stop,regular
+2995794883,name,Bhikaji Cama Place,regular
+2995794883,shelter,yes,regular
+2995794884,highway,bus_stop,regular
+2995794884,name,Bhikaji Cama Place,regular
+2995794884,shelter,yes,regular
+3000141635,power,tower,regular
+3000141641,power,tower,regular
+3000141642,power,tower,regular
+3000141643,power,tower,regular
+3000141644,power,tower,regular
+3000141645,power,tower,regular
+3000141658,power,tower,regular
+3000141659,power,tower,regular
+3000141660,power,tower,regular
+3000141661,power,tower,regular
+3000141662,power,tower,regular
+3000141663,power,tower,regular
+3000141664,power,tower,regular
+3000141665,power,tower,regular
+3000141666,power,tower,regular
+3000141667,power,tower,regular
+3000141668,power,tower,regular
+3000141669,power,tower,regular
+3000141670,power,tower,regular
+3000141671,power,tower,regular
+3000141672,power,tower,regular
+3000141673,power,tower,regular
+3000141674,power,tower,regular
+3000141675,power,tower,regular
+3000141676,power,tower,regular
+3000141677,power,tower,regular
+3000141678,power,tower,regular
+3000141679,power,tower,regular
+3000141680,power,tower,regular
+3000141681,power,tower,regular
+3000141682,power,tower,regular
+3000141683,power,tower,regular
+3000141684,power,tower,regular
+3000141685,power,tower,regular
+3000141686,power,tower,regular
+3000141687,power,tower,regular
+3000141688,power,tower,regular
+3000141689,power,tower,regular
+3000141691,power,tower,regular
+3000141692,power,tower,regular
+3000141693,power,tower,regular
+3000141694,power,tower,regular
+3000141695,power,tower,regular
+3000141696,power,tower,regular
+3000141697,power,tower,regular
+3000141698,power,tower,regular
+3000141699,power,tower,regular
+3000141700,power,tower,regular
+3004653893,highway,bus_stop,regular
+3004653895,highway,bus_stop,regular
+3007872778,highway,traffic_signals,regular
+3007872779,highway,traffic_signals,regular
+3007872789,highway,traffic_signals,regular
+3067802087,name,Mother Dairy,regular
+3067826441,highway,bus_stop,regular
+3067826441,name,School Block Bus Stand,regular
+3067830698,highway,bus_stop,regular
+3067830698,name,School Block Bus Stand,regular
+3067830699,name,Ganesh Kachowdi Corner,regular
+3067834623,amenity,hospital,regular
+3067834623,name,Somdatt Medical,regular
+3067834624,amenity,clinic,regular
+3067834624,name,Dr. Vippin Jain Clinic,regular
+3067837877,amenity,clinic,regular
+3085540679,amenity,bank,regular
+3085540679,name,Andhra Bank,regular
+3085540680,barrier,turnstile,regular
+3085540680,foot,yes,regular
+3093865190,city,New Delhi,addr
+3093865190,housenumber,142 Sunder Nagar,addr
+3093865190,postcode,110003,addr
+3093865190,street,Mathura Road,addr
+3093865190,name,Maulsari,regular
+3093865190,operator,Rishi Jindal,regular
+3093865190,smoking,outside,regular
+3093865190,tourism,guest_house,regular
+3093873338,city,New Delhi,addr
+3093873338,housenumber,1/8B,addr
+3093873338,postcode,110002,addr
+3093873338,street,Asaf Ali Road,addr
+3093873338,amenity,clinic,regular
+3093873338,name,R D Jindal Charitable Clinic,regular
+3093873338,note,"Physiotherapy, Blood Collection, GP. Dentist available",regular
+3093873338,opening_hours,1000 to 1400 Hrs,regular
+3093873338,phone,+91 11 3218206,regular
+3105160729,name,GMX DESIGNER,regular
+3105160729,opening_hours,11.00AM to 8.30 PM,regular
+3105160729,shop,supermarket,regular
+3121875785,city,New Delhi,addr
+3121875785,housenumber,"K-9, Jangpura Extension",addr
+3121875785,postcode,110014,addr
+3121875785,street,Birbal Road,addr
+3121875785,name,SFLC.in,regular
+3121875785,website,http://sflc.in,regular
+3127723129,name,GMX DESIGNER,regular
+3127723129,opening_hours,,regular
+3127723129,shop,supermarket,regular
+3144938504,highway,bus_stop,regular
+3144938504,name,German Embassy New Delhi,regular
+3144938680,highway,bus_stop,regular
+3144938680,name,German Embassy New Delhi,regular
+3153979864,name,Parsh Infotech Inc.,regular
+3171969268,entrance,yes,regular
+3171969269,entrance,yes,regular
+3171969270,entrance,yes,regular
+3171969271,entrance,yes,regular
+3171969272,entrance,yes,regular
+3171969274,entrance,yes,regular
+3171982196,railway,level_crossing,regular
+3177904566,man_made,water_tank,regular
+3185191993,amenity,atm,regular
+3185191993,name,Yes Bank,regular
+3208939122,amenity,place_of_worship,regular
+3208939122,denomination,anglican,regular
+3208939122,name,23. Церковь Святого Иакова (Джеймс Черч),regular
+3208939122,religion,christian,regular
+3209387267,fixme,trail continues,regular
+3209387300,barrier,gate,regular
+3209387300,bicycle,yes,regular
+3209387300,foot,yes,regular
+3232831476,natural,tree,regular
+3232831477,natural,tree,regular
+3232888979,natural,tree,regular
+3232888980,natural,tree,regular
+3232888981,natural,tree,regular
+3232888982,natural,tree,regular
+3232888983,natural,tree,regular
+3232888984,natural,tree,regular
+3232888985,natural,tree,regular
+3232888986,natural,tree,regular
+3232890666,natural,tree,regular
+3232890667,natural,tree,regular
+3235490888,natural,tree,regular
+3235490895,natural,tree,regular
+3235490897,natural,tree,regular
+3235490930,natural,tree,regular
+3235490944,natural,tree,regular
+3235490945,natural,tree,regular
+3235490946,natural,tree,regular
+3235490947,natural,tree,regular
+3235490995,natural,tree,regular
+3235490997,natural,tree,regular
+3239523394,name,New Delhi City Centre,regular
+3239523394,tourism,hotel,regular
+3242109311,amenity,restaurant,regular
+3242109311,name,The exotic rooftop restaurant,regular
+3242109751,housenumber,P-5/90,addr
+3242109751,amenity,cafe,regular
+3242109751,name,Madras Coffee House,regular
+3242109751,start_date,1935,regular
+3245653351,city,Delhi,addr
+3245653351,housenumber,1457,addr
+3245653351,postcode,110006,addr
+3245653351,street,Chandni Chowk,addr
+3245653351,amenity,library,regular
+3245653351,name,Marwari Public Library,regular
+3245653351,operator,Marwari Education Foundation,regular
+3245667203,amenity,police,regular
+3245667203,name,Lahori Gate Police Station,regular
+3245667203,operator,Delhi Police,regular
+3245692760,city,Old Delhi,addr
+3245692760,housenumber,"2,3,4",addr
+3245692760,postcode,110006,addr
+3245692760,street,Khari Baoli Road,addr
+3245692760,amenity,fast_food,regular
+3245692760,name,Gole Hatti,regular
+3245699753,leisure,swimming_pool,regular
+3245701068,amenity,library,regular
+3245701068,name,Hardayal Municipal Library,regular
+3245702263,amenity,police,regular
+3245702263,name,Kotwali Police Station,regular
+3245702263,operator,Delhi Police,regular
+3245702592,amenity,police,regular
+3245702592,name,Jama Masjid Police Station,regular
+3245702592,operator,Delhi Police,regular
+3245902964,amenity,library,regular
+3245902964,name,Shree Mahavir Jain Public Library,regular
+3245909911,amenity,bank,regular
+3245909911,name,Bank of India,regular
+3246081385,amenity,fuel,regular
+3246081385,diesel,yes,fuel
+3246081385,octane_95,yes,fuel
+3246097091,amenity,fuel,regular
+3246097091,diesel,yes,fuel
+3246097091,octane_95,yes,fuel
+3249138712,amenity,bank,regular
+3249138712,name,ICICI Bank,regular
+3249138802,amenity,atm,regular
+3249138802,name,Citi Bank ATM,regular
+3249138802,operator,Citi Bank,regular
+3249138803,amenity,atm,regular
+3249138803,name,Kotak Bank ATM,regular
+3249138803,operator,Kotak Bank,regular
+3249139754,amenity,atm,regular
+3249139754,name,ICICI Bank ATM,regular
+3249139754,operator,ICICI Bank,regular
+3249140375,amenity,police,regular
+3249140375,name,Cycle Market Police Post,regular
+3249140375,operator,Delhi Police,regular
+3250376814,amenity,restaurant,regular
+3250376814,cuisine,korean,regular
+3250376814,name,쉼터,regular
+3250377461,amenity,post_office,regular
+3250377461,name,Pahar Ganj 110055,regular
+3256129557,amenity,bank,regular
+3256129557,atm,yes,regular
+3256129557,name,DCB Bank,regular
+3256131875,amenity,bank,regular
+3256131875,atm,yes,regular
+3256131875,name,HDFC Bank,regular
+3258161064,amenity,toilets,regular
+3258161065,highway,bus_stop,regular
+3258161066,name,Safal Tea Stall,regular
+3258161066,operator,Subhash,regular
+3258161066,shop,tea,regular
+3268564739,name,Chandni Chowk,regular
+3268564739,place,neighbourhood,regular
+3268564741,historic,memorial,regular
+3268564741,memorial,statue,regular
+3268564741,name,Gandhi Statue,regular
+3268564742,highway,bus_stop,regular
+3268564742,name,Old Delhi Railway Station,regular
+3268564743,highway,bus_stop,regular
+3268564743,name,Old Delhi Railway Station,regular
+3268564750,amenity,place_of_worship,regular
+3268564750,religion,sikh,regular
+3268587269,name,Ballimaran,regular
+3268587269,place,neighbourhood,regular
+3268587270,name,Lal Kuan,regular
+3268587270,place,neighbourhood,regular
+3268595169,name,Chawri Bazaar,regular
+3268595169,place,neighbourhood,regular
+3268595170,name,Meena Bazaar,regular
+3268595170,place,neighbourhood,regular
+3268595171,name,Sita Ram Bazaar,regular
+3268595171,place,neighbourhood,regular
+3268708056,amenity,toilets,regular
+3268708057,amenity,toilets,regular
+3268708058,shop,ticket,regular
+3268708059,amenity,toilets,regular
+3269379682,postcode,110055,addr
+3269379682,name,Raj's Cozy Inn,regular
+3269379682,tourism,hotel,regular
+3269399261,name,Sterling Inn,regular
+3269399261,tourism,hotel,regular
+3269399262,postcode,110055,addr
+3269399262,name,Glow Inn,regular
+3269399262,tourism,hotel,regular
+3269401361,name,Rajmahal Inn,regular
+3269401361,tourism,hotel,regular
+3269421783,amenity,atm,regular
+3269421783,name,Citibank,regular
+3269424379,amenity,restaurant,regular
+3269424379,name,Nirvana Cafe,regular
+3269429079,amenity,restaurant,regular
+3269429079,name,Tadka,regular
+3269439134,name,Gold Regency,regular
+3269439134,tourism,hotel,regular
+3269441161,name,Satyam,regular
+3269441161,tourism,hotel,regular
+3269441162,amenity,fast_food,regular
+3269441162,cuisine,pizza,regular
+3269441162,name,Subway,regular
+3269450788,name,Aman International,regular
+3269450788,tourism,hotel,regular
+3269452718,name,Guruvas Inn,regular
+3269452718,tourism,hotel,regular
+3269454412,amenity,bar,regular
+3269454412,name,The Gem Bar,regular
+3284155408,construction,station,regular
+3284155408,name,Jamia Millia Islamia,regular
+3284155408,railway,construction,regular
+3304173416,city,New Delhi,addr
+3304173416,housenumber,8715,addr
+3304173416,postcode,110055,addr
+3304173416,street,Deshbandhu Gupta Road,addr
+3304173416,ele,1,regular
+3304173416,name,Hotel Durga International Dx,regular
+3304173416,operator,Hotel Durga International Dx,regular
+3304173416,phone,"+91 11 23521362 , 63, 64, 65",regular
+3304173416,smoking,outside,regular
+3304173416,tourism,hotel,regular
+3304173416,website,http://www.hoteldurgainternational.co.in,regular
+3371292837,housenumber,Mangal Bazar,addr
+3371292837,street,Vikas Marg,addr
+3371292837,name,Mangal Bazar,regular
+3375708602,access,designated,regular
+3375708602,amenity,swimming_pool,regular
+3375708602,covered,yes,regular
+3375708602,motor_vehicle,designated,regular
+3375708602,name,Railway Swimming Pool,regular
+3375708602,operator,Northern Railway,regular
+3375708602,sport,swimming,regular
+3424218861,historic,monument,regular
+3424218861,name,Sher Shah Suri Gate,regular
+3424227185,name,NDMC Community center,regular
+3424227186,leisure,park,regular
+3424227186,name,Jhoola Ground,regular
+3424229936,amenity,place_of_worship,regular
+3424229936,name,Kaka Nagar Mosque,regular
+3424229936,religion,muslim,regular
+3424229956,name,Mother Dairy,regular
+3424238144,name,Mini Market,regular
+3424238144,shop,General Store,regular
+3424238432,amenity,fuel,regular
+3424238432,name,Indian Oil,regular
+3424239856,leisure,sports_centre,regular
+3424239856,name,NDMC Gymnasium,regular
+3424239856,sport,"Gymnasium,_squash,_pool_table,_table_tennis,_Library,_badminton.",regular
+3424241068,building,greenhouse,regular
+3424241068,name,Plant Nursery,regular
+3424241069,building,greenhouse,regular
+3424241069,name,Plant Nursery,regular
+3424244070,name,Indraprastha Gas office,regular
+3424244070,office,yes,regular
+3424252049,amenity,taxi,regular
+3424252050,amenity,taxi,regular
+3424252688,amenity,bank,regular
+3424252688,atm,yes,regular
+3424252688,name,ICICI Bank,regular
+3424254855,amenity,atm,regular
+3424254855,name,HDFC,regular
+3424254856,amenity,atm,regular
+3424254856,name,Standard Chartered,regular
+3424254864,amenity,restaurant,regular
+3424254864,name,Nathu Sweets,regular
+3424254883,name,Sunder Nagar Market,regular
+3424254883,shop,convenience,regular
+3424256951,amenity,taxi,regular
+3424256952,highway,bus_stop,regular
+3424256960,amenity,fuel,regular
+3424256960,name,HP Petrol Pump,regular
+3424257252,amenity,taxi,regular
+3424257253,amenity,fuel,regular
+3424257253,name,HP Petrol pump,regular
+3424258726,street,Bhairon Marg,addr
+3424258726,name,National Science Centre ,regular
+3424258726,tourism,museum,regular
+3424258726,website,www.nscd.gov.in,regular
+3424259318,amenity,theatre,regular
+3424259318,name,FICCI Auditorium,regular
+3424259565,name,Bengali Market,regular
+3424259565,shop,convenience,regular
+3424259566,amenity,doctors,regular
+3424259566,name,Dr. Gandhi,regular
+3424264696,amenity,doctors,regular
+3424264696,name,Dr. Kundan Lal,regular
+3446452628,power,tower,regular
+3450272490,amenity,fuel,regular
+3450272490,brand,Indian Oil Corporation,regular
+3479900669,name,Lal Batti Chowk,regular
+3479934221,name,Sarvodaya Vidhalaya,regular
+3480944280,city,New Delhi,addr
+3480944280,country,IN,addr
+3480944280,housenumber,4-5,addr
+3480944280,street,Nyaya Marg,addr
+3480944280,suburb,Chanakyapuri,addr
+3480944280,amenity,embassy,regular
+3480944280,country,SE,regular
+3480944280,diplomatic,embassy,regular
+3480944280,fixme,add local name,regular
+3480944280,name,Embassy of Sweden,regular
+3480944280,en,Embassy of Sweden,name
+3480944280,sv,Sveriges ambassad,name
+3480944280,target,IN,regular
+3483479825,name,B5 181,regular
+3486745786,amenity,restaurant,regular
+3486745786,name,Eatopia,regular
+3504437631,name,AIIMS,regular
+3504437631,network,DMRC,regular
+3504437631,railway,station,regular
+3525609096,city,new delhi,addr
+3525609096,housenumber,319,addr
+3525609096,postcode,110092,addr
+3525609096,street,Vikas Marg,addr
+3525609096,ele,1,regular
+3525609096,name,Sapp Enterprises,regular
+3525609096,en,Sapp Enterprises,name
+3525609096,opening_hours,9-6,regular
+3525609096,operator,http://antiwrinkleadvice.com/,regular
+3525609096,shop,supermarket,regular
+3549827390,city,Delhi,addr
+3549827390,postcode,110006,addr
+3549827390,street,"Lothian Road, Kashmere Gate",addr
+3549827390,building,university,regular
+3549827390,name,Ambedkar university (AUD) Entrance gate,regular
+3549988346,amenity,cafe,regular
+3549988346,cuisine,indian,regular
+3549988346,internet_access,no,regular
+3549988346,name,Stri Shakti Canteen,regular
+3550026111,barrier,gate,regular
+3550026111,name,IGDTUW Gate,regular
+3558172051,name,Hotel Krishna Deluxe,regular
+3558172051,tourism,hotel,regular
+3560199031,colour,yellow,regular
+3560199031,name,New Delhi Metro Station Gate 3,regular
+3560199031,network,DMRC,regular
+3560199031,railway,subway_entrance,regular
+3572572200,colour,yellow,regular
+3572572200,name,New Delhi Metro Station Gate 2,regular
+3572572200,network,DMRC,regular
+3572572200,railway,subway_entrance,regular
+3572572201,colour,yellow,regular
+3572572201,name,New Delhi Metro Station Gate 4,regular
+3572572201,network,DMRC,regular
+3572572201,railway,subway_entrance,regular
+3572572202,colour,orange,regular
+3572572202,name,New Delhi Metro Station Airport line,regular
+3572572202,network,DMRC,regular
+3572572202,railway,subway_entrance,regular
+3577976690,name,Hira Sweets,regular
+3577976690,sustenance,Sweet Shop,regular
+3580369626,city,New Delhi,addr
+3580369626,name,ITO,regular
+3580369626,network,Metro,regular
+3580369626,railway,station,regular
+3594992926,name,Delhi Tourism and Transportation Development Corporation,regular
+3594992926,tourism,information,regular
+3603184194,city,New Delhi,addr
+3603184194,housenumber,C 19/A Green Park Extension,addr
+3603184194,street,Choudhary Hukum Chand Marg,addr
+3603184194,building,house,regular
+3603184194,name,C/O Barthakur,regular
+3610560569,highway,residential,regular
+3615440025,name,Safeda Basti,regular
+3615440025,place,suburb,regular
+3615440025,population,3000,regular
+3627280570,power,tower,regular
+3627280571,power,tower,regular
+3627280572,power,tower,regular
+3627280574,power,tower,regular
+3627280575,power,tower,regular
+3627280576,power,tower,regular
+3627280577,power,tower,regular
+3627280655,power,tower,regular
+3627280658,power,tower,regular
+3627280659,power,tower,regular
+3627280661,power,tower,regular
+3627280670,power,tower,regular
+3627280679,power,tower,regular
+3643733168,colour,yellow,regular
+3643733168,railway,subway_entrance,regular
+3643733191,colour,yellow,regular
+3643733191,railway,subway_entrance,regular
+3644198790,barrier,gate,regular
+3644212630,barrier,gate,regular
+3644212631,barrier,gate,regular
+3644360688,natural,tree,regular
+3644360689,natural,tree,regular
+3644360690,natural,tree,regular
+3644360691,natural,tree,regular
+3644360692,natural,tree,regular
+3644366497,natural,tree,regular
+3644366498,natural,tree,regular
+3644366499,natural,tree,regular
+3644366500,natural,tree,regular
+3644366501,natural,tree,regular
+3644366502,natural,tree,regular
+3644366503,natural,tree,regular
+3644366504,natural,tree,regular
+3644366505,natural,tree,regular
+3644366506,natural,tree,regular
+3644366507,natural,tree,regular
+3644366508,natural,tree,regular
+3644366509,natural,tree,regular
+3644366510,natural,tree,regular
+3644366511,natural,tree,regular
+3644366514,natural,tree,regular
+3644366515,natural,tree,regular
+3644366516,natural,tree,regular
+3644366517,natural,tree,regular
+3644366518,natural,tree,regular
+3644388993,natural,tree,regular
+3644388994,natural,tree,regular
+3644388995,natural,tree,regular
+3644388996,natural,tree,regular
+3644388997,natural,tree,regular
+3644388998,natural,tree,regular
+3644388999,natural,tree,regular
+3644389000,natural,tree,regular
+3644389001,natural,tree,regular
+3644389002,natural,tree,regular
+3644389003,natural,tree,regular
+3644389004,natural,tree,regular
+3644389005,natural,tree,regular
+3644389006,natural,tree,regular
+3644389007,natural,tree,regular
+3644389008,natural,tree,regular
+3644389009,natural,tree,regular
+3644389010,natural,tree,regular
+3644389011,natural,tree,regular
+3644389012,natural,tree,regular
+3644389013,natural,tree,regular
+3644389014,natural,tree,regular
+3644389015,natural,tree,regular
+3644389016,natural,tree,regular
+3644389017,natural,tree,regular
+3644389018,natural,tree,regular
+3644389019,natural,tree,regular
+3644389020,natural,tree,regular
+3644389021,natural,tree,regular
+3644389022,natural,tree,regular
+3644389023,natural,tree,regular
+3644389024,natural,tree,regular
+3644389025,natural,tree,regular
+3644389026,natural,tree,regular
+3644389027,natural,tree,regular
+3644389028,natural,tree,regular
+3644389029,natural,tree,regular
+3644389030,natural,tree,regular
+3644389031,natural,tree,regular
+3644389032,natural,tree,regular
+3644389033,natural,tree,regular
+3644389034,natural,tree,regular
+3644389035,natural,tree,regular
+3644389036,natural,tree,regular
+3644389037,natural,tree,regular
+3644389038,natural,tree,regular
+3644389039,natural,tree,regular
+3644389040,natural,tree,regular
+3644389041,natural,tree,regular
+3644389042,natural,tree,regular
+3644389043,natural,tree,regular
+3644389044,natural,tree,regular
+3644389045,natural,tree,regular
+3644389046,natural,tree,regular
+3644389047,natural,tree,regular
+3644389048,natural,tree,regular
+3644389049,natural,tree,regular
+3644389050,natural,tree,regular
+3644389052,natural,tree,regular
+3644389053,natural,tree,regular
+3644389055,natural,tree,regular
+3644389056,natural,tree,regular
+3644389057,natural,tree,regular
+3644389058,natural,tree,regular
+3644389059,natural,tree,regular
+3644389060,natural,tree,regular
+3644389061,natural,tree,regular
+3644389062,natural,tree,regular
+3644389063,natural,tree,regular
+3644389064,natural,tree,regular
+3644389065,natural,tree,regular
+3644389066,natural,tree,regular
+3644389068,natural,tree,regular
+3644389070,natural,tree,regular
+3644389071,natural,tree,regular
+3644389072,natural,tree,regular
+3644389073,natural,tree,regular
+3644389074,natural,tree,regular
+3644389075,natural,tree,regular
+3644389076,natural,tree,regular
+3644389077,natural,tree,regular
+3644389078,natural,tree,regular
+3644389079,natural,tree,regular
+3644389080,natural,tree,regular
+3644389081,natural,tree,regular
+3644389083,natural,tree,regular
+3644389084,natural,tree,regular
+3644483562,natural,tree,regular
+3644483563,natural,tree,regular
+3648432971,barrier,gate,regular
+3651961086,tourism,hotel,regular
+3656753525,type,water,tower
+3686760511,height,63,regular
+3686760511,man_made,flagpole,regular
+3686760511,nationality,India,regular
+3686760511,wikipedia,"en:Flag_of_India_at_Central_Park,_Connaught_Place",regular
+3688823965,Area,Tri Nagar,regular
+3688823965,city,Delhi,addr
+3688823965,housenumber,1932A,addr
+3688823965,postcode,110035,addr
+3688823965,street,147,addr
+3688823967,housenumber,1932A,addr
+3688823968,area,Tri Nagar,addr
+3688823968,city,Delhi,addr
+3688823968,housename,himanshu's home,addr
+3688823968,housenumber,1932A,addr
+3688823968,postcode,110035,addr
+3688823968,street,147,addr
+3689200537,railway,buffer_stop,regular
+3689417593,railway,buffer_stop,regular
+3698521844,housenumber,4/23-B,addr
+3698521844,postcode,110002,addr
+3698521844,street,Asif Ali Road,addr
+3698521844,name,Stops Hostel Delhi,regular
+3698521844,phone,+911141056226,regular
+3698521844,tourism,hostel,regular
+3698521844,website,http://www.stopshostels.com/,regular
+3704734413,amenity,restaurant,regular
+3704734413,name,Nando's,regular
+3731260455,city,Delhi,addr
+3731260455,street,Safdarjung Enclave,addr
+3731260455,name,Africa Avenue,regular
+3731260455,tourism,hotel,regular
+3742305533,highway,traffic_signals,regular
+3742305534,highway,traffic_signals,regular
+3742305538,highway,traffic_signals,regular
+3742305543,highway,traffic_signals,regular
+3743797229,city,New Delhi,addr
+3743797229,housenumber,321,addr
+3743797229,postcode,110014,addr
+3743797229,street,Mathura Road,addr
+3743797229,name,Pointersoft Technologies Pvt Ltd,regular
+3743797229,phone,+91 9953327284,regular
+3743797229,source,Website Designing Company,regular
+3743797229,website,http://www.pointersoft.in/,regular
+3743797229,wikipedia,en:User:Pointersoft Technologies Pvt Ltd,regular
+3744093251,name,Raisina Hill,regular
+3744093251,place,locality,regular
+3744313593,highway,bus_stop,regular
+3744313596,highway,bus_stop,regular
+3744313957,highway,bus_stop,regular
+3744313962,network,DMRC,regular
+3744313962,railway,subway_entrance,regular
+3744313963,network,DMRC,regular
+3744313963,railway,subway_entrance,regular
+3744340816,colour,orange,regular
+3744340816,network,DMRC,regular
+3744340816,railway,subway_entrance,regular
+3744490970,network,DMRC,regular
+3744490970,railway,subway_entrance,regular
+3744502768,bus,yes,regular
+3744502768,public_transport,stop_position,regular
+3744502773,bus,yes,regular
+3744502773,public_transport,stop_position,regular
+3744528116,bus,yes,regular
+3744528116,public_transport,stop_position,regular
+3746071221,colour,blue,regular
+3746071221,name,Khan Market,regular
+3746071221,network,DMRC,regular
+3746071221,railway,subway_entrance,regular
+3746071222,colour,blue,regular
+3746071222,name,Khan Market,regular
+3746071222,network,DMRC,regular
+3746071222,railway,subway_entrance,regular
+3746071223,name,Pandara Park,regular
+3746071223,place,neighbourhood,regular
+3746076240,highway,traffic_signals,regular
+3746076254,highway,traffic_signals,regular
+3746076255,highway,traffic_signals,regular
+3746076260,highway,traffic_signals,regular
+3773118757,power,tower,regular
+3778178587,man_made,water_tower,regular
+3813668638,amenity,bank,regular
+3813668638,atm,yes,regular
+3813668638,name,Federal Bank,regular
+3813668638,operator,Federal Bank,regular
+3813669622,name,Select Hotel,regular
+3813669622,tourism,hotel,regular
+3813671359,name,Hotel Alka Annexe,regular
+3813671359,tourism,hotel,regular
+3813671938,amenity,bank,regular
+3813671938,atm,yes,regular
+3813671938,name,State Bank of India,regular
+3813673635,name,Holiday Inn Hotels and Resorts,regular
+3813673635,tourism,hotel,regular
+3818760624,network,DMRC,regular
+3818760624,railway,subway_entrance,regular
+3818760625,network,DMRC,regular
+3818760625,railway,subway_entrance,regular
+3818760627,network,DMRC,regular
+3818760627,railway,subway_entrance,regular
+3818760629,network,DMRC,regular
+3818760629,railway,subway_entrance,regular
+3818760630,network,DMRC,regular
+3818760630,railway,subway_entrance,regular
+3818760631,network,DMRC,regular
+3818760631,railway,subway_entrance,regular
+3818760632,network,DMRC,regular
+3818760632,railway,subway_entrance,regular
+3818760633,network,DMRC,regular
+3818760633,railway,subway_entrance,regular
+3824288607,housenumber,Ayurvigyan Nagar,addr
+3824288607,postcode,110049,addr
+3824288607,street,August Kranti Marg,addr
+3824288607,building,apartments,regular
+3824288607,name,Faculty Transit Accommodation (FTA),regular
+3832251782,amenity,bank,regular
+3832251782,atm,no,regular
+3832251782,name,Yes Bank,regular
+3832408568,power,tower,regular
+3832408569,power,tower,regular
+3832408573,power,tower,regular
+3832408583,power,tower,regular
+3832408602,power,tower,regular
+3832408606,power,tower,regular
+3832408612,power,tower,regular
+3832408631,power,tower,regular
+3832408636,power,tower,regular
+3832419829,amenity,marketplace,regular
+3832419829,name,Yashwant Place,regular
+3837227050,city,New Delhi,addr
+3837227050,housenumber,F-39/B,addr
+3837227050,postcode,110092,addr
+3837227050,street,Vikas Marg,addr
+3837227050,name,Marketing Spirits - The Future of Digital Excellence,regular
+3837227050,phone,+91 9958080618,regular
+3837227050,website,http://marketingspirits.com,regular
+3837776885,name,Bharti Colony,regular
+3837776885,place,locality,regular
+3837776888,name,Kanti Nagar Extension,regular
+3837776888,place,locality,regular
+3847153657,city,Nueva Delhi,addr
+3847153657,street,Rao Tula Ram Marg,addr
+3847153657,name,Oficina de empadronamiento electoral de Bolivia en el exterior,regular
+3847153657,office,government,regular
+3847153657,website,http://yoparticipo.oep.org.bo/,regular
+3862442973,amenity,fast_food,regular
+3862442973,name,Dunkin Donuts,regular
+3875135580,street,Prithviraj Marg,addr
+3875135580,name,Rajasthan House,regular
+3883052658,amenity,restaurant,regular
+3883052658,cuisine,indian,regular
+3883052658,name,Nagaland Cafe,regular
+3885873379,amenity,cafe,regular
+3885873379,name,Amour,regular
+3912109223,city,Delhi,addr
+3912109223,housenumber,8892,addr
+3912109223,postcode,110055,addr
+3912109223,street,Nabi Karim Road,addr
+3912109223,name,Hotel Lal's Haveli,regular
+3912109223,phone,+9123614067,regular
+3912109223,smoking,no,regular
+3912109223,tourism,hotel,regular
+3912109223,website,http://hotellalhaveli.com,regular
+3933944266,name,Hotel Kabli,regular
+3933944266,tourism,hotel,regular
+3947460096,city,New Delhi,addr
+3947460096,housenumber,15,addr
+3947460096,postcode,201301,addr
+3947460096,street,Qutab Road,addr
+3947460096,amenity,hospital,regular
+3947460096,name,surbhi hospital,regular
+3947538443,name,sneha's market,regular
+3947538443,shop,supermarket,regular
+3947736174,tourism,hotel,regular
+3949841958,city,noida,addr
+3949841958,housename,b-2,addr
+3949841958,housenumber,24,addr
+3949841958,postcode,201301,addr
+3949841958,street,24,addr
+3949841958,name,bitcomm bike,regular
+3949841958,shop,bicycle,regular
+3949841959,city,noida,addr
+3949841959,housename,b-1,addr
+3949841959,housenumber,23,addr
+3949841959,postcode,201301,addr
+3949841959,street,23,addr
+3949841959,name,bitcomm mall,regular
+3949841959,shop,supermarket,regular
+3991739642,name,International Tourist Bureau,regular
+3991739642,note,Only place to buy train tickets,regular
+3991739642,tourism,information,regular
+3991739825,name,Vodafone,regular
+3991739825,office,it,regular
+3991741674,name,Comunist party of Indiq,regular
+3991741674,office,ngo,regular
+3991742063,amenity,restaurant,regular
+3991742063,name,Connection Beer company,regular
+3991742063,note,nice view,regular
+3991742064,name,shops,regular
+3991742064,tourism,yes,regular
+3991742065,name,Saris enloquecen gente,regular
+3991742177,name,khari bauli species  market,regular
+3991742178,name,Kinari Bazaar,regular
+3991742960,name,postal office,regular
+3991743108,name,photocopies and color prints,regular
+3991743108,shop,photo,regular
+3991743214,name,phoyocopies and color prints,regular
+3991743214,shop,photo,regular
+3991743215,amenity,fast_food,regular
+3991743215,name,The Embassy,regular
+3991743215,note,good panir,regular
+3991743216,name,Bahi Mati Dass museum,regular
+3991743217,amenity,bureau_de_change,regular
+3991743217,name,western union,regular
+3993156981,name,Hare Rama guest house,regular
+3993156981,tourism,guest_house,regular
+4000533606,name,Siddharth Enclave,regular
+4000533606,place,neighbourhood,regular
+4018089689,name,Hotel Grand Park Inn,regular
+4018089689,tourism,hotel,regular
+4030184789,amenity,place_of_worship,regular
+4030184789,name,Kali Mandir,regular
+4034161969,natural,tree,regular
+4034161970,natural,tree,regular
+4034161971,natural,tree,regular
+4034161972,natural,tree,regular
+4034161974,natural,tree,regular
+4034161975,natural,tree,regular
+4034161976,natural,tree,regular
+4034161977,natural,tree,regular
+4034161978,natural,tree,regular
+4034161980,natural,tree,regular
+4034161981,natural,tree,regular
+4034161983,natural,tree,regular
+4034161984,natural,tree,regular
+4034161985,natural,tree,regular
+4034161986,natural,tree,regular
+4034161987,natural,tree,regular
+4034161988,natural,tree,regular
+4034162314,natural,tree,regular
+4034162318,natural,tree,regular
+4034162319,natural,tree,regular
+4034162321,natural,tree,regular
+4034162322,natural,tree,regular
+4034162323,natural,tree,regular
+4034162325,natural,tree,regular
+4034162326,natural,tree,regular
+4034162327,natural,tree,regular
+4034162328,natural,tree,regular
+4034162330,natural,tree,regular
+4034162333,natural,tree,regular
+4034162334,natural,tree,regular
+4034162336,natural,tree,regular
+4034162337,natural,tree,regular
+4034162338,natural,tree,regular
+4034162339,natural,tree,regular
+4034162340,natural,tree,regular
+4034162341,natural,tree,regular
+4034162343,natural,tree,regular
+4034162344,natural,tree,regular
+4034162345,natural,tree,regular
+4034162346,natural,tree,regular
+4034162347,natural,tree,regular
+4034162348,natural,tree,regular
+4034162349,natural,tree,regular
+4034162350,natural,tree,regular
+4034162351,natural,tree,regular
+4034162353,natural,tree,regular
+4034162355,natural,tree,regular
+4034162357,natural,tree,regular
+4034162358,natural,tree,regular
+4034162359,natural,tree,regular
+4034162360,natural,tree,regular
+4034162361,natural,tree,regular
+4034162362,natural,tree,regular
+4034162389,natural,tree,regular
+4034162390,natural,tree,regular
+4034162392,natural,tree,regular
+4034162393,natural,tree,regular
+4034162395,natural,tree,regular
+4034162396,natural,tree,regular
+4034162397,natural,tree,regular
+4034162398,natural,tree,regular
+4034162401,natural,tree,regular
+4034162402,natural,tree,regular
+4034162403,natural,tree,regular
+4034162406,natural,tree,regular
+4034162407,natural,tree,regular
+4037764204,city,Delhi,addr
+4037764204,housenumber,122A,addr
+4037764204,postcode,110014,addr
+4037764204,street,Pocket-C Sidhartha Extension,addr
+4037764204,name,Vinod Kotiya,regular
+4037772776,amenity,kindergarten,regular
+4037772776,description,Vaanya's Second Preschool,regular
+4037772776,name,Mother's Pride,regular
+4037772776,operator,Jangpura Branch,regular
+4037779793,amenity,kindergarten,regular
+4037779793,description,Vaanya's First Preschool,regular
+4037779793,name,Petals School,regular
+4052563405,amenity,marketplace,regular
+4052563405,name,kamla market,regular
+4052563406,amenity,fast_food,regular
+4052563406,cuisine,burger,regular
+4052563406,name,McDonald's,regular
+4052563407,shop,books,regular
+4052563408,shop,clothes,regular
+4052563409,shop,gift,regular
+4052563410,shop,books,regular
+4052563411,amenity,fast_food,regular
+4052563411,cuisine,chicken,regular
+4052563411,name,KFC,regular
+4052563412,amenity,cafe,regular
+4052563413,amenity,atm,regular
+4052563414,shop,chocolate,regular
+4052699977,amenity,police,regular
+4052699977,name,police station,regular
+4052699982,name,DDA  Flats,regular
+4052699983,name,DDA flats,regular
+4052699984,name,DDA flats II,regular
+4052699985,name,DDA flats II,regular
+4052699986,name,DDA flats II,regular
+4052699987,name,DDA flats,regular
+4052699988,name,DDA flats II,regular
+4052700389,name,DDA flats II,regular
+4052700390,amenity,place_of_worship,regular
+4052700390,name,temple,regular
+4052700402,name,Service Officers Flat,regular
+4052700403,name,Nausena Bagh (naval),regular
+4052700417,amenity,fast_food,regular
+4052700417,name,Bikanere,regular
+4052700418,amenity,fast_food,regular
+4052700418,name,Mughlai chain of restaurants,regular
+4052700419,shop,jewelry,regular
+4052700420,shop,beauty,regular
+4052700421,name,Mini Market,regular
+4052700421,shop,convenience,regular
+4052700422,shop,jewelry,regular
+4052700423,name,Mini Market,regular
+4052700423,shop,convenience,regular
+4052700424,shop,beauty,regular
+4052700425,amenity,fast_food,regular
+4052700426,shop,jewelry,regular
+4052700427,amenity,fast_food,regular
+4061081497,housenumber,8718,addr
+4061081497,street,Deshbandu Gupta Road,addr
+4061081497,name,Hotel City Star,regular
+4061081497,opening_hours,Mo-Su 00:00-23:59,regular
+4061081497,tourism,hotel,regular
+4061081497,website,www.hotel-citystar.com,regular
+4061168625,access,no,regular
+4061168625,barrier,gate,regular
+4061168625,foot,permissive,regular
+4061168662,access,no,regular
+4061168662,barrier,gate,regular
+4061168662,foot,yes,regular
+4061168680,access,no,regular
+4061168680,barrier,gate,regular
+4061168680,foot,yes,regular
+4069814471,name,Levi's,regular
+4069814471,shop,clothes,regular
+4069815728,housenumber,B-23,addr
+4069815728,street,Connaught Place Inner Circle,addr
+4069815728,amenity,cafe,regular
+4069815728,name,Costa Coffee,regular
+4069858894,amenity,restaurant,regular
+4069858894,name,Gola,regular
+4069860437,name,Baťa,regular
+4069860437,shop,shoes,regular
+4071875072,amenity,post_office,regular
+4076659278,amenity,pharmacy,regular
+4076659278,name,R. S. Medicos,regular
+4076663723,name,White House,regular
+4076663723,tourism,hotel,regular
+4076669376,amenity,fast_food,regular
+4076669376,name,Jai Maha Kali,regular
+4076669377,name,Krishna Shoes,regular
+4076669377,shop,shoes,regular
+4076670006,name,Shell Deluxe,regular
+4076670006,tourism,hotel,regular
+4076670789,amenity,clinic,regular
+4076670789,name,Dr. Krishan Gola,regular
+4076672535,amenity,pharmacy,regular
+4076672535,name,Bhagwati Medicos,regular
+4077570689,amenity,pharmacy,regular
+4083435341,highway,traffic_signals,regular
+4083488821,name,Old Delhi,regular
+4083488821,old_name,Shahjahanabad,regular
+4083488821,place,suburb,regular
+4101512398,housenumber,8145/6,addr
+4101512398,street,Arakashan Road,addr
+4101512398,fax,+91-11-23557412,regular
+4101512398,name,Amax Inn,regular
+4101512398,phone,+91-11-23543813,regular
+4101512398,tourism,hotel,regular
+4101512398,website,http://www.hotelamax.com/,regular
+4109950994,name,Hotel S&b East Inn,regular
+4109950994,tourism,hotel,regular
+4114512206,street,Khan Market,addr
+4114512206,amenity,restaurant,regular
+4114512206,internet_access,wlan,regular
+4114512206,name,Market Café ,regular
+4114512206,website,www.marketcafe.in,regular
+4115261864,amenity,restaurant,regular
+4115261864,cuisine,pizza,regular
+4115261864,name,Pizza Hut,regular
+4115264025,amenity,fast_food,regular
+4115264025,cuisine,burger,regular
+4115264025,name,McDonald's,regular
+4117019216,city,New Delhi,addr
+4117019216,housenumber,8591,addr
+4117019216,postcode,110055,addr
+4117019216,street,Arakashan Road,addr
+4117019216,internet_access,wlan,regular
+4117019216,name,Bloomrooms,regular
+4117019216,phone,+91 11 412 25666,regular
+4117019216,smoking,no,regular
+4117019216,tourism,hotel,regular
+4117019216,website,http://bloomrooms.com/hotels-railwayst.php,regular
+4122535796,amenity,atm,regular
+4122549692,amenity,atm,regular
+4122549693,amenity,bank,regular
+4122549694,amenity,fuel,regular
+4122549694,name,Indian Oil,regular
+4122549695,amenity,bank,regular
+4122549792,amenity,bank,regular
+4122549793,amenity,fuel,regular
+4122549793,name,Indian Oil,regular
+4122564390,amenity,fast_food,regular
+4122564390,name,McDonald's,regular
+4122564391,amenity,atm,regular
+4122564392,amenity,post_box,regular
+4122564393,name,Bangla sweets,regular
+4122564393,shop,confectionery,regular
+4122590190,amenity,fuel,regular
+4122590190,name,Bharat Petroleum,regular
+4122592290,amenity,bank,regular
+4122592291,amenity,restaurant,regular
+4122592291,name,Odeon sweets,regular
+4125389689,highway,bus_stop,regular
+4133868434,highway,bus_stop,regular
+4133877118,shop,alcohol,regular
+4138200189,name,New King,regular
+4138200189,tourism,hotel,regular
+4159234789,housenumber,5 ,addr
+4159234789,street,Arakashan Road,addr
+4159234789,email,delhi@zostel.com,regular
+4159234789,internet_access,wlan,regular
+4159234789,name,Zostel,regular
+4159234789,phone,+918826290005,regular
+4159234789,tourism,hostel,regular
+4159234789,website,zostel.com,regular
+4208743593,housenumber,B21,addr
+4208743593,postcode,110092 ,addr
+4208743593,street,Vikas Marg,addr
+4208743593,email,sales@maharajaresidency.com,regular
+4208743593,internet_access,wlan,regular
+4208743593,name,Maharaja Residency ,regular
+4208743593,phone,+911122041111,regular
+4208743593,tourism,hotel,regular
+4208743593,website,www.maharajaresidency.com,regular
+4209873991,amenity,restaurant,regular
+4209873991,name,Imly,regular
+4210634436,highway,residential,regular
+4211222806,amenity,atm,regular
+4211222806,opening_hours,24/7,regular
+4211222806,operator,HDFC,regular
+4211222809,amenity,toilets,regular
+4211222809,opening_hours,24/7,regular
+4211222813,amenity,toilets,regular
+4211222816,leisure,playground,regular
+4211222822,name,habibs,regular
+4211222822,shop,cosmetics,regular
+4211222834,amenity,atm,regular
+4211222834,operator,hdfc,regular
+4211222837,amenity,atm,regular
+4211222837,operator,atm,regular
+4211254606,amenity,atm,regular
+4211254606,opening_hours,24/7,regular
+4211254606,operator,muthoot bank,regular
+4211254607,amenity,atm,regular
+4211254607,opening_hours,Mo-Su 07:00-22:00,regular
+4211254607,operator,SBT,regular
+4211254608,amenity,atm,regular
+4211254608,opening_hours,24/7,regular
+4211254608,operator,ICICI,regular
+4211254615,amenity,fast_food,regular
+4211254615,name,haldiram,regular
+4211259621,amenity,toilets,regular
+4211259621,opening_hours,24/7,regular
+4211259624,amenity,toilets,regular
+4211259624,opening_hours,24/7,regular
+4211259624,operator,south square mall,regular
+4211259628,name,habibs,regular
+4211259628,shop,cosmetics,regular
+4211259633,amenity,fast_food,regular
+4211259633,name,dominos,regular
+4211259635,amenity,theatre,regular
+4211259635,name,DT,regular
+4211259636,amenity,fast_food,regular
+4211259636,name,khandani pakode wala,regular
+4211259644,amenity,fast_food,regular
+4211259644,name,nirulas,regular
+4211274103,amenity,fast_food,regular
+4211274103,name,subway,regular
+4211293732,amenity,atm,regular
+4211293732,operator,atm,regular
+4211293736,shop,computer,regular
+4211293793,amenity,restaurant,regular
+4211293793,name,flaming wok,regular
+4211294407,amenity,toilets,regular
+4211294407,opening_hours,24/7,regular
+4211294514,shop,photo,regular
+4211294802,amenity,fuel,regular
+4211294802,name,petrol pump,regular
+4211994090,name,Hotel City Heights,regular
+4211994090,tourism,hotel,regular
+4211994391,amenity,restaurant,regular
+4211994391,name,Malhotra ,regular
+4219631339,name,People Tree,regular
+4219631339,shop,clothes,regular
+4219631340,amenity,restaurant,regular
+4219631340,name,Sam's Cafe,regular
+4220719494,amenity,school,regular
+4220719494,name,MAAC,regular
+4229086373,power,tower,regular
+4229086374,power,tower,regular
+4229086375,power,tower,regular
+4229086376,power,tower,regular
+4229086377,power,tower,regular
+4229086378,power,tower,regular
+4229086379,power,tower,regular
+4229086380,power,tower,regular
+4229086382,power,tower,regular
+4229086385,power,tower,regular
+4229086386,power,tower,regular
+4229086387,power,tower,regular
+4229086388,power,tower,regular
+4229086489,power,tower,regular
+4229086490,power,tower,regular
+4229086491,power,tower,regular
+4229086492,power,tower,regular
+4229086493,power,tower,regular
+4229086494,power,tower,regular
+4229086495,power,tower,regular
+4229086500,power,tower,regular
+4229086504,power,tower,regular
+4229086508,power,tower,regular
+4229086513,power,tower,regular
+4229086516,power,tower,regular
+4232257707,amenity,community_centre,regular
+4232257707,name,ndmc community centre,regular
+4232266401,amenity,community_centre,regular
+4232266401,name,ndmc community centre,regular
+4232268790,amenity,place_of_worship,regular
+4232268790,name,vinayak mandir,regular
+4237331291,amenity,atm,regular
+4237331291,opening_hours,24/7,regular
+4237331690,name,ANDREWZ Ganj extension Community Centre,regular
+4237331690,tourism,viewpoint,regular
+4241254891,amenity,cafe,regular
+4241254891,name,Starbucks,regular
+4241264489,amenity,fast_food,regular
+4241264489,name,McDonald's,regular
+4242828941,housenumber,d-2/10,addr
+4242828941,postcode,110051,addr
+4242828941,street,Krishna nagar ,addr
+4242828941,name,Seth Jewellers ,regular
+4242828941,shop,jewelry,regular
+4260460991,street,Main Bazaar,addr
+4260460991,name,the spot,regular
+4260460991,tourism,hostel,regular
+4262365091,amenity,cafe,regular
+4262365091,name,Festa Cafe ,regular
+4262377889,historic,monument,regular
+4262377889,name,Lenin,regular
+4262378089,amenity,bar,regular
+4262378089,name,My Love ,regular
+4273099247,city,New Delhi,addr
+4273099247,postcode,110 021,addr
+4273099247,street,Nyaya Marg,addr
+4273099247,amenity,embassy,regular
+4273099247,country,CH,regular
+4273099247,description,Also Programme Office,regular
+4273099247,name,Embassy of Switzerland,regular
+4273099247,de,Schweizerische Botschaft,name
+4273099247,es,Embajada de Suiza,name
+4273099247,fr,Ambassade de Suisse,name
+4273099247,phone,+91 11 4995 9500,regular
+4273099247,website,https://www.eda.admin.ch/newdelhi,regular
