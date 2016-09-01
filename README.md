@@ -100,5 +100,5 @@ indian 3
 North_Indian 2
 thai 2 Chinese_and_North_Indian 1 asian 1
 Conclusion
-After this review of the data it’s obvious that the Delhi area is largely incomplete.There are still several opportunities for cleaning and validation that I left unexplored, though I believe it has been well cleaned for the purposes of this exercise.the data set is populated only from one source: OpenStreetMaps. While this crowdsourced repository pulls from multiple sources, some of data is potentially outdated. It would have been an interesting exercise to validate and/or pull missing information from the Google Maps API, since every node has latitude­longitude coordinates.
+After this review of the data  it’s obvious that the Delhi area is largely incomplete.There are still several opportunities for cleaning and validation that I left unexplored, though I believe it has been well cleaned for the purposes of this exercise.the data set is populated only from one source: OpenStreetMaps. While this crowdsourced repository pulls from multiple sources, some of data is potentially outdated. It would have been an interesting exercise to validate and/or pull missing information from the Google Maps API, since every node has latitude­longitude coordinates.
         
